@@ -1,0 +1,51 @@
+[
+  {
+    "id": 59765,
+    "path": "<Pkg calendar_events>.<File src\\main\\ets\\viewModel\\ViewModel.ets>.CalendarEventVM.setEventInfo",
+    "row": 29,
+    "rol": 10,
+    "ATFD": 7,
+    "ATFDdetail": [
+      "<Pkg calendar_events>.<File src\\main\\ets\\model\\UserEventModel.ets>.UserEventItem.id",
+      "<Pkg calendar_events>.<File src\\main\\ets\\model\\UserEventModel.ets>.UserEventItem.eventType",
+      "<Pkg calendar_events>.<File src\\main\\ets\\model\\UserEventModel.ets>.UserEventItem.content",
+      "<Pkg calendar_events>.<File src\\main\\ets\\model\\UserEventModel.ets>.UserEventItem.repeatType",
+      "<Pkg calendar_events>.<File src\\main\\ets\\model\\UserEventModel.ets>.UserEventItem.isDone",
+      "<Pkg calendar_events>.<File src\\main\\ets\\model\\UserEventModel.ets>.UserEventItem.eventId",
+      "<Pkg calendar_events>.<File src\\main\\ets\\model\\UserEventModel.ets>.UserEventItem.remarks"
+    ],
+    "ALD": 1,
+    "ALDdetail": [
+      "<Pkg calendar_events>.<File src\\main\\ets\\viewModel\\ViewModel.ets>.CalendarEventVM.userEventInfo"
+    ],
+    "CPFD": 1,
+    "CPFDdetail": [
+      "<Pkg calendar_events>.<File src\\main\\ets\\model\\UserEventModel.ets>.UserEventItem"
+    ],
+    "LDA": "0.1250"
+  },
+  {
+    "id": 83134,
+    "path": "<Pkg bill_manage>.<File src\\main\\ets\\viewmodels\\AddBillVM.ets>.AddBillVM.handleBillInitialization",
+    "row": 24,
+    "rol": 10,
+    "ATFD": 6,
+    "ATFDdetail": [
+      "<Pkg bill_manage>.<File src\\main\\ets\\commons\\Models.ets>.BillManageModel.type",
+      "<Pkg bill_manage>.<File src\\main\\ets\\commons\\Models.ets>.BillManageModel.resource",
+      "<Pkg bill_manage>.<File src\\main\\ets\\commons\\Models.ets>.BillManageModel.amount",
+      "<Pkg bill_manage>.<File src\\main\\ets\\commons\\Models.ets>.BillManageModel.date",
+      "<Pkg bill_manage>.<File src\\main\\ets\\commons\\Models.ets>.BillManageModel.note",
+      "<Pkg bill_manage>.<File src\\main\\ets\\commons\\Models.ets>.BillManageModel.transactionId"
+    ],
+    "ALD": 1,
+    "ALDdetail": [
+      "<Pkg bill_manage>.<File src\\main\\ets\\viewmodels\\AddBillVM.ets>.AddBillVM.billData"
+    ],
+    "CPFD": 1,
+    "CPFDdetail": [
+      "<Pkg bill_manage>.<File src\\main\\ets\\commons\\Models.ets>.BillManageModel"
+    ],
+    "LDA": "0.1429"
+  }
+]

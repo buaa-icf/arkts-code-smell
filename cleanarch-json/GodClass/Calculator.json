@@ -1,0 +1,94 @@
+[
+  {
+    "id": 490,
+    "path": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil",
+    "row": 19,
+    "rol": 7,
+    "WOC": 52,
+    "WOCdetail": [
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.isSymbol",
+        "type": "method",
+        "complexity": 2
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.getPriority",
+        "type": "method",
+        "complexity": 6
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.comparePriority",
+        "type": "method",
+        "complexity": 2
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.parseExpression",
+        "type": "method",
+        "complexity": 12
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.dealQueue",
+        "type": "method",
+        "complexity": 9
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.calResult",
+        "type": "method",
+        "complexity": 6
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.add",
+        "type": "method",
+        "complexity": 4
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.mulOrDiv",
+        "type": "method",
+        "complexity": 4
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.containScientificNotation",
+        "type": "method",
+        "complexity": 1
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.numberToScientificNotation",
+        "type": "method",
+        "complexity": 4
+      },
+      {
+        "entity": "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.parseExpression.<Anon ArrowFunction>@86:25",
+        "type": "function",
+        "complexity": 2
+      }
+    ],
+    "ATFD": 9,
+    "ATFDdetail": [
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\Constant.ets>.CalcConstants.OPERATORS",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\Constant.ets>.CalcConstants.ADD",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\Constant.ets>.CalcConstants.MIN",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\Constant.ets>.CalcConstants.MUL",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\Constant.ets>.CalcConstants.DIV",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\Constant.ets>.CalcConstants.ZERO_DOTS",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\Constant.ets>.CalcConstants.DOTS",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\Constant.ets>.CalcConstants.TEN",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\Constant.ets>.CalcConstants.E"
+    ],
+    "TCC": 0,
+    "NOPUM": 10,
+    "NOPUMdetail": [
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.isSymbol",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.getPriority",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.comparePriority",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.parseExpression",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.dealQueue",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.calResult",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.add",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.mulOrDiv",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.containScientificNotation",
+      "<Pkg module_standard_calculator>.<File src\\main\\ets\\common\\CalculateUtil.ets>.CalculateUtil.numberToScientificNotation"
+    ],
+    "TCCOP": 0,
+    "TCCOPdetail": []
+  }
+]

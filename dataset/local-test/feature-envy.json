@@ -1,0 +1,38 @@
+[
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/wifi.ets",
+    "messages": [
+      {
+        "line": 340,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'isNeedRenderConnectedWiFi' is feature-envious toward 'WiFiMenuModel' (ATFD=5, LDA=0.17, CPFD=1). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/comp/AccountCard.ets",
+    "messages": [
+      {
+        "line": 31,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'updateBookCoins' is feature-envious toward 'AppStorage' (ATFD=5, LDA=0.00, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/RechargePage.ets",
+    "messages": [
+      {
+        "line": 18,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'updateBookCoins' is feature-envious toward 'AppStorage' (ATFD=5, LDA=0.00, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  }
+]

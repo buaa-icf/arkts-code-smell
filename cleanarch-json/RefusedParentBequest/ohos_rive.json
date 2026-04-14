@@ -1,0 +1,805 @@
+[
+  {
+    "sid": 651,
+    "pid": 784,
+    "spath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RiveArtboardRenderer.ets>.RiveArtboardRenderer",
+    "srow": 37,
+    "srol": 14,
+    "ppath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer",
+    "prow": 28,
+    "prol": 23,
+    "BUR": 0.0975609756097561,
+    "BOVR": 0.058823529411764705,
+    "woc": 20,
+    "norm": 10,
+    "details": {
+      "childMethods": 10,
+      "childNorm": 10,
+      "parentMethods": 34,
+      "parentNorm": 30,
+      "parentFields": 7,
+      "totalParentMembers": 41,
+      "usedParentMembers": [
+        {
+          "name": "constructor",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.constructor"
+        },
+        {
+          "name": "stop",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.stop"
+        },
+        {
+          "name": "start",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.start"
+        },
+        {
+          "name": "disposeDependencies",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.disposeDependencies"
+        }
+      ],
+      "overriddenMethods": [
+        {
+          "name": "constructor"
+        },
+        {
+          "name": "disposeDependencies"
+        }
+      ],
+      "unusedParentMethods": [
+        {
+          "name": "cppStart",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppStart"
+        },
+        {
+          "name": "cppStop",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppStop"
+        },
+        {
+          "name": "cppSave",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppSave"
+        },
+        {
+          "name": "cppRestore",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppRestore"
+        },
+        {
+          "name": "cppWidth",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppWidth"
+        },
+        {
+          "name": "cppHeight",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppHeight"
+        },
+        {
+          "name": "cppAvgFps",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppAvgFps"
+        },
+        {
+          "name": "cppDoFrame",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppDoFrame"
+        },
+        {
+          "name": "cppSetSurface",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppSetSurface"
+        },
+        {
+          "name": "cppDestroySurface",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppDestroySurface"
+        },
+        {
+          "name": "cppAlign",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppAlign"
+        },
+        {
+          "name": "cppTransform",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppTransform"
+        },
+        {
+          "name": "getCppRenderer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.getCppRenderer"
+        },
+        {
+          "name": "make",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.make"
+        },
+        {
+          "name": "setRendererType",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.setRendererType"
+        },
+        {
+          "name": "setSurface",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.setSurface"
+        },
+        {
+          "name": "setSharedSurface",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.setSharedSurface"
+        },
+        {
+          "name": "stopThread",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.stopThread"
+        },
+        {
+          "name": "destroySurface",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.destroySurface"
+        },
+        {
+          "name": "scheduleFrame",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.scheduleFrame"
+        },
+        {
+          "name": "save",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.save"
+        },
+        {
+          "name": "restore",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.restore"
+        },
+        {
+          "name": "width",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.width"
+        },
+        {
+          "name": "height",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.height"
+        },
+        {
+          "name": "averageFps",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.averageFps"
+        },
+        {
+          "name": "align",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.align"
+        },
+        {
+          "name": "transform",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.transform"
+        },
+        {
+          "name": "scale",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.scale"
+        },
+        {
+          "name": "translate",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.translate"
+        },
+        {
+          "name": "delete",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.delete"
+        }
+      ],
+      "unusedParentFields": [
+        {
+          "name": "uiContext",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.uiContext"
+        },
+        {
+          "name": "type",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.type"
+        },
+        {
+          "name": "trace",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.trace"
+        },
+        {
+          "name": "isPlaying",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.isPlaying"
+        },
+        {
+          "name": "isAttached",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.isAttached"
+        },
+        {
+          "name": "sharedSurface",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.sharedSurface"
+        },
+        {
+          "name": "framCallBack",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.framCallBack"
+        }
+      ]
+    }
+  },
+  {
+    "sid": 784,
+    "pid": 2083,
+    "spath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer",
+    "srow": 28,
+    "srol": 23,
+    "ppath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject",
+    "prow": 19,
+    "prol": 23,
+    "BUR": 0.1875,
+    "BOVR": 0.08333333333333333,
+    "woc": 43,
+    "norm": 30,
+    "details": {
+      "childMethods": 34,
+      "childNorm": 30,
+      "parentMethods": 12,
+      "parentNorm": 12,
+      "parentFields": 4,
+      "totalParentMembers": 16,
+      "usedParentMembers": [
+        {
+          "name": "NULL_POINTER",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.NULL_POINTER"
+        },
+        {
+          "name": "constructor",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.constructor"
+        },
+        {
+          "name": "cppDelete",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppDelete"
+        }
+      ],
+      "overriddenMethods": [
+        {
+          "name": "constructor"
+        }
+      ],
+      "unusedParentMethods": [
+        {
+          "name": "hasCppObject",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.hasCppObject"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "checkPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.checkPointer"
+        },
+        {
+          "name": "acquire",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.acquire"
+        },
+        {
+          "name": "release",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.release"
+        },
+        {
+          "name": "addDependency",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.addDependency"
+        },
+        {
+          "name": "removeDependency",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.removeDependency"
+        },
+        {
+          "name": "dispose",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dispose"
+        },
+        {
+          "name": "safeNativeCall",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.safeNativeCall"
+        }
+      ],
+      "unusedParentFields": [
+        {
+          "name": "_unsafeCppPointer",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject._unsafeCppPointer"
+        },
+        {
+          "name": "refs",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.refs"
+        },
+        {
+          "name": "dependencies",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dependencies"
+        }
+      ]
+    }
+  },
+  {
+    "sid": 1287,
+    "pid": 2083,
+    "spath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelInstance",
+    "srow": 39,
+    "srol": 14,
+    "ppath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject",
+    "prow": 19,
+    "prol": 23,
+    "BUR": 0.125,
+    "BOVR": 0.16666666666666666,
+    "woc": 40,
+    "norm": 20,
+    "details": {
+      "childMethods": 33,
+      "childNorm": 20,
+      "parentMethods": 12,
+      "parentNorm": 12,
+      "parentFields": 4,
+      "totalParentMembers": 16,
+      "usedParentMembers": [
+        {
+          "name": "constructor",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.constructor"
+        },
+        {
+          "name": "addDependency",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.addDependency"
+        }
+      ],
+      "overriddenMethods": [
+        {
+          "name": "constructor"
+        },
+        {
+          "name": "cppDelete"
+        }
+      ],
+      "unusedParentMethods": [
+        {
+          "name": "hasCppObject",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.hasCppObject"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "checkPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.checkPointer"
+        },
+        {
+          "name": "acquire",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.acquire"
+        },
+        {
+          "name": "release",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.release"
+        },
+        {
+          "name": "removeDependency",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.removeDependency"
+        },
+        {
+          "name": "dispose",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dispose"
+        },
+        {
+          "name": "cppDelete",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppDelete"
+        },
+        {
+          "name": "safeNativeCall",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.safeNativeCall"
+        }
+      ],
+      "unusedParentFields": [
+        {
+          "name": "NULL_POINTER",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.NULL_POINTER"
+        },
+        {
+          "name": "_unsafeCppPointer",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject._unsafeCppPointer"
+        },
+        {
+          "name": "refs",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.refs"
+        },
+        {
+          "name": "dependencies",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dependencies"
+        }
+      ]
+    }
+  },
+  {
+    "sid": 1527,
+    "pid": 1424,
+    "spath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelListProperty",
+    "srow": 512,
+    "srol": 14,
+    "ppath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty",
+    "prow": 294,
+    "prol": 23,
+    "BUR": 0,
+    "BOVR": 0,
+    "woc": 30,
+    "norm": 18,
+    "details": {
+      "childMethods": 19,
+      "childNorm": 18,
+      "parentMethods": 10,
+      "parentNorm": 10,
+      "parentFields": 1,
+      "totalParentMembers": 11,
+      "usedParentMembers": [],
+      "overriddenMethods": [],
+      "unusedParentMethods": [
+        {
+          "name": "constructor",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.constructor"
+        },
+        {
+          "name": "cppName",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.cppName"
+        },
+        {
+          "name": "cppHasChanged",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.cppHasChanged"
+        },
+        {
+          "name": "cppFlushChanges",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.cppFlushChanges"
+        },
+        {
+          "name": "name",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.name"
+        },
+        {
+          "name": "value",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.value"
+        },
+        {
+          "name": "value",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.value"
+        },
+        {
+          "name": "valueFlow",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.valueFlow"
+        },
+        {
+          "name": "isSubscribed",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.isSubscribed"
+        },
+        {
+          "name": "pollChanges",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.pollChanges"
+        }
+      ],
+      "unusedParentFields": [
+        {
+          "name": "valueSubject",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\ViewModelInstance.ets>.ViewModelProperty.valueSubject"
+        }
+      ]
+    }
+  },
+  {
+    "sid": 1708,
+    "pid": 2083,
+    "spath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\StateMachineInstance.ets>.StateMachineInstance",
+    "srow": 43,
+    "srol": 14,
+    "ppath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject",
+    "prow": 19,
+    "prol": 23,
+    "BUR": 0.125,
+    "BOVR": 0.16666666666666666,
+    "woc": 60,
+    "norm": 40,
+    "details": {
+      "childMethods": 40,
+      "childNorm": 40,
+      "parentMethods": 12,
+      "parentNorm": 12,
+      "parentFields": 4,
+      "totalParentMembers": 16,
+      "usedParentMembers": [
+        {
+          "name": "constructor",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.constructor"
+        },
+        {
+          "name": "addDependency",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.addDependency"
+        }
+      ],
+      "overriddenMethods": [
+        {
+          "name": "constructor"
+        },
+        {
+          "name": "cppDelete"
+        }
+      ],
+      "unusedParentMethods": [
+        {
+          "name": "hasCppObject",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.hasCppObject"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "checkPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.checkPointer"
+        },
+        {
+          "name": "acquire",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.acquire"
+        },
+        {
+          "name": "release",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.release"
+        },
+        {
+          "name": "removeDependency",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.removeDependency"
+        },
+        {
+          "name": "dispose",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dispose"
+        },
+        {
+          "name": "cppDelete",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppDelete"
+        },
+        {
+          "name": "safeNativeCall",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.safeNativeCall"
+        }
+      ],
+      "unusedParentFields": [
+        {
+          "name": "NULL_POINTER",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.NULL_POINTER"
+        },
+        {
+          "name": "_unsafeCppPointer",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject._unsafeCppPointer"
+        },
+        {
+          "name": "refs",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.refs"
+        },
+        {
+          "name": "dependencies",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dependencies"
+        }
+      ]
+    }
+  },
+  {
+    "sid": 2139,
+    "pid": 2083,
+    "spath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\LinearAnimationInstance.ets>.LinearAnimationInstance",
+    "srow": 23,
+    "srol": 22,
+    "ppath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject",
+    "prow": 19,
+    "prol": 23,
+    "BUR": 0.0625,
+    "BOVR": 0.08333333333333333,
+    "woc": 35,
+    "norm": 19,
+    "details": {
+      "childMethods": 34,
+      "childNorm": 19,
+      "parentMethods": 12,
+      "parentNorm": 12,
+      "parentFields": 4,
+      "totalParentMembers": 16,
+      "usedParentMembers": [
+        {
+          "name": "constructor",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.constructor"
+        }
+      ],
+      "overriddenMethods": [
+        {
+          "name": "constructor"
+        }
+      ],
+      "unusedParentMethods": [
+        {
+          "name": "hasCppObject",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.hasCppObject"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "checkPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.checkPointer"
+        },
+        {
+          "name": "acquire",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.acquire"
+        },
+        {
+          "name": "release",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.release"
+        },
+        {
+          "name": "addDependency",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.addDependency"
+        },
+        {
+          "name": "removeDependency",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.removeDependency"
+        },
+        {
+          "name": "dispose",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dispose"
+        },
+        {
+          "name": "cppDelete",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppDelete"
+        },
+        {
+          "name": "safeNativeCall",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.safeNativeCall"
+        }
+      ],
+      "unusedParentFields": [
+        {
+          "name": "NULL_POINTER",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.NULL_POINTER"
+        },
+        {
+          "name": "_unsafeCppPointer",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject._unsafeCppPointer"
+        },
+        {
+          "name": "refs",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.refs"
+        },
+        {
+          "name": "dependencies",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dependencies"
+        }
+      ]
+    }
+  },
+  {
+    "sid": 2209,
+    "pid": 2083,
+    "spath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\LayerState.ets>.LayerState",
+    "srow": 21,
+    "srol": 22,
+    "ppath": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject",
+    "prow": 19,
+    "prol": 23,
+    "BUR": 0.0625,
+    "BOVR": 0.08333333333333333,
+    "woc": 16,
+    "norm": 16,
+    "details": {
+      "childMethods": 16,
+      "childNorm": 16,
+      "parentMethods": 12,
+      "parentNorm": 12,
+      "parentFields": 4,
+      "totalParentMembers": 16,
+      "usedParentMembers": [
+        {
+          "name": "constructor",
+          "type": "method",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.constructor"
+        }
+      ],
+      "overriddenMethods": [
+        {
+          "name": "constructor"
+        }
+      ],
+      "unusedParentMethods": [
+        {
+          "name": "hasCppObject",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.hasCppObject"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "cppPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppPointer"
+        },
+        {
+          "name": "checkPointer",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.checkPointer"
+        },
+        {
+          "name": "acquire",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.acquire"
+        },
+        {
+          "name": "release",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.release"
+        },
+        {
+          "name": "addDependency",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.addDependency"
+        },
+        {
+          "name": "removeDependency",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.removeDependency"
+        },
+        {
+          "name": "dispose",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dispose"
+        },
+        {
+          "name": "cppDelete",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.cppDelete"
+        },
+        {
+          "name": "safeNativeCall",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.safeNativeCall"
+        }
+      ],
+      "unusedParentFields": [
+        {
+          "name": "NULL_POINTER",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.NULL_POINTER"
+        },
+        {
+          "name": "_unsafeCppPointer",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject._unsafeCppPointer"
+        },
+        {
+          "name": "refs",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.refs"
+        },
+        {
+          "name": "dependencies",
+          "type": "field",
+          "fullname": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\core\\NativeObject.ets>.NativeObject.dependencies"
+        }
+      ]
+    }
+  }
+]

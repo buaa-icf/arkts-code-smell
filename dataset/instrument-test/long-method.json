@@ -1,0 +1,129 @@
+[
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/components/reader_tool_bar/src/main/ets/components/ReaderToolBar.ets",
+    "messages": [
+      {
+        "line": 140,
+        "column": 3,
+        "severity": "WARN",
+        "message": "Method 'buildSettingSheet' is too long. Consider refactoring. (Current: 113 lines, Max: 80)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_home/src/main/ets/views/SearchPage.ets",
+    "messages": [
+      {
+        "line": 88,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 125 lines, Max: 120)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/comp/MyInfoCard.ets",
+    "messages": [
+      {
+        "line": 144,
+        "column": 3,
+        "severity": "WARN",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 104 lines, Max: 80)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/AboutPage.ets",
+    "messages": [
+      {
+        "line": 61,
+        "column": 3,
+        "severity": "WARN",
+        "message": "Method 'aboutCardView' is too long. Consider refactoring. (Current: 115 lines, Max: 80)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/FeedbackPage.ets",
+    "messages": [
+      {
+        "line": 25,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 127 lines, Max: 120)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/LoginPage.ets",
+    "messages": [
+      {
+        "line": 110,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'handleLoginWithHuaweiIDButton' is too long. Consider refactoring. (Current: 56 lines, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      },
+      {
+        "line": 229,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 161 lines, Max: 120)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/MemberAgreementPage.ets",
+    "messages": [
+      {
+        "line": 7,
+        "column": 3,
+        "severity": "WARN",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 116 lines, Max: 80)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/MemberCenterPage.ets",
+    "messages": [
+      {
+        "line": 23,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 176 lines, Max: 120)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/RechargePage.ets",
+    "messages": [
+      {
+        "line": 30,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 151 lines, Max: 120)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_read_kit/src/main/ets/components/BookCoverCard.ets",
+    "messages": [
+      {
+        "line": 42,
+        "column": 3,
+        "severity": "WARN",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 94 lines, Max: 80)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  }
+]

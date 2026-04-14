@@ -1,0 +1,12 @@
+local-test
+feature-envy: 3
+long-method: 2
+switch-statement: 20
+total: 25
+
+instrument-test
+data-clumps: 2
+long-method: 11
+total: 13
+
+total: 38

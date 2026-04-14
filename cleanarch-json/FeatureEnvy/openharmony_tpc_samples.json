@@ -1,0 +1,33 @@
+[
+  {
+    "id": 41788,
+    "path": "<Pkg @ohos/video-cache>.<File src\\main\\ets\\HttpProxyCacheServer.ets>.HttpProxyCacheServer.shutdown",
+    "row": 314,
+    "rol": 10,
+    "ATFD": 11,
+    "ATFDdetail": [
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.SHUT_DOWN_TASKPOOL",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.PING_EVENT_ID",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.SEND_TOTAL_SIZE_ID",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.SEND_ACCEPT_ID",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.COUNT_TOTAL_SIZE_ID",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.COUNT_TOTAL_SIZE_START_ID",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.COUNT_TOTAL_SIZE_END_ID",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.GET_ACCEPT_ID",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.HTTP_URL_SOURCE_READY_ID",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.SERVER_READY_ID",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant.RENAME_FINISH_ID"
+    ],
+    "ALD": 3,
+    "ALDdetail": [
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\HttpProxyCacheServer.ets>.HttpProxyCacheServer.config",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\HttpProxyCacheServer.ets>.HttpProxyCacheServer.clientSocket",
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\HttpProxyCacheServer.ets>.HttpProxyCacheServer.serverSocket"
+    ],
+    "CPFD": 1,
+    "CPFDdetail": [
+      "<Pkg @ohos/video-cache>.<File src\\main\\ets\\constant\\VideoCacheConstant.ets>.VideoCacheConstant"
+    ],
+    "LDA": "0.2143"
+  }
+]

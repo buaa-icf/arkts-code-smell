@@ -1,0 +1,237 @@
+[
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/model/accessibilityImpl/AccessibilitySettingModel.ets",
+    "messages": [
+      {
+        "line": 3,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 10 cases detected in method 'accessibilityConfigSetting'. Consider using polymorphism or strategy. Case line counts: 'highContrastText' (7 lines); 'invertColor' (7 lines); 'animationOff' (7 lines); 'audioMono' (7 lines); 'mouseKey' (7 lines); 'shortKey' (7 lines); 'captions' (7 lines); 'daltonizationState' (7 lines); 'ignoreRepeatClick' (7 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/accessibilityScreenTouch.ets",
+    "messages": [
+      {
+        "line": 4,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 6 cases detected in method 'setNumberBecomeValue'. Consider using polymorphism or strategy. Case line counts: 0 (4 lines); 25 (4 lines); 50 (4 lines); 75 (4 lines); 100 (4 lines); default (5 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "messages": [
+      {
+        "line": 2,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 6 cases detected in method 'updateCaServerCertVisibility'. Consider using polymorphism or strategy. Case line counts: VpnTypeModel.TYPE_IKEV2_IPSEC_MSCHAPv2 (1 line); VpnTypeModel.TYPE_IKEV2_IPSEC_RSA (1 line); VpnTypeModel.TYPE_L2TP_IPSEC_RSA (1 line); VpnTypeModel.TYPE_IPSEC_XAUTH_RSA (1 line); VpnTypeModel.TYPE_IPSEC_HYBRID_RSA (3 lines); default (3 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      },
+      {
+        "line": 2,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 6 cases detected in method 'updateIpsecIdentifierVisibility'. Consider using polymorphism or strategy. Case line counts: VpnTypeModel.TYPE_IKEV2_IPSEC_MSCHAPv2 (1 line); VpnTypeModel.TYPE_IKEV2_IPSEC_PSK (1 line); VpnTypeModel.TYPE_IKEV2_IPSEC_RSA (1 line); VpnTypeModel.TYPE_L2TP_IPSEC_PSK (1 line); VpnTypeModel.TYPE_IPSEC_XAUTH_PSK (3 lines); default (3 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/vpn/vpnLine.ets",
+    "messages": [
+      {
+        "line": 118,
+        "column": 5,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 6 cases detected in method 'onConnectStateChange'. Consider using polymorphism or strategy. Case line counts: VpnConstant.VPN_STATE_CONNECTING (3 lines); VpnConstant.VPN_STATE_CONNECTED (3 lines); VpnConstant.VPN_STATE_DISCONNECTING (3 lines); VpnConstant.VPN_STATE_DISCONNECTED (3 lines); VpnConstant.VPN_STATE_CONNECT_FAILED (3 lines); default (6 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_photos/feature/editor/src/main/ets/default/view/CropStyleBar.ets",
+    "messages": [
+      {
+        "line": 9,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Long if-else chain with 8 branches detected in method 'onRotateClicked'. Consider using polymorphism or strategy.",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/MoneyTrack/components/bill_data_processing/src/main/ets/utils/basedb/BaseDB.ets",
+    "messages": [
+      {
+        "line": 281,
+        "column": 5,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 13 cases detected in method '_buildPredicates'. Consider using polymorphism or strategy. Case line counts: DBOperator.EQUAL (3 lines); DBOperator.NOT_EQUAL (3 lines); DBOperator.GREATER (3 lines); DBOperator.GREATER_OR_EQUAL (3 lines); DBOperator.LESS (3 lines); DBOperator.LESS_OR_EQUAL (3 lines); DBOperator.LIKE (3 lines); DBOperator.IS_NULL (3 lines); DBOperator.IS_NOT_NULL (3 lines); DBOperator.BEGIN_WITH (3 lines); DBOperator.END_WITH (3 lines); DBOperator.CONTAIN (3 lines); default (5 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/MoneyTrack/components/bill_manage/src/main/ets/components/CustomKeyboard.ets",
+    "messages": [
+      {
+        "line": 4,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 8 cases detected in method 'handleClick'. Consider using polymorphism or strategy. Case line counts: CustomKeyboardButtonType.NUMBER (3 lines); CustomKeyboardButtonType.CALENDAR (3 lines); CustomKeyboardButtonType.SUBTRACTION (5 lines); CustomKeyboardButtonType.ADDITION (5 lines); CustomKeyboardButtonType.POINT (6 lines); CustomKeyboardButtonType.DELETE (8 lines); CustomKeyboardButtonType.CONFIRM (3 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/Notes/components/secretlock/src/main/ets/util/AuthUtil.ets",
+    "messages": [
+      {
+        "line": 2,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Long if-else chain with 15 branches detected in method 'getErrorMsg'. Consider using polymorphism or strategy.",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/commons/datasource/src/main/ets/ExamService.ets",
+    "messages": [
+      {
+        "line": 5,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 15 cases detected in method 'getExamQuestionList'. Consider using polymorphism or strategy. Case line counts: EXAM_MANAGER_TYPE.sequence (3 lines); EXAM_MANAGER_TYPE.random (4 lines); EXAM_MANAGER_TYPE.chapter_name (8 lines); EXAM_MANAGER_TYPE.easy (3 lines); EXAM_MANAGER_TYPE.simple (3 lines); EXAM_MANAGER_TYPE.normal (3 lines); EXAM_MANAGER_TYPE.mistake (5 lines); EXAM_MANAGER_TYPE.difficult (3 lines); EXAM_MANAGER_TYPE.single (3 lines); EXAM_MANAGER_TYPE.multi (3 lines); EXAM_MANAGER_TYPE.judging (3 lines); EXAM_MANAGER_TYPE.error (3 lines); EXAM_MANAGER_TYPE.collect (3 lines); EXAM_MANAGER_TYPE.search (3 lines); EXAM_MANAGER_TYPE.mock_exam (3 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/specialExercises/SpecialExercisesView.ets",
+    "messages": [
+      {
+        "line": 29,
+        "column": 5,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 7 cases detected in method 'setQuestionCount'. Consider using polymorphism or strategy. Case line counts: EXAM_MANAGER_TYPE.easy (3 lines); EXAM_MANAGER_TYPE.simple (3 lines); EXAM_MANAGER_TYPE.normal (3 lines); EXAM_MANAGER_TYPE.mistake (3 lines); EXAM_MANAGER_TYPE.difficult (7 lines); EXAM_MANAGER_TYPE.single (3 lines); EXAM_MANAGER_TYPE.judging (5 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/ArtTraining/Application/feature/mine/src/main/ets/utils/OrderUtil.ets",
+    "messages": [
+      {
+        "line": 2,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 8 cases detected in method 'handleOrderOperation'. Consider using polymorphism or strategy. Case line counts: OrderActionMap.IMMEDIATE_PAYMENT (3 lines); OrderActionMap.CANCEL_ORDER (3 lines); OrderActionMap.CONTACT_CUSTOMER_SERVICE (11 lines); OrderActionMap.REQUEST_REFUND (3 lines); OrderActionMap.CANCEL_REFUND (3 lines); OrderActionMap.REORDER (6 lines); OrderActionMap.DELETE (3 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/commonlib/src/main/ets/utils/FormatUtil.ets",
+    "messages": [
+      {
+        "line": 121,
+        "column": 5,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 10 cases detected in method 'getTransactionStateTitle'. Consider using polymorphism or strategy. Case line counts: 1 (2 lines); 2 (2 lines); 3 (2 lines); 4 (2 lines); default (5 lines); 1 (2 lines); 2 (2 lines); 3 (2 lines); 4 (2 lines); default (7 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FoodAndDrinkTemplate/TeaDrinkOrders/commons/common/src/main/ets/mock/MockResponse.ets",
+    "messages": [
+      {
+        "line": 4,
+        "column": 2,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 29 cases detected in method 'getMockResponse'. Consider using polymorphism or strategy. Case line counts: RequestUrl.GET_HM_SYSTEM_URL (2 lines); RequestUrl.GET_LOGIN_HM_URL (2 lines); RequestUrl.MODIFY_USER_INFO (2 lines); RequestUrl.GET_OPEN_LOGIN_HM_URL (2 lines); RequestUrl.GET_CLOSE_LOGIN_HM_URL (2 lines); RequestUrl.GET_COUPONS_URL (2 lines); RequestUrl.GET_STORE_LIST_URL (2 lines); RequestUrl.GET_STORE_INFO_URL (2 lines); RequestUrl.GET_DISHES_LIST_URL (2 lines); RequestUrl.GET_DEL_CAR_URL (2 lines); RequestUrl.GET_ADD_DN_ORDER_URL (2 lines); RequestUrl.GET_MY_ORDER_URL (2 lines); RequestUrl.GET_CANCEL_ORDER_URL (2 lines); RequestUrl.GET_ORDER_INFO_URL (2 lines); RequestUrl.LQ_COUPONS_URL (2 lines); RequestUrl.GET_MY_CAR_URL (2 lines); RequestUrl.GET_UPD_CAR_URL (2 lines); RequestUrl.GET_GOOD_INFO_URL (2 lines); RequestUrl.GET_GOOD_SPEC_URL (2 lines); RequestUrl.GET_ADD_CAR_URL (2 lines); RequestUrl.GET_MY_COUPONS_URL (2 lines); RequestUrl.GET_DELETE_ORDER_URL (2 lines); RequestUrl.GET_HUAWEI_PAY_INFO_URL (2 lines); RequestUrl.GET_USER_ADDRESS_LIST (2 lines); RequestUrl.GET_USER_ADDRESS (2 lines); RequestUrl.MODIFY_USER_ADDRESS (2 lines); RequestUrl.DELETE_USER_ADDRESS (2 lines); RequestUrl.GET_PRIVACY_INFO (2 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/HealthAndFitnessTemplate/FitnessCenter/common/external_interactions/src/main/ets/Service/MockService.ets",
+    "messages": [
+      {
+        "line": 2,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 6 cases detected in method 'getBookStateString'. Consider using polymorphism or strategy. Case line counts: BookState.ALL (2 lines); BookState.TO_BE_USE (2 lines); BookState.COMPLETED (2 lines); BookState.EXPIRED (2 lines); BookState.CANCELED (2 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/HouseholdService/commons/lib_foundation/src/main/ets/http/HttpMockMap.ets",
+    "messages": [
+      {
+        "line": 24,
+        "column": 2,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 8 cases detected in method 'MockApi'. Consider using polymorphism or strategy. Case line counts: URL_MAP.LOGIN_WITH_HUAWEI_ID (2 lines); URL_MAP.GET_USER_INFO (2 lines); URL_MAP.UPDATE_USER_INFO (2 lines); URL_MAP.GET_HOME_INFO (2 lines); URL_MAP.UPDATE_CITY_SELECTED (2 lines); URL_MAP.UPDATE_CITY_CURRENT (2 lines); URL_MAP.GET_CATEGORY_INFO (2 lines); URL_MAP.GET_GOOD_LIST (2 lines); URL_MAP.GET_GOOD (2 lines); URL_MAP.PRE_ORDER (2 lines); URL_MAP.PAY_ORDER (2 lines); URL_MAP.GET_ORDER_LIST (2 lines); URL_MAP.GET_ORDER (2 lines); URL_MAP.REFUND (2 lines); URL_MAP.CANCEL_ORDER (2 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/LifeBeauty/commons/utils/src/main/ets/http/AxiosBase.ets",
+    "messages": [
+      {
+        "line": 53,
+        "column": 2,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 21 cases detected in method 'getMockResponse'. Consider using polymorphism or strategy. Case line counts: URL_MAP.LOGIN_WITH_HUAWEI_ID (2 lines); URL_MAP.REFRESH_TOKEN (2 lines); URL_MAP.BIND_MOBILE_WITH_CODE (2 lines); URL_MAP.CONFIRM_REBIND_MOBILE (2 lines); URL_MAP.GET_USER_INFO (2 lines); URL_MAP.UNBIND_MOBILE (2 lines); URL_MAP.GET_STORE_INFO (2 lines); URL_MAP.GET_STORE_LIST (2 lines); URL_MAP.GET_GOOD_LIST (2 lines); URL_MAP.GET_APPOINTMENT_LIST (2 lines); URL_MAP.CREATE_APPOINTMENT_INFO (2 lines); URL_MAP.UPDATE_APPOINTMENT_INFO (2 lines); URL_MAP.CANCEL_APPOINTMENT (2 lines); URL_MAP.ACTIVE_MEMBER_CARD (2 lines); URL_MAP.GET_SINGLE_VISIT_CARD_LIST (2 lines); URL_MAP.GET_GROUP_LIST (2 lines); URL_MAP.PRE_ORDER (2 lines); URL_MAP.GET_MY_SINGLE_VISIT_CARD_LIST (2 lines); URL_MAP.GET_MY_GROUP_LIST (2 lines); URL_MAP.REFUND_GROUP (2 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/Parking/commons/componentLib/src/main/ets/components/CommonKeyboard.ets",
+    "messages": [
+      {
+        "line": 2,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 8 cases detected in method 'intDisableKey'. Consider using polymorphism or strategy. Case line counts: 1 (3 lines); 2 (1 line); 3 (1 line); 4 (1 line); 5 (1 line); 7 (3 lines); 6 (3 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/commons/lib_common/src/main/ets/httprequest/AxiosHttp.ets",
+    "messages": [
+      {
+        "line": 4,
+        "column": 2,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 16 cases detected in method 'getMockResponse'. Consider using polymorphism or strategy. Case line counts: RequestUrl.GET_SHOPPING_MALL_INFO_URL (2 lines); RequestUrl.GET_USER_INFO (2 lines); RequestUrl.ADD_PLATE_NUMBER (2 lines); RequestUrl.DELETE_PLATE_NUMBER (2 lines); RequestUrl.QUERY_PLATE_NUMBER (2 lines); RequestUrl.GET_OPEN_LOGIN_HM_URL (2 lines); RequestUrl.GET_CLOSE_LOGIN_HM_URL (2 lines); RequestUrl.GET_PAY_RECORD_LIST (2 lines); RequestUrl.GET_PAY_DETAIL (2 lines); RequestUrl.PAY_ORDER (2 lines); RequestUrl.MODIFY_USER_INFO (2 lines); RequestUrl.GET_MY_WALLET_LIST_URL (2 lines); RequestUrl.GET_SERVICE_URL (2 lines); RequestUrl.GET_STORE_GUIDE_URL (2 lines); RequestUrl.GET_PRIVACY_INFO (2 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_keyboard/src/main/ets/components/UILicensePlate.ets",
+    "messages": [
+      {
+        "line": 2,
+        "column": 4,
+        "severity": "SUGGESTION",
+        "message": "Switch statement with 8 cases detected in method 'intDisableKey'. Consider using polymorphism or strategy. Case line counts: 1 (3 lines); 2 (1 line); 3 (1 line); 4 (1 line); 5 (1 line); 7 (3 lines); 6 (3 lines); default (2 lines).",
+        "rule": "@extrulesproject/switch-statement-check"
+      }
+    ]
+  }
+]

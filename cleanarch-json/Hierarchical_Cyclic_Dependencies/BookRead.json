@@ -1,0 +1,35 @@
+{
+  "type": "layered",
+  "nodes": [
+    {
+      "id": -1423783496,
+      "name": "comp",
+      "path": "commons/common/src/main/ets/comp",
+      "graphId": 1
+    },
+    {
+      "id": -1166841744,
+      "name": "model",
+      "path": "commons/common/src/main/ets/model",
+      "graphId": 1
+    },
+    {
+      "id": -1174383896,
+      "name": "utils",
+      "path": "commons/common/src/main/ets/utils",
+      "graphId": 1
+    }
+  ],
+  "graphs": [
+    {
+      "id": 1,
+      "edges": [
+        [-1174383896, -1166841744],
+        [-1174383896, -1423783496],
+        [-1166841744, -1174383896],
+        [-1423783496, -1174383896],
+        [-1423783496, -1166841744]
+      ]
+    }
+  ]
+}

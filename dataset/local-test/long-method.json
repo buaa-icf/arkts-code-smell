@@ -1,0 +1,26 @@
+[
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/model/accessibilityImpl/AccessibilitySettingModel.ets",
+    "messages": [
+      {
+        "line": 32,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'accessibilityConfigSetting' is too long. Consider refactoring. (Current: 68 lines, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "messages": [
+      {
+        "line": 60,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'initCertList' is too long. Consider refactoring. (Current: 82 lines, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  }
+]
