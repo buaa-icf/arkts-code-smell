@@ -58,5 +58,328 @@
         "rule": "@extrulesproject/switch-statement-check"
       }
     ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/mine/PersonalSetting.ets",
+    "messages": [
+      {
+        "line": 71,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): PersonalSetting.ets > PersonalSetting.build():71-91 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/mine/PersonalSetting.ets > PersonalSetting.build():93-113.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/components/login_info/src/main/ets/components/QuickLogin.ets",
+    "messages": [
+      {
+        "line": 311,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): QuickLogin.ets:311-370 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/components/login_info/src/main/ets/components/QuickLogin.ets:453-510.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/homePage/src/main/ets/model/PracticeMode.ets",
+    "messages": [
+      {
+        "line": 19,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): PracticeMode.ets:19-139 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/topicPage/src/main/ets/viewModel/PracticeMode.ets:17-139.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/homePage/src/main/ets/pages/AuthenticationPage.ets",
+    "messages": [
+      {
+        "line": 1,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): AuthenticationPage.ets:1-71 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/AuthenticationPage.ets:1-71.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CollectionPage.ets",
+    "messages": [
+      {
+        "line": 20,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): CollectionPage.ets:20-46 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CoursePage.ets:20-47.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      },
+      {
+        "line": 73,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): CollectionPage.ets:73-93 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CoursePage.ets:74-94.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      },
+      {
+        "line": 95,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): CollectionPage.ets:95-125 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CoursePage.ets:96-126.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/home/src/main/ets/component/RecommendBar.ets",
+    "messages": [
+      {
+        "line": 3,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): RecommendBar.ets:3-53 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/components/RecommendBar.ets:3-53.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/AddVisitorPage.ets",
+    "messages": [
+      {
+        "line": 1,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): AddVisitorPage.ets:1-158 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/EditVisitorPage.ets:1-158.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/componentlib/src/main/ets/components/CommonProductProfile.ets",
+    "messages": [
+      {
+        "line": 39,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): CommonProductProfile.ets > CommonProductProfile.build():39-56 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/componentlib/src/main/ets/components/CommonProductProfile.ets > CommonProductProfile.build():67-84.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/position/src/main/ets/pages/TransactionSearch.ets",
+    "messages": [
+      {
+        "line": 5,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): TransactionSearch.ets:5-33 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/product/src/main/ets/pages/ProductSearch.ets:5-33.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/pages/EditNamePage.ets",
+    "messages": [
+      {
+        "line": 18,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): EditNamePage.ets:18-70 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/pages/EditPhonePage.ets:18-70.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/viewModels/EditNamePageVM.ets",
+    "messages": [
+      {
+        "line": 6,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): EditNamePageVM.ets:6-40 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/viewModels/EditPhonePageVM.ets:6-40.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets",
+    "messages": [
+      {
+        "line": 90,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets > TimeCtrl.build():90-100 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets > TimeCtrl.build():114-124.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      },
+      {
+        "line": 90,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets > TimeCtrl.build():90-100 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets > TimeCtrl.build():165-175.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      },
+      {
+        "line": 90,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets > TimeCtrl.build():90-100 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets > TimeCtrl.build():189-199.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      },
+      {
+        "line": 165,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets > TimeCtrl.build():165-179 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets > TimeCtrl.build():189-203.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/PostpartumCareCenter/scenes/activities/src/main/ets/view/ActivityBooking.ets",
+    "messages": [
+      {
+        "line": 70,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): ActivityBooking.ets > ActivityBooking.build():70-88 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/PostpartumCareCenter/scenes/activities/src/main/ets/view/ActivityBooking.ets > ActivityBooking.build():118-136.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/AdministrativeAffairs/Application/commons/components/src/main/ets/components/AboutUs.ets",
+    "messages": [
+      {
+        "line": 42,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): AboutUs.ets > AboutUsPage.build():42-57 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/AdministrativeAffairs/Application/commons/components/src/main/ets/components/AboutUs.ets:63-78.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_points/src/main/ets/components/SubmitPointConfirm.ets",
+    "messages": [
+      {
+        "line": 15,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): SubmitPointConfirm.ets:15-36 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_points/src/main/ets/components/SubmitPointConfirm.ets:60-81.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MovieTVAndLivestreamingTemplate/WebShortDrama/features/mine/src/main/ets/pages/MyFavoritesPage.ets",
+    "messages": [
+      {
+        "line": 8,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): MyFavoritesPage.ets:8-32 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MovieTVAndLivestreamingTemplate/WebShortDrama/features/mine/src/main/ets/pages/WatchRecordsPage.ets:8-32.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/home/src/main/ets/pages/HomePage.ets",
+    "messages": [
+      {
+        "line": 194,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): HomePage.ets > HomePage.FlightBookingView():194-209 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/home/src/main/ets/pages/HomePage.ets > HomePage.FlightBookingView():238-253.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/components/StickerToolBar.ets",
+    "messages": [
+      {
+        "line": 78,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): StickerToolBar.ets:78-131 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/components/StickerToolBar.ets:141-194.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "messages": [
+      {
+        "line": 443,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same class): PictureBeautification.ets > PictureBeautification.moveClipCanvasFreeType():443-475 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets > PictureBeautification.moveClipCanvasRatioType():557-588.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/modules/scene/shopping/src/main/ets/logic/CartPageLogic.ets",
+    "messages": [
+      {
+        "line": 139,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): CartPageLogic.ets:139-156 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/modules/scene/shopping/src/main/ets/logic/CartPageLogic.ets:238-255.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/scenes/shopping/src/main/ets/logic/CartPageLogic.ets",
+    "messages": [
+      {
+        "line": 122,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): CartPageLogic.ets:122-139 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/scenes/shopping/src/main/ets/logic/CartPageLogic.ets:181-198.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_home/src/main/ets/components/HomeVisit.ets",
+    "messages": [
+      {
+        "line": 8,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): HomeVisit.ets:8-59 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_home/src/main/ets/components/ShippingInfo.ets:9-61.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/pages/EditNamePage.ets",
+    "messages": [
+      {
+        "line": 18,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): EditNamePage.ets:18-70 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/pages/EditPhonePage.ets:18-70.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/viewModels/EditNamePageVM.ets",
+    "messages": [
+      {
+        "line": 10,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): EditNamePageVM.ets:10-49 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/viewModels/EditPhonePageVM.ets:10-49.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
   }
 ]
