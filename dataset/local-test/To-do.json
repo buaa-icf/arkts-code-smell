@@ -56,32 +56,6 @@
         "severity": "SUGGESTION",
         "message": "Switch statement with 8 cases detected in method 'getCropRatio'. Consider using polymorphism or strategy. Case line counts: 0 (3 lines); 1 (6 lines); 2 (3 lines); 3 (3 lines); 4 (3 lines); 5 (3 lines); 6 (3 lines); default (2 lines).",
         "rule": "@extrulesproject/switch-statement-check"
-      },
-      {
-        "line": 187,
-        "column": 3,
-        "severity": "SUGGESTION",
-        "message": "Method 'determineCropType' is too long. Consider refactoring. (Current: 65 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
-      }
-    ]
-  },
-  {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/components/CarouseCutToolBar.ets",
-    "messages": [
-      {
-        "line": 3,
-        "column": 4,
-        "severity": "SUGGESTION",
-        "message": "Switch statement with 8 cases detected in method 'getCropRatio'. Consider using polymorphism or strategy. Case line counts: 0 (3 lines); 1 (6 lines); 2 (3 lines); 3 (3 lines); 4 (3 lines); 5 (3 lines); 6 (3 lines); default (2 lines).",
-        "rule": "@extrulesproject/switch-statement-check"
-      },
-      {
-        "line": 187,
-        "column": 3,
-        "severity": "SUGGESTION",
-        "message": "Method 'determineCropType' is too long. Consider refactoring. (Current: 65 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
       }
     ]
   }

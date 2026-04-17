@@ -26,6 +26,8 @@ for dir_name in DIRS:
     lines.append(dir_name)
     dir_total = 0
     for json_file in sorted(dir_path.glob("*.json")):
+        if json_file.name == "To-do.json":
+            continue
         count = count_smells(json_file)
         lines.append(f"{json_file.stem}: {count}")
         dir_total += count

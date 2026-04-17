@@ -5,8 +5,9 @@ switch-statement: 20
 total: 25
 
 instrument-test
+code-clone: 3
 data-clumps: 2
 long-method: 11
-total: 13
+total: 16
 
-total: 38
+total: 41

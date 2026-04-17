@@ -1,0 +1,38 @@
+[
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/AboutPage.ets",
+    "messages": [
+      {
+        "line": 71,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): AboutPage.ets > AboutPage.aboutCardView():71-124 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/AboutPage.ets:128-185. (102 tokens, 26 lines)",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/schedule/components/ScheduleForm.ets",
+    "messages": [
+      {
+        "line": 412,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): ScheduleForm.ets > ScheduleForm.build():412-428 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/schedule/components/ScheduleForm.ets > ScheduleForm.build():474-490. (120 tokens, 16 lines)",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/agency/src/main/ets/mock/DataManager.ets",
+    "messages": [
+      {
+        "line": 8,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): DataManager.ets:13-33 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/mock/DataManager.ets:13-33. (140 tokens, 29 lines)",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  }
+]
