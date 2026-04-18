@@ -1,0 +1,131 @@
+[
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/components/swiper_card/src/main/ets/components/TUISwiper.ets",
+    "messages": [
+      {
+        "line": 68,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'initDataByIsCovered' is too long. Consider refactoring. (Current: 136 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/commons/component_lib/src/main/ets/components/CalenderView.ets",
+    "messages": [
+      {
+        "line": 47,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'refresh' is too long. Consider refactoring. (Current: 132 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      },
+      {
+        "line": 134,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'changeMonthByGesture' is too long. Consider refactoring. (Current: 102 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FoodAndDrinkTemplate/TeaDrinkOrders/features/order_list/src/main/ets/pages/OrderDetailPage.ets",
+    "messages": [
+      {
+        "line": 54,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'initStoreInfo' is too long. Consider refactoring. (Current: 138 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MedicalTemplate/MedicalCare/common/common/src/main/ets/api/BaseApi.ets",
+    "messages": [
+      {
+        "line": 67,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'sendRequest' is too long. Consider refactoring. (Current: 111 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MedicalTemplate/MedicalCare/features/patient/src/main/ets/viewmodel/PatientViewModel.ets",
+    "messages": [
+      {
+        "line": 147,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'checkPatientInfo' is too long. Consider refactoring. (Current: 117 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/flight/src/main/ets/pages/SubmitOrderPage.ets",
+    "messages": [
+      {
+        "line": 98,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'submitOrder' is too long. Consider refactoring. (Current: 103 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "messages": [
+      {
+        "line": 354,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'isMove' is too long. Consider refactoring. (Current: 213 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      },
+      {
+        "line": 399,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'moveClipCanvasFreeType' is too long. Consider refactoring. (Current: 149 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      },
+      {
+        "line": 487,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'moveClipCanvasRatioType' is too long. Consider refactoring. (Current: 189 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/commons/lib_foundation/src/main/ets/featurecomponents/tabswiper/TabSwiper.ets",
+    "messages": [
+      {
+        "line": 230,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'onTabSwiperAttributeChange' is too long. Consider refactoring. (Current: 125 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets",
+    "messages": [
+      {
+        "line": 76,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'initialiseEnumField' is too long. Consider refactoring. (Current: 123 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  }
+]
