@@ -1,0 +1,59 @@
+[
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/pages/EditNamePage.ets",
+    "messages": [
+      {
+        "line": 18,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): EditNamePage.ets:18-70 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/pages/EditPhonePage.ets:18-70.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/viewModels/EditNamePageVM.ets",
+    "messages": [
+      {
+        "line": 6,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): EditNamePageVM.ets:6-40 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/viewModels/EditPhonePageVM.ets:6-40.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets",
+    "messages": [
+      {
+        "line": 90,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets > TimeCtrl.build():90-100 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets > TimeCtrl.build():114-124.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      },
+      {
+        "line": 90,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets > TimeCtrl.build():90-100 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets > TimeCtrl.build():165-175.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      },
+      {
+        "line": 90,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets > TimeCtrl.build():90-100 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets > TimeCtrl.build():189-199.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      },
+      {
+        "line": 165,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets > TimeCtrl.build():165-179 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets > TimeCtrl.build():189-203.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  }
+]

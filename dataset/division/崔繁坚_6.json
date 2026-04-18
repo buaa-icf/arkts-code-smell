@@ -1,0 +1,74 @@
+[
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/commons/lib_foundation/src/main/ets/featurecomponents/tabswiper/TabSwiper.ets",
+    "messages": [
+      {
+        "line": 230,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'onTabSwiperAttributeChange' is too long. Consider refactoring. (Current: 125 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets",
+    "messages": [
+      {
+        "line": 76,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'initialiseEnumField' is too long. Consider refactoring. (Current: 123 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/home/src/main/ets/component/RecommendBar.ets",
+    "messages": [
+      {
+        "line": 3,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): RecommendBar.ets:3-53 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/components/RecommendBar.ets:3-53.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/AddVisitorPage.ets",
+    "messages": [
+      {
+        "line": 1,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): AddVisitorPage.ets:1-158 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/EditVisitorPage.ets:1-158.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/componentlib/src/main/ets/components/CommonProductProfile.ets",
+    "messages": [
+      {
+        "line": 39,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): CommonProductProfile.ets > CommonProductProfile.build():39-56 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/componentlib/src/main/ets/components/CommonProductProfile.ets > CommonProductProfile.build():67-84.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/position/src/main/ets/pages/TransactionSearch.ets",
+    "messages": [
+      {
+        "line": 5,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (different classes): TransactionSearch.ets:5-33 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/product/src/main/ets/pages/ProductSearch.ets:5-33.",
+        "rule": "@extrulesproject/code-clone-fragment-check"
+      }
+    ]
+  }
+]
