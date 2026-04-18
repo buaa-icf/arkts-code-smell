@@ -1,0 +1,14 @@
+[
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/EnterpriseRecruitment/product/phone/src/main/ets/pages/mine/AvatarUpload.ets",
+    "messages": [
+      {
+        "line": 289,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'checkImageAdapt' is highly coupled to 'CropModel' (5/6 calls, 83%). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  }
+]
