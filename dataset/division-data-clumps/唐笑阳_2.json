@@ -1,0 +1,28 @@
+[
+  {
+    "id": 457,
+    "path": "<Pkg device_service>.<File src\\main\\ets\\view\\AgreementView.ets>.AgreementDialog.bulidSpan",
+    "row": 15,
+    "rol": 3,
+    "NOPAR": 7,
+    "HSP": [
+      539
+    ],
+    "pathList": [
+      "<Pkg device_service>.<File src\\main\\ets\\pages\\QuickLoginPage.ets>.QuickLoginPage.bulidSpan"
+    ]
+  },
+  {
+    "id": 539,
+    "path": "<Pkg device_service>.<File src\\main\\ets\\pages\\QuickLoginPage.ets>.QuickLoginPage.bulidSpan",
+    "row": 197,
+    "rol": 3,
+    "NOPAR": 7,
+    "HSP": [
+      457
+    ],
+    "pathList": [
+      "<Pkg device_service>.<File src\\main\\ets\\view\\AgreementView.ets>.AgreementDialog.bulidSpan"
+    ]
+  }
+]

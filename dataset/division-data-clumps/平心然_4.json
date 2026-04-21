@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1074,
+    "path": "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackStringSample.ets>.TrackClassModel.constructor",
+    "row": 44,
+    "rol": 3,
+    "NOPAR": 20,
+    "HSP": [
+      1133,
+      1193,
+      1253,
+      1313,
+      1374,
+      8838,
+      8889
+    ],
+    "pathList": [
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackStringArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackNumberSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackNumberArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.ClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.TrackClassModel.constructor"
+    ]
+  },
+  {
+    "id": 1133,
+    "path": "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackStringArrSample.ets>.TrackClassModel.constructor",
+    "row": 43,
+    "rol": 3,
+    "NOPAR": 20,
+    "HSP": [
+      1074,
+      1193,
+      1253,
+      1313,
+      1374,
+      8838,
+      8889
+    ],
+    "pathList": [
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackStringSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackNumberSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackNumberArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.ClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.TrackClassModel.constructor"
+    ]
+  },
+  {
+    "id": 1193,
+    "path": "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackNumberSample.ets>.TrackClassModel.constructor",
+    "row": 44,
+    "rol": 3,
+    "NOPAR": 20,
+    "HSP": [
+      1074,
+      1133,
+      1253,
+      1313,
+      1374,
+      8838,
+      8889
+    ],
+    "pathList": [
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackStringSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackStringArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackNumberArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.ClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.TrackClassModel.constructor"
+    ]
+  },
+  {
+    "id": 1253,
+    "path": "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackNumberArrSample.ets>.TrackClassModel.constructor",
+    "row": 43,
+    "rol": 3,
+    "NOPAR": 20,
+    "HSP": [
+      1074,
+      1133,
+      1193,
+      1313,
+      1374,
+      8838,
+      8889
+    ],
+    "pathList": [
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackStringSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackStringArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackNumberSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanArrSample.ets>.TrackClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.ClassModel.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.TrackClassModel.constructor"
+    ]
+  }
+]

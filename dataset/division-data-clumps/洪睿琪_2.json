@@ -1,0 +1,28 @@
+[
+  {
+    "id": 5685,
+    "path": "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\monitor\\MonitorInheritSample.ets>.Base.constructor",
+    "row": 86,
+    "rol": 3,
+    "NOPAR": 51,
+    "HSP": [
+      5840
+    ],
+    "pathList": [
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\monitor\\MonitorInheritSample.ets>.Derived.constructor"
+    ]
+  },
+  {
+    "id": 5840,
+    "path": "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\monitor\\MonitorInheritSample.ets>.Derived.constructor",
+    "row": 358,
+    "rol": 3,
+    "NOPAR": 51,
+    "HSP": [
+      5685
+    ],
+    "pathList": [
+      "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\monitor\\MonitorInheritSample.ets>.Base.constructor"
+    ]
+  }
+]

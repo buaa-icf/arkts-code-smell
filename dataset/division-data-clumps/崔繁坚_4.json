@@ -1,0 +1,54 @@
+[
+  {
+    "id": 7685,
+    "path": "<Pkg textoverflow>.<File src\\main\\ets\\components\\model\\TextFlowMode.ets>.CommentModel.constructor",
+    "row": 37,
+    "rol": 3,
+    "NOPAR": 8,
+    "HSP": [
+      24906
+    ],
+    "pathList": [
+      "<Pkg containernestedslide>.<File src\\main\\ets\\model\\NewsCommentModel.ets>.NewsCommentModel.constructor"
+    ]
+  },
+  {
+    "id": 24906,
+    "path": "<Pkg containernestedslide>.<File src\\main\\ets\\model\\NewsCommentModel.ets>.NewsCommentModel.constructor",
+    "row": 37,
+    "rol": 3,
+    "NOPAR": 8,
+    "HSP": [
+      7685
+    ],
+    "pathList": [
+      "<Pkg textoverflow>.<File src\\main\\ets\\components\\model\\TextFlowMode.ets>.CommentModel.constructor"
+    ]
+  },
+  {
+    "id": 8728,
+    "path": "<Pkg statusbaranimation>.<File src\\main\\ets\\model\\Model.ets>.Model.constructor",
+    "row": 28,
+    "rol": 3,
+    "NOPAR": 10,
+    "HSP": [
+      9126
+    ],
+    "pathList": [
+      "<Pkg skeletondiagram>.<File src\\main\\ets\\model\\Model.ets>.Model.constructor"
+    ]
+  },
+  {
+    "id": 9126,
+    "path": "<Pkg skeletondiagram>.<File src\\main\\ets\\model\\Model.ets>.Model.constructor",
+    "row": 28,
+    "rol": 3,
+    "NOPAR": 10,
+    "HSP": [
+      8728
+    ],
+    "pathList": [
+      "<Pkg statusbaranimation>.<File src\\main\\ets\\model\\Model.ets>.Model.constructor"
+    ]
+  }
+]
