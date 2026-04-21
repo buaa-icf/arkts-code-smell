@@ -1,0 +1,16 @@
+[
+  {
+    "id": 456,
+    "path": "<Pkg entry>.<File src\\main\\ets\\viewmodel\\BookTriItemData.ets>.BookTriItemData.constructor",
+    "row": 39,
+    "rol": 3,
+    "NOPAR": 8,
+    "HSP": [132, 231, 404, 429],
+    "pathList": [
+      "<Pkg entry>.<File src\\main\\ets\\viewmodel\\TriItemData.ets>.TriItemData.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\viewmodel\\MidItemData.ets>.MidItemData.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\viewmodel\\ListHistoryItemData.ets>.ListHistoryItemData.constructor",
+      "<Pkg entry>.<File src\\main\\ets\\viewmodel\\ItemData.ets>.ItemData.constructor"
+    ]
+  }
+]

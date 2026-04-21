@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2070,
+    "path": "<Pkg travelsolutionfeature>.<File src\\main\\ets\\account\\components\\VerifyPage.ets>.isLoginClickable",
+    "row": 42,
+    "rol": 10,
+    "NOPAR": 7,
+    "HSP": [5716],
+    "pathList": [
+      "<Pkg newssolutionfeature>.<File src\\main\\ets\\pages\\VerifyPage.ets>.isLoginClickable"
+    ]
+  },
+  {
+    "id": 5716,
+    "path": "<Pkg newssolutionfeature>.<File src\\main\\ets\\pages\\VerifyPage.ets>.isLoginClickable",
+    "row": 30,
+    "rol": 10,
+    "NOPAR": 7,
+    "HSP": [2070],
+    "pathList": [
+      "<Pkg travelsolutionfeature>.<File src\\main\\ets\\account\\components\\VerifyPage.ets>.isLoginClickable"
+    ]
+  }
+]

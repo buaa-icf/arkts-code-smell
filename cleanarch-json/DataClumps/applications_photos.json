@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2971,
+    "path": "<Pkg @ohos/thirdselect>.<File src\\main\\ets\\default\\view\\ThirdSelectPhotoGridBase.ets>.ThirdSelectPhotoGridBase.jumpToBrowserGeometryTransition",
+    "row": 481,
+    "rol": 3,
+    "NOPAR": 6,
+    "HSP": [2562, 2577, 3025, 2855],
+    "pathList": [
+      "<Pkg @ohos/timeline>.<File src\\main\\ets\\view\\TimelinePage.ets>.TimelinePage.jumpToPhotoBrowserGeometryTransition",
+      "<Pkg @ohos/timeline>.<File src\\main\\ets\\view\\TimelinePage.ets>.TimelinePage.jumpToSelectPhotoBrowserGeometryTransition",
+      "<Pkg @ohos/thirdselect>.<File src\\main\\ets\\default\\view\\ThirdSelectPhotoGridBase.ets>.ThirdSelectPhotoGridBase.jumpBrowserCallback",
+      "<Pkg @ohos/thirdselect>.<File src\\main\\ets\\default\\view\\ThirdSelectPhotoGridBase.ets>.ThirdSelectPhotoGridBase.<Anon ArrowFunction>@124:49"
+    ]
+  }
+]
