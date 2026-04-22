@@ -10,7 +10,8 @@
     ],
     "pathList": [
       "<Pkg newssolutionfeature>.<File src\\main\\ets\\pages\\VerifyPage.ets>.isLoginClickable"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/model-evaluation-testsuite.json"
   },
   {
     "id": 5716,
@@ -23,6 +24,7 @@
     ],
     "pathList": [
       "<Pkg travelsolutionfeature>.<File src\\main\\ets\\account\\components\\VerifyPage.ets>.isLoginClickable"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/model-evaluation-testsuite.json"
   }
 ]

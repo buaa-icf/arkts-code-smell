@@ -10,7 +10,8 @@
     ],
     "pathList": [
       "<Pkg listslidetohistory>.<File src\\main\\ets\\model\\BasicDataSource.ets>.FriendMoment.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json"
   },
   {
     "id": 12789,
@@ -27,6 +28,7 @@
       "<Pkg immersive>.<File src\\main\\ets\\model\\GoodsModel.ets>.ProductDataModel.constructor",
       "<Pkg fitfordarkmode>.<File src\\main\\ets\\model\\GoodsModel.ets>.ProductDataModel.constructor",
       "<Pkg componentstack>.<File src\\main\\ets\\model\\IconModel.ets>.ProductDataModel.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json"
   }
 ]

@@ -10,7 +10,8 @@
     ],
     "pathList": [
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\monitor\\MonitorInheritSample.ets>.Derived.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json"
   },
   {
     "id": 5840,
@@ -23,6 +24,7 @@
     ],
     "pathList": [
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\monitor\\MonitorInheritSample.ets>.Base.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json"
   }
 ]

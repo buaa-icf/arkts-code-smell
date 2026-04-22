@@ -22,7 +22,8 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanArrSample.ets>.TrackClassModel.constructor",
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.ClassModel.constructor",
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.TrackClassModel.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json"
   },
   {
     "id": 1374,
@@ -47,7 +48,8 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanSample.ets>.TrackClassModel.constructor",
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.ClassModel.constructor",
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.TrackClassModel.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json"
   },
   {
     "id": 8838,
@@ -72,7 +74,8 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanSample.ets>.TrackClassModel.constructor",
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanArrSample.ets>.TrackClassModel.constructor",
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.TrackClassModel.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json"
   },
   {
     "id": 8889,
@@ -97,6 +100,7 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanSample.ets>.TrackClassModel.constructor",
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\track\\TrackBooleanArrSample.ets>.TrackClassModel.constructor",
       "<Pkg entry>.<File src\\main\\ets\\pages\\stateManagement\\ClassModel.ets>.ClassModel.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json"
   }
 ]

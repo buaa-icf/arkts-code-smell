@@ -16,6 +16,7 @@
       "<Pkg entry>.<File src\\main\\ets\\viewmodel\\MidItemData.ets>.MidItemData.constructor",
       "<Pkg entry>.<File src\\main\\ets\\viewmodel\\ListHistoryItemData.ets>.ListHistoryItemData.constructor",
       "<Pkg entry>.<File src\\main\\ets\\viewmodel\\ItemData.ets>.ItemData.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-scenario-MyMusic.json"
   }
 ]

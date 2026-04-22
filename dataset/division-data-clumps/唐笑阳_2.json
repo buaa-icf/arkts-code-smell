@@ -10,7 +10,8 @@
     ],
     "pathList": [
       "<Pkg device_service>.<File src\\main\\ets\\pages\\QuickLoginPage.ets>.QuickLoginPage.bulidSpan"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/SmartHome.json"
   },
   {
     "id": 539,
@@ -23,6 +24,7 @@
     ],
     "pathList": [
       "<Pkg device_service>.<File src\\main\\ets\\view\\AgreementView.ets>.AgreementDialog.bulidSpan"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/SmartHome.json"
   }
 ]

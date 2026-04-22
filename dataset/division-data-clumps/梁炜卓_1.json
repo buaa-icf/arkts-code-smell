@@ -16,6 +16,7 @@
       "<Pkg @ohos/timeline>.<File src\\main\\ets\\view\\TimelinePage.ets>.TimelinePage.jumpToSelectPhotoBrowserGeometryTransition",
       "<Pkg @ohos/thirdselect>.<File src\\main\\ets\\default\\view\\ThirdSelectPhotoGridBase.ets>.ThirdSelectPhotoGridBase.jumpBrowserCallback",
       "<Pkg @ohos/thirdselect>.<File src\\main\\ets\\default\\view\\ThirdSelectPhotoGridBase.ets>.ThirdSelectPhotoGridBase.<Anon ArrowFunction>@124:49"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/applications_photos.json"
   }
 ]

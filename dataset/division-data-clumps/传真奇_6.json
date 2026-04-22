@@ -18,7 +18,8 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example3.ets>.Example3.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example2.ets>.Example1.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example1.ets>.Example1.render"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json"
   },
   {
     "id": 198,
@@ -39,7 +40,8 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example3.ets>.Example3.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example2.ets>.Example1.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example1.ets>.Example1.render"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json"
   },
   {
     "id": 286,
@@ -60,7 +62,8 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example3.ets>.Example3.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example2.ets>.Example1.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example1.ets>.Example1.render"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json"
   },
   {
     "id": 369,
@@ -81,7 +84,8 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example4.ets>.SingleExample.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example2.ets>.Example1.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example1.ets>.Example1.render"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json"
   },
   {
     "id": 469,
@@ -102,7 +106,8 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example4.ets>.SingleExample.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example3.ets>.Example3.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example1.ets>.Example1.render"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json"
   },
   {
     "id": 517,
@@ -123,6 +128,7 @@
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example4.ets>.SingleExample.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example3.ets>.Example3.render",
       "<Pkg entry>.<File src\\main\\ets\\pages\\Example2.ets>.Example1.render"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json"
   }
 ]

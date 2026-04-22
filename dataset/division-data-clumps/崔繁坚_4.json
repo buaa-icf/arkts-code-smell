@@ -10,7 +10,8 @@
     ],
     "pathList": [
       "<Pkg containernestedslide>.<File src\\main\\ets\\model\\NewsCommentModel.ets>.NewsCommentModel.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json"
   },
   {
     "id": 24906,
@@ -23,7 +24,8 @@
     ],
     "pathList": [
       "<Pkg textoverflow>.<File src\\main\\ets\\components\\model\\TextFlowMode.ets>.CommentModel.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json"
   },
   {
     "id": 8728,
@@ -36,7 +38,8 @@
     ],
     "pathList": [
       "<Pkg skeletondiagram>.<File src\\main\\ets\\model\\Model.ets>.Model.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json"
   },
   {
     "id": 9126,
@@ -49,6 +52,7 @@
     ],
     "pathList": [
       "<Pkg statusbaranimation>.<File src\\main\\ets\\model\\Model.ets>.Model.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json"
   }
 ]

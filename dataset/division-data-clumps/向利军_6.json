@@ -14,7 +14,8 @@
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
   },
   {
     "id": 493,
@@ -31,7 +32,8 @@
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
   },
   {
     "id": 511,
@@ -48,7 +50,8 @@
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
   },
   {
     "id": 768,
@@ -65,7 +68,8 @@
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
   },
   {
     "id": 824,
@@ -78,7 +82,8 @@
     ],
     "pathList": [
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.transform"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
   },
   {
     "id": 873,
@@ -91,6 +96,7 @@
     ],
     "pathList": [
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppTransform"
-    ]
+    ],
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
   }
 ]
