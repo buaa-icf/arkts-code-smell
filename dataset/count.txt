@@ -5,10 +5,10 @@ switch-statement: 20
 total: 26
 
 instrument-test
-code-clone: 3
+code-clone: 10
 data-clumps: 2
 feature-envy: 1
 long-method: 11
-total: 17
+total: 24
 
-total: 43
+total: 50
