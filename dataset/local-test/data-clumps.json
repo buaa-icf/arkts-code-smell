@@ -5,12 +5,7 @@
     "row": 39,
     "rol": 3,
     "NOPAR": 8,
-    "HSP": [
-      132,
-      231,
-      404,
-      429
-    ],
+    "HSP": [132, 231, 404, 429],
     "pathList": [
       "<Pkg entry>.<File src\\main\\ets\\viewmodel\\TriItemData.ets>.TriItemData.constructor",
       "<Pkg entry>.<File src\\main\\ets\\viewmodel\\MidItemData.ets>.MidItemData.constructor",

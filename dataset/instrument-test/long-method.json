@@ -125,5 +125,29 @@
         "rule": "@extrulesproject/long-method-check"
       }
     ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/commons/lib_foundation/src/main/ets/featurecomponents/tabswiper/TabSwiper.ets",
+    "messages": [
+      {
+        "line": 230,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'onTabSwiperAttributeChange' is too long. Consider refactoring. (Current: 125 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets",
+    "messages": [
+      {
+        "line": 76,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'initialiseEnumField' is too long. Consider refactoring. (Current: 123 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
   }
 ]
