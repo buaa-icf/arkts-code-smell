@@ -1,85 +1,11 @@
 [
   {
-    "id": 475,
-    "path": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
-    "row": 820,
-    "rol": 3,
-    "NOPAR": 9,
-    "HSP": [
-      493,
-      511,
-      768
-    ],
-    "pathList": [
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile",
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor"
-    ],
-    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
-  },
-  {
-    "id": 493,
-    "path": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
-    "row": 863,
-    "rol": 3,
-    "NOPAR": 9,
-    "HSP": [
-      475,
-      511,
-      768
-    ],
-    "pathList": [
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile",
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor"
-    ],
-    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
-  },
-  {
-    "id": 511,
-    "path": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile",
-    "row": 905,
-    "rol": 3,
-    "NOPAR": 9,
-    "HSP": [
-      475,
-      493,
-      768
-    ],
-    "pathList": [
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor"
-    ],
-    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
-  },
-  {
-    "id": 768,
-    "path": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor",
-    "row": 157,
-    "rol": 3,
-    "NOPAR": 12,
-    "HSP": [
-      475,
-      493,
-      511
-    ],
-    "pathList": [
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
-      "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile"
-    ],
-    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
-  },
-  {
     "id": 824,
     "path": "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppTransform",
     "row": 114,
     "rol": 13,
     "NOPAR": 7,
-    "HSP": [
-      873
-    ],
+    "HSP": [873],
     "pathList": [
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.transform"
     ],
@@ -91,9 +17,7 @@
     "row": 308,
     "rol": 5,
     "NOPAR": 6,
-    "HSP": [
-      824
-    ],
+    "HSP": [824],
     "pathList": [
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\Renderer.ets>.Renderer.cppTransform"
     ],
