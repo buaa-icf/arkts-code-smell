@@ -1,10 +1,10 @@
 local-test
 code-clone: 3
-data-clumps: 11
-feature-envy: 4
+data-clumps: 15
+feature-envy: 6
 long-method: 8
 switch-statement: 24
-total: 50
+total: 56
 
 instrument-test
 code-clone: 29
@@ -14,4 +14,4 @@ long-method: 17
 switch-statement: 1
 total: 50
 
-total: 100
+total: 106
