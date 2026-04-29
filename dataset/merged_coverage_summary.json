@@ -99,29 +99,16 @@
     },
     "Data Clumps": {
       "label": "Data Clumps",
-      "total": 8,
-      "withTest": 8,
+      "total": 21,
+      "withTest": 21,
       "withoutTest": 0,
-      "failed": 0,
-      "lineAvg": "86.40",
-      "branchAvg": "50.00",
-      "funcAvg": "86.25",
-      "nLine": 8,
-      "nBranch": 2,
-      "nFunc": 8
-    },
-    "unknown": {
-      "label": "unknown",
-      "total": 0,
-      "withTest": 0,
-      "withoutTest": 0,
-      "failed": 0,
-      "lineAvg": "N/A",
-      "branchAvg": "N/A",
-      "funcAvg": "N/A",
-      "nLine": 0,
-      "nBranch": 0,
-      "nFunc": 0
+      "failed": 1,
+      "lineAvg": "94.82",
+      "branchAvg": "51.67",
+      "funcAvg": "94.76",
+      "nLine": 21,
+      "nBranch": 5,
+      "nFunc": 21
     }
   }
 }
