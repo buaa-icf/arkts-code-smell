@@ -1,0 +1,127 @@
+{
+  "merged_csv": "dataset/merged_coverage_all.csv",
+  "merged_count": 140,
+  "raw_count": 142,
+  "deduped": 2,
+  "overall": {
+    "label": "overall",
+    "total": 140,
+    "withTest": 140,
+    "withoutTest": 0,
+    "failed": 3,
+    "lineAvg": "92.65",
+    "branchAvg": "80.69",
+    "funcAvg": "93.16",
+    "nLine": 140,
+    "nBranch": 89,
+    "nFunc": 140
+  },
+  "by_kind": {
+    "local-test": {
+      "label": "local-test",
+      "total": 61,
+      "withTest": 61,
+      "withoutTest": 0,
+      "failed": 1,
+      "lineAvg": "98.35",
+      "branchAvg": "96.53",
+      "funcAvg": "98.14",
+      "nLine": 61,
+      "nBranch": 43,
+      "nFunc": 61
+    },
+    "instrument-test": {
+      "label": "instrument-test",
+      "total": 79,
+      "withTest": 79,
+      "withoutTest": 0,
+      "failed": 2,
+      "lineAvg": "88.25",
+      "branchAvg": "65.88",
+      "funcAvg": "89.31",
+      "nLine": 79,
+      "nBranch": 46,
+      "nFunc": 79
+    }
+  },
+  "by_rule": {
+    "@extrulesproject/code-clone-fragment-check": {
+      "label": "@extrulesproject/code-clone-fragment-check",
+      "total": 62,
+      "withTest": 62,
+      "withoutTest": 0,
+      "failed": 2,
+      "lineAvg": "90.95",
+      "branchAvg": "75.75",
+      "funcAvg": "90.93",
+      "nLine": 62,
+      "nBranch": 32,
+      "nFunc": 62
+    },
+    "@extrulesproject/feature-envy-check": {
+      "label": "@extrulesproject/feature-envy-check",
+      "total": 7,
+      "withTest": 7,
+      "withoutTest": 0,
+      "failed": 0,
+      "lineAvg": "100.00",
+      "branchAvg": "100.00",
+      "funcAvg": "100.00",
+      "nLine": 7,
+      "nBranch": 4,
+      "nFunc": 7
+    },
+    "@extrulesproject/long-method-check": {
+      "label": "@extrulesproject/long-method-check",
+      "total": 25,
+      "withTest": 25,
+      "withoutTest": 0,
+      "failed": 0,
+      "lineAvg": "86.71",
+      "branchAvg": "71.39",
+      "funcAvg": "88.83",
+      "nLine": 25,
+      "nBranch": 23,
+      "nFunc": 25
+    },
+    "@extrulesproject/switch-statement-check": {
+      "label": "@extrulesproject/switch-statement-check",
+      "total": 25,
+      "withTest": 25,
+      "withoutTest": 0,
+      "failed": 0,
+      "lineAvg": "98.91",
+      "branchAvg": "98.28",
+      "funcAvg": "99.75",
+      "nLine": 25,
+      "nBranch": 25,
+      "nFunc": 25
+    },
+    "Data Clumps": {
+      "label": "Data Clumps",
+      "total": 8,
+      "withTest": 8,
+      "withoutTest": 0,
+      "failed": 0,
+      "lineAvg": "86.40",
+      "branchAvg": "50.00",
+      "funcAvg": "86.25",
+      "nLine": 8,
+      "nBranch": 2,
+      "nFunc": 8
+    },
+    "unknown": {
+      "label": "unknown",
+      "total": 0,
+      "withTest": 0,
+      "withoutTest": 0,
+      "failed": 0,
+      "lineAvg": "N/A",
+      "branchAvg": "N/A",
+      "funcAvg": "N/A",
+      "nLine": 0,
+      "nBranch": 0,
+      "nFunc": 0
+    }
+  }
+}
