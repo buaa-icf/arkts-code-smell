@@ -20,7 +20,7 @@
 
 目前正在检查同学们生成的测试用例，已检查完毕的条目在仓库 [arkts-code-smell](https://github.com/buaa-icf/arkts-code-smell) 的 `dataset/instrument-test` 与 `dataset/local-test` 文件下来。
 
-临时测试覆盖率统计见 `dataset/division-data-clumps` 与 `dataset/division` 下的 csv 文件。
+汇总覆盖率统计见 `dataset/merged_coverage_all.csv`。
 
 检查完毕的总数见 `dataset/count.txt`。
 
