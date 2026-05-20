@@ -24,6 +24,18 @@
 
 检查完毕的总数见 `dataset/count.txt`。
 
+## 代码重构评测集质量保证
+
+为保证评测集可用于代码重构效果验证，当前数据集不只记录代码异味位置，还为每个评测目标建立了可复现的测试与覆盖率证据链。`dataset/merged_coverage_all.csv` 是质量保证结果的最终汇总索引，记录目标范围、测试归属、执行命令、运行状态、方法级覆盖率与来源 CSV。
+
+质量保证流程包括：
+
+- 评测粒度校准到方法或片段范围。Long Method、Feature Envy、Switch Statement、Data Clumps 等规则以目标函数区间为单位；Code Clone 会从 `messages[].message` 展开 `original` 与 `similar` 两类片段，避免只评估克隆对的一侧。
+- 每条目标都核对同模块测试用例，并在 CSV 中保留 `has_test_case`、`test_kind`、`test_suite`、`test_command`、`test_run_status`、`note` 等字段，确保测试来源、执行方式和异常状态可追溯。
+- 覆盖率统计限定在目标行范围内，分别计算行覆盖率、分支边覆盖率和相交函数覆盖率，而不是使用整文件覆盖率替代目标区域覆盖率。
+- 合并表当前包含 140 条去重后的评测目标（原始 142 行，去重 2 行），全部已关联同模块测试用例；其中 Local Test 61 条，Instrument Test 79 条。聚合均值见 `dataset/merged_coverage_summary.json`：行覆盖率 92.65%，分支覆盖率 80.69%，函数覆盖率 93.16%。
+- 运行结果不会被隐式改写为通过：本轮真实通过、沿用历史成功结果、缺设备、缺依赖、宿主页面锚点缺失等状态都会保留在 `test_run_status` / `note` 中，便于后续筛选、补跑和复核。
+
 ## JSON 字段说明
 
 评测集 JSON 文件主要分为两大类：通用 linter 输出（Long Method / Feature Envy / Switch Statement / Code Clone 等）和 Data Clumps 专用格式。
@@ -124,7 +136,7 @@
 | `total`       | number | 该分组下的评测目标总数（即 CSV 行数）。                      |
 | `withTest`    | number | `has_test_case == "yes"` 的目标数。                          |
 | `withoutTest` | number | `has_test_case == "no"` 的目标数，等于 `total - withTest`。  |
-| `failed`      | number | `test_run_status` 非 `passed` 的目标数（含构建失败、缺设备、缺锚点等）。 |
+| `failed`      | number | `test_run_status` 非 `passed` 的目标数（含 `passed_previous_run`、构建失败、缺设备、缺锚点等）。 |
 | `lineAvg`     | string | 行覆盖率均值（百分数，保留两位小数），仅在 `line_coverage_pct` 非空的样本上求平均。 |
 | `branchAvg`   | string | 分支覆盖率均值（百分数，保留两位小数），仅在 `branch_coverage_pct` 非 `N/A` 的样本上求平均。 |
 | `funcAvg`     | string | 函数覆盖率均值（百分数，保留两位小数），仅在 `function_coverage_pct` 非空的样本上求平均。 |
