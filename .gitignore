@@ -2,3 +2,6 @@ repos/
 .DS_Store
 .claude/
 .hvigor/
+*.log
+__pycache__
+repro_results.csv
