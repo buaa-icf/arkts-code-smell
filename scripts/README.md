@@ -5,6 +5,8 @@
 
 ## 用法
 
+修改 `repro_signed_tests.py` 的 `BUNDLE_NAME` 与 `SIGNING_CONFIGS`。
+
 ```bash
 # 1. 干跑（看每条命令会怎么跑，不真执行）
 python3 scripts/repro_signed_tests.py --dry-run
