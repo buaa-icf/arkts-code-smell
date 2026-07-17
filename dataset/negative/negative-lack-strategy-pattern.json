@@ -1,0 +1,436 @@
+[
+  {
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/Notes/common/utils/src/main/ets/utils/DateUtil.ets",
+    "messages": [
+      {
+        "line": 438,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'getTipDateStr' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 438,
+        "rangeEnd": 456
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/commons/common_lib/src/main/ets/utils/WindowUtils.ets",
+    "messages": [
+      {
+        "line": 50,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'updateWidthBp' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 50,
+        "rangeEnd": 78
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/CarBeautyCare/commons/commonLib/src/main/ets/utils/LocateUtil.ets",
+    "messages": [
+      {
+        "line": 60,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'locationFailedAlert' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 60,
+        "rangeEnd": 82
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/commons/commonLib/src/main/ets/utils/LocateUtil.ets",
+    "messages": [
+      {
+        "line": 60,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'locationFailedAlert' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 60,
+        "rangeEnd": 82
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/ArtTraining/Application/products/entry/src/main/ets/viewmodels/HomeVM.ets",
+    "messages": [
+      {
+        "line": 99,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'handleClickStoreInfo' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 99,
+        "rangeEnd": 112
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/common/src/main/ets/default/view/ImageGridItemComponent.ets",
+    "messages": [
+      {
+        "line": 554,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'handleKeyEvent' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 554,
+        "rangeEnd": 572
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/common/src/main/ets/default/view/PhotoItem.ets",
+    "messages": [
+      {
+        "line": 728,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'handleKeyEvent' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 728,
+        "rangeEnd": 759
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/feature/browser/src/main/ets/default/view/album/AlbumGridItemNewStyle.ets",
+    "messages": [
+      {
+        "line": 479,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'changeTextResToPlural' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 479,
+        "rangeEnd": 499
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/feature/thirdselect/src/main/ets/default/view/ThirdSelectPhotoGridBase.ets",
+    "messages": [
+      {
+        "line": 161,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'onMenuClicked' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 161,
+        "rangeEnd": 182
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/abilityDialog/accessibilityWindowShortKeyDialog.ets",
+    "messages": [
+      {
+        "line": 230,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'setShortKeyAbility' contains only 2 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 230,
+        "rangeEnd": 254
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/abilityDialog/BluetoothPairDialog.ets",
+    "messages": [
+      {
+        "line": 586,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'onPairClick' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 586,
+        "rangeEnd": 600
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/bluetooth.ets",
+    "messages": [
+      {
+        "line": 396,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'itemClicked' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 396,
+        "rangeEnd": 412
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/customComponent.ets",
+    "messages": [
+      {
+        "line": 133,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'getSelectIndex' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 133,
+        "rangeEnd": 147
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "messages": [
+      {
+        "line": 208,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'updateL2tpSecretVisibility' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 208,
+        "rangeEnd": 218
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/addressrecognize/src/main/ets/view/ImageEdit.ets",
+    "messages": [
+      {
+        "line": 239,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'isMove' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 239,
+        "rangeEnd": 255
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/applicationexception/src/main/ets/view/ApplicationException.ets",
+    "messages": [
+      {
+        "line": 157,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'handleOperate' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 157,
+        "rangeEnd": 168
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/containernestedslide/src/main/ets/view/Scroller.ets",
+    "messages": [
+      {
+        "line": 51,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 51,
+        "rangeEnd": 92
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/databaseupgrade/src/main/ets/service/DataService.ets",
+    "messages": [
+      {
+        "line": 96,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'transform' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 96,
+        "rangeEnd": 106
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/databaseupgrade/src/main/ets/view/DatabaseUpgrade.ets",
+    "messages": [
+      {
+        "line": 70,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'updateVersion' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 70,
+        "rangeEnd": 93
+      }
+    ]
+  },
+  {
+    "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/train/pages/ExaminationDetailPage.ets",
+    "messages": [
+      {
+        "line": 43,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 43,
+        "rangeEnd": 246
+      }
+    ]
+  },
+  {
+    "filePath": "model-evaluation-testsuite/features/harmonyMusicFeature/src/main/ets/pages/Index.ets",
+    "messages": [
+      {
+        "line": 74,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 74,
+        "rangeEnd": 124
+      }
+    ]
+  },
+  {
+    "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/business/components/Calendar.ets",
+    "messages": [
+      {
+        "line": 428,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'getItemColor' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 428,
+        "rangeEnd": 439
+      }
+    ]
+  },
+  {
+    "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/common/common/components/PageHead.ets",
+    "messages": [
+      {
+        "line": 91,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'MenuBuilder' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 91,
+        "rangeEnd": 242
+      }
+    ]
+  },
+  {
+    "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/pages/Index.ets",
+    "messages": [
+      {
+        "line": 67,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'MenuBuilder' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 67,
+        "rangeEnd": 218
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/amqplib/entry/src/main/ets/components/ConsoleN.ets",
+    "messages": [
+      {
+        "line": 64,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'parseLogColor' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 64,
+        "rangeEnd": 73
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/amqplib/entry/src/main/ets/pages/Unit8ArrayUtils.ets",
+    "messages": [
+      {
+        "line": 67,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'stringToUint8Array' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 67,
+        "rangeEnd": 116
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/ASN1js/entry/src/ohosTest/ets/test/unitTests.test.ets",
+    "messages": [
+      {
+        "line": 35,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'unitTests' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 35,
+        "rangeEnd": 105
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/base64-js/entry/src/main/ets/pages/Unit8ArrayUtils.ets",
+    "messages": [
+      {
+        "line": 67,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'stringToUint8Array' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 67,
+        "rangeEnd": 117
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/dialogs/entry/src/main/ets/pages/Loading.ets",
+    "messages": [
+      {
+        "line": 50,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 50,
+        "rangeEnd": 85
+      }
+    ]
+  },
+  {
+    "filePath": "ostest_integration_test/function/ui_compare/uicompare/entry/src/ohosTest/ets/testability/pages/ComponentLayoutModifier/ComponentLayoutModifier011.ets",
+    "messages": [
+      {
+        "line": 50,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'applyNormalAttribute' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 50,
+        "rangeEnd": 74
+      }
+    ]
+  },
+  {
+    "filePath": "ostest_integration_test/function/ui_compare/uiCompareTest_01/entry/src/ohosTest/ets/test/model/Settings.ets",
+    "messages": [
+      {
+        "line": 139,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'changeWindowOrientation' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 139,
+        "rangeEnd": 170
+      }
+    ]
+  }
+]

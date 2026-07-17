@@ -70,14 +70,14 @@
         "rule": "@extrulesproject/long-method-check"
       },
       {
-        "line": 399,
+        "line": 413,
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'moveClipCanvasFreeType' is too long. Consider refactoring. (Current: 149 statements, Max: 50)",
         "rule": "@extrulesproject/long-method-check"
       },
       {
-        "line": 487,
+        "line": 501,
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'moveClipCanvasRatioType' is too long. Consider refactoring. (Current: 189 statements, Max: 50)",

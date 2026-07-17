@@ -1,0 +1,156 @@
+[
+  {
+    "filePath": "applications_photos/common/src/main/ets/default/view/dialog/CopyOrMoveDialog.ets",
+    "messages": [
+      {
+        "line": 45,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 68 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 45,
+        "rangeEnd": 134
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/common/src/main/ets/default/view/ImageGridItemComponent.ets",
+    "messages": [
+      {
+        "line": 282,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'buildIcon' has 69 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 282,
+        "rangeEnd": 375
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/accessibilityServiceInfo.ets",
+    "messages": [
+      {
+        "line": 402,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 72 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 402,
+        "rangeEnd": 485
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/vpnConnect.ets",
+    "messages": [
+      {
+        "line": 73,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 74 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 73,
+        "rangeEnd": 159
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/cardswiperanimation/src/main/ets/utils/CardSwiperComponent.ets",
+    "messages": [
+      {
+        "line": 145,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 77 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 145,
+        "rangeEnd": 294
+      }
+    ]
+  },
+  {
+    "filePath": "model-evaluation-testsuite/features/lifeFeature/src/main/ets/home/pages/ResidencePermitPage.ets",
+    "messages": [
+      {
+        "line": 30,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 77 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 30,
+        "rangeEnd": 121
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/dialogs/library/src/main/ets/components/BottonDialog/BottomListDialog.ets",
+    "messages": [
+      {
+        "line": 106,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 77 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 106,
+        "rangeEnd": 211
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/jmespathDemo/entry/src/main/ets/pages/Index.ets",
+    "messages": [
+      {
+        "line": 205,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 79 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 205,
+        "rangeEnd": 293
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/ohos_minizip/entry/src/main/ets/pages/Index.ets",
+    "messages": [
+      {
+        "line": 151,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 80 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 151,
+        "rangeEnd": 259
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/ohos_rive/library/src/ohosTest/ets/testability/pages/Index.ets",
+    "messages": [
+      {
+        "line": 81,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 78 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 81,
+        "rangeEnd": 212
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/socketio_2.x/entry/src/main/ets/pages/Index.ets",
+    "messages": [
+      {
+        "line": 27,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 78 statements and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 27,
+        "rangeEnd": 136
+      }
+    ]
+  }
+]

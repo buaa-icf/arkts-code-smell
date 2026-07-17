@@ -7,7 +7,9 @@
         "column": 0,
         "severity": "SUGGESTION",
         "message": "Code Clone Type-2 (different classes): CartPageLogic.ets:139-156 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/modules/scene/shopping/src/main/ets/logic/CartPageLogic.ets:238-255.",
-        "rule": "@extrulesproject/code-clone-fragment-check"
+        "rule": "@extrulesproject/code-clone-fragment-check",
+        "rangeStart": 139,
+        "rangeEnd": 156
       }
     ]
   },
@@ -19,7 +21,9 @@
         "column": 0,
         "severity": "SUGGESTION",
         "message": "Code Clone Type-2 (different classes): CartPageLogic.ets:122-139 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/scenes/shopping/src/main/ets/logic/CartPageLogic.ets:181-198.",
-        "rule": "@extrulesproject/code-clone-fragment-check"
+        "rule": "@extrulesproject/code-clone-fragment-check",
+        "rangeStart": 122,
+        "rangeEnd": 139
       }
     ]
   },
@@ -31,7 +35,9 @@
         "column": 0,
         "severity": "SUGGESTION",
         "message": "Code Clone Type-2 (different classes): EditNamePageVM.ets:10-49 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/viewModels/EditPhonePageVM.ets:10-49.",
-        "rule": "@extrulesproject/code-clone-fragment-check"
+        "rule": "@extrulesproject/code-clone-fragment-check",
+        "rangeStart": 10,
+        "rangeEnd": 49
       }
     ]
   }
