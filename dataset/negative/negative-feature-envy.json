@@ -1,0 +1,333 @@
+[
+  {
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/EnterpriseRecruitment/product/phone/src/main/ets/pages/mine/AvatarUpload.ets",
+    "messages": [
+      {
+        "line": 67,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'model' 35 times, but its metrics stay outside the envy rule (ATFD=91, LDA=0.45, CPFD=19; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 67,
+        "rangeEnd": 284
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/HealthAndFitnessTemplate/FitnessCenter/features/card/src/main/ets/pages/OrderDetail.ets",
+    "messages": [
+      {
+        "line": 27,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'orderInfo' 25 times, but its metrics stay outside the envy rule (ATFD=86, LDA=0.34, CPFD=20; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 27,
+        "rangeEnd": 199
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/feature/browser/src/main/ets/default/view/photo/MouseTurnPageButton.ets",
+    "messages": [
+      {
+        "line": 31,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'handleIconColor' has no external receiver access and 7 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 31,
+        "rangeEnd": 41
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/feature/browser/src/main/ets/default/view/photoGrid/PhotoGridPageActionBar.ets",
+    "messages": [
+      {
+        "line": 53,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'updateActionBarProp' has no external receiver access and 7 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 53,
+        "rangeEnd": 60
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/product/phone/src/main/ets/view/PhotoBrowserComponent.ets",
+    "messages": [
+      {
+        "line": 732,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'aboutToAppear' accesses external receiver 'param' 29 times, but its metrics stay outside the envy rule (ATFD=161, LDA=0.46, CPFD=23; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 732,
+        "rangeEnd": 935
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/product/phone/src/main/ets/view/PhotoGridView.ets",
+    "messages": [
+      {
+        "line": 185,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'onMenuClicked' accesses external receiver 'action' 15 times, but its metrics stay outside the envy rule (ATFD=80, LDA=0.34, CPFD=27; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 185,
+        "rangeEnd": 295
+      },
+      {
+        "line": 542,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'aboutToAppear' accesses external receiver 'Action' 18 times, but its metrics stay outside the envy rule (ATFD=77, LDA=0.43, CPFD=14; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 542,
+        "rangeEnd": 631
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/bluetoothPairedDeviceInfo.ets",
+    "messages": [
+      {
+        "line": 159,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'ConfigData' 9 times, but its metrics stay outside the envy rule (ATFD=63, LDA=0.35, CPFD=17; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 159,
+        "rangeEnd": 369
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/dateAndTime.ets",
+    "messages": [
+      {
+        "line": 175,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'changeValue' has no external receiver access and 7 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 175,
+        "rangeEnd": 192
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/passwordInput.ets",
+    "messages": [
+      {
+        "line": 334,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'updateView' has no external receiver access and 8 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 334,
+        "rangeEnd": 339
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "messages": [
+      {
+        "line": 60,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'initCertList' accesses external receiver 'cert' 15 times, but its metrics stay outside the envy rule (ATFD=51, LDA=0.41, CPFD=12; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 60,
+        "rangeEnd": 153
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/openVpnEdit.ets",
+    "messages": [
+      {
+        "line": 170,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'vpnConfig' 22 times, but its metrics stay outside the envy rule (ATFD=56, LDA=0.52, CPFD=6; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 170,
+        "rangeEnd": 345
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/customaddresspicker/src/main/ets/customaddresspicker/view/CustomAddressPicker.ets",
+    "messages": [
+      {
+        "line": 306,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'customTabs' accesses external receiver 'currentSelectInfo' 35 times, but its metrics stay outside the envy rule (ATFD=124, LDA=0.47, CPFD=16; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 306,
+        "rangeEnd": 506
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/miniplayeranimation/src/main/ets/model/DetailsPage.ets",
+    "messages": [
+      {
+        "line": 118,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'animationInfo' 69 times, but its metrics stay outside the envy rule (ATFD=115, LDA=0.39, CPFD=11; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 118,
+        "rangeEnd": 302
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/tabcontentoverflow/src/main/ets/mainpage/TabContentOverFlow.ets",
+    "messages": [
+      {
+        "line": 74,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'videoTabContent' accesses external receiver 'STRINGCONFIGURATION' 36 times, but its metrics stay outside the envy rule (ATFD=100, LDA=0.40, CPFD=12; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 74,
+        "rangeEnd": 308
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/videocreategif/src/main/ets/components/RangeSeekBarView.ets",
+    "messages": [
+      {
+        "line": 416,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'initUIRange' has no external receiver access and 57 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 416,
+        "rangeEnd": 440
+      }
+    ]
+  },
+  {
+    "filePath": "cases/CommonAppDevelopment/feature/videotrimmer/src/main/ets/videotrimmer/RangeSeekBarView.ets",
+    "messages": [
+      {
+        "line": 394,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'rightThumbUpdate' has no external receiver access and 33 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 394,
+        "rangeEnd": 423
+      }
+    ]
+  },
+  {
+    "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/train/view/AVPlayerDemo.ets",
+    "messages": [
+      {
+        "line": 359,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'iconOnclick' has no external receiver access and 12 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 359,
+        "rangeEnd": 387
+      }
+    ]
+  },
+  {
+    "filePath": "model-evaluation-testsuite/features/travelSolutionFeature/src/main/ets/travel/components/MapPage.ets",
+    "messages": [
+      {
+        "line": 122,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'build' has no external receiver access and 12 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 122,
+        "rangeEnd": 150
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/dialogs/library/src/main/ets/components/model/LoadingDialogModel.ets",
+    "messages": [
+      {
+        "line": 154,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'onDraw' has no external receiver access and 78 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 154,
+        "rangeEnd": 233
+      }
+    ]
+  },
+  {
+    "filePath": "openharmony_tpc_samples/net_snmp/entry/src/main/ets/pages/Index.ets",
+    "messages": [
+      {
+        "line": 36,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'snmp' 71 times, but its metrics stay outside the envy rule (ATFD=276, LDA=0.34, CPFD=27; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 36,
+        "rangeEnd": 757
+      }
+    ]
+  },
+  {
+    "filePath": "ostest_integration_test/function/ui_compare/uicompare/entry/src/ohosTest/ets/testability/pages/ComponentTextCommonTextMinFontSize/ComponentTextCommonTextMinFontSize003.ets",
+    "messages": [
+      {
+        "line": 27,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'build' has no external receiver access and 36 local accesses.",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 27,
+        "rangeEnd": 99
+      }
+    ]
+  },
+  {
+    "filePath": "ostest_integration_test/OHBM/entry/src/main/ets/pages/Performance.ets",
+    "messages": [
+      {
+        "line": 194,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'start' accesses external receiver 'data' 38 times, but its metrics stay outside the envy rule (ATFD=99, LDA=0.49, CPFD=15; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 194,
+        "rangeEnd": 351
+      }
+    ]
+  },
+  {
+    "filePath": "ostest_integration_test/scenario/MyGameCocos/OHproject/entry/src/main/ets/pages/index.ets",
+    "messages": [
+      {
+        "line": 125,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Feature Envy: method 'aboutToAppear' accesses external receiver 'msg' 30 times, but its metrics stay outside the envy rule (ATFD=135, LDA=0.42, CPFD=17; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 125,
+        "rangeEnd": 379
+      }
+    ]
+  }
+]
