@@ -28,20 +28,6 @@
     ]
   },
   {
-    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/network/src/main/ets/mocks/mockData/TransactionDatasetMock.ets",
-    "messages": [
-      {
-        "line": 42,
-        "column": 0,
-        "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'getMonthTransactionList' has 672 normalized tokens and was not reported by the code clone scan.",
-        "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 42,
-        "rangeEnd": 159
-      }
-    ]
-  },
-  {
     "filePath": "agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/mine/src/main/ets/pages/OrderDetailPage.ets",
     "messages": [
       {
@@ -52,20 +38,6 @@
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 129,
         "rangeEnd": 440
-      }
-    ]
-  },
-  {
-    "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
-    "messages": [
-      {
-        "line": 501,
-        "column": 0,
-        "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'moveClipCanvasRatioType' has 713 normalized tokens and was not reported by the code clone scan.",
-        "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 501,
-        "rangeEnd": 618
       }
     ]
   },
@@ -509,6 +481,34 @@
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 40,
         "rangeEnd": 2665
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/schedule/components/ScheduleForm.ets",
+    "messages": [
+      {
+        "line": 412,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Code Clone: fragment 'ScheduleForm.ets:412-428' does not form a 100-token exact normalized clone with its annotated counterpart in this scan.",
+        "rule": "@extrulesproject/code-clone-fragment-check",
+        "rangeStart": 412,
+        "rangeEnd": 428
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/position/src/main/ets/pages/TransactionSearch.ets",
+    "messages": [
+      {
+        "line": 5,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Code Clone: fragment 'TransactionSearch.ets:5-33' has no 100-token exact normalized clone with its annotated counterpart in this scan.",
+        "rule": "@extrulesproject/code-clone-fragment-check",
+        "rangeStart": 5,
+        "rangeEnd": 33
       }
     ]
   }

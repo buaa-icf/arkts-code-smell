@@ -1,43 +1,155 @@
 [
   {
-    "filePath": "applications_photos/common/src/main/ets/default/view/dialog/CopyOrMoveDialog.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/components/swiper_card/src/main/ets/components/TUISwiper.ets",
     "messages": [
       {
-        "line": 45,
+        "line": 137,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 68 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 60 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 45,
-        "rangeEnd": 134
+        "rangeStart": 137,
+        "rangeEnd": 214
       }
     ]
   },
   {
-    "filePath": "applications_photos/common/src/main/ets/default/view/ImageGridItemComponent.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_home/src/main/ets/views/BookListPage.ets",
     "messages": [
       {
-        "line": 282,
+        "line": 107,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'buildIcon' has 69 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 25 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 282,
-        "rangeEnd": 375
+        "rangeStart": 107,
+        "rangeEnd": 143
       }
     ]
   },
   {
-    "filePath": "applications_settings/product/phone/src/main/ets/pages/accessibilityServiceInfo.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/comp/MyBalanceCard.ets",
     "messages": [
       {
-        "line": 402,
+        "line": 6,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 72 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 52 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 402,
-        "rangeEnd": 485
+        "rangeStart": 6,
+        "rangeEnd": 68
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/BorrowDetailInfoPage.ets",
+    "messages": [
+      {
+        "line": 169,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'borrowSystem' has 32 code lines and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 169,
+        "rangeEnd": 204
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/Notes/common/utils/src/main/ets/utils/DateUtil.ets",
+    "messages": [
+      {
+        "line": 438,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'getTipDateStr' has 16 code lines and is at or below threshold 50.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 438,
+        "rangeEnd": 456
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/components/exam/src/main/ets/components/SelectComponent.ets",
+    "messages": [
+      {
+        "line": 103,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'option' has 80 code lines and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 103,
+        "rangeEnd": 200
+      }
+    ]
+  },
+  {
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/position/src/main/ets/components/TransactionInfo.ets",
+    "messages": [
+      {
+        "line": 10,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 80 code lines and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 10,
+        "rangeEnd": 111
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/common/src/main/ets/default/model/common/HistogramManager.ets",
+    "messages": [
+      {
+        "line": 238,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'drawSingleHistogram' has 30 code lines and is at or below threshold 50.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 238,
+        "rangeEnd": 276
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/common/src/main/ets/default/view/PhotoItem.ets",
+    "messages": [
+      {
+        "line": 202,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'onViewDataChanged' has 20 code lines and is at or below threshold 50.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 202,
+        "rangeEnd": 228
+      }
+    ]
+  },
+  {
+    "filePath": "applications_photos/feature/timeline/src/main/ets/view/TimelinePage.ets",
+    "messages": [
+      {
+        "line": 699,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 78 code lines and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 699,
+        "rangeEnd": 794
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/common/component/src/main/ets/default/switchComponent.ets",
+    "messages": [
+      {
+        "line": 31,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Negative candidate for Long Method: method 'build' has 35 code lines and is at or below threshold 80.",
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 31,
+        "rangeEnd": 73
       }
     ]
   },
@@ -48,7 +160,7 @@
         "line": 73,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 74 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 80 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 73,
         "rangeEnd": 159
@@ -56,100 +168,100 @@
     ]
   },
   {
-    "filePath": "cases/CommonAppDevelopment/feature/cardswiperanimation/src/main/ets/utils/CardSwiperComponent.ets",
+    "filePath": "cases/CommonAppDevelopment/feature/bluetooth/src/main/ets/viewmodel/AdvertiserBluetoothViewModel.ets",
     "messages": [
       {
-        "line": 145,
+        "line": 212,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 77 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'notifyCharacteristicChanged' has 40 code lines and is at or below threshold 50.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 145,
-        "rangeEnd": 294
+        "rangeStart": 212,
+        "rangeEnd": 262
       }
     ]
   },
   {
-    "filePath": "model-evaluation-testsuite/features/lifeFeature/src/main/ets/home/pages/ResidencePermitPage.ets",
+    "filePath": "cases/CommonAppDevelopment/feature/containernestedslide/src/main/ets/view/NewsDetailPage.ets",
     "messages": [
       {
-        "line": 30,
+        "line": 358,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 77 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'title' has 80 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 30,
-        "rangeEnd": 121
+        "rangeStart": 358,
+        "rangeEnd": 442
       }
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/dialogs/library/src/main/ets/components/BottonDialog/BottomListDialog.ets",
+    "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/mine/views/MineCoursePage.ets",
     "messages": [
       {
-        "line": 106,
+        "line": 31,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 77 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'MineListItem' has 80 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 106,
-        "rangeEnd": 211
+        "rangeStart": 31,
+        "rangeEnd": 118
       }
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/jmespathDemo/entry/src/main/ets/pages/Index.ets",
+    "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/train/view/AVPlayerDemo.ets",
     "messages": [
       {
-        "line": 205,
+        "line": 82,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 79 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'VideoPlayer' has 45 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 205,
-        "rangeEnd": 293
+        "rangeStart": 82,
+        "rangeEnd": 133
       }
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/ohos_minizip/entry/src/main/ets/pages/Index.ets",
+    "filePath": "openharmony_tpc_samples/mathjsDemo/entry/src/main/ets/pages/Index.ets",
     "messages": [
       {
-        "line": 151,
+        "line": 40,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 80 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 80 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 151,
-        "rangeEnd": 259
+        "rangeStart": 40,
+        "rangeEnd": 134
       }
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/ohos_rive/library/src/ohosTest/ets/testability/pages/Index.ets",
+    "filePath": "openharmony_tpc_samples/socketio_2.x/entry/src/main/ets/pages/MultiClientChat.ets",
     "messages": [
       {
-        "line": 81,
+        "line": 404,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 78 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 54 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 81,
-        "rangeEnd": 212
+        "rangeStart": 404,
+        "rangeEnd": 471
       }
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/socketio_2.x/entry/src/main/ets/pages/Index.ets",
+    "filePath": "ostest_integration_test/performance/arkui/benchmark_component/entry/src/main/ets/pages/base/button/ButtonOptionTypeSample.ets",
     "messages": [
       {
-        "line": 27,
+        "line": 29,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 78 statements and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 50 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 27,
-        "rangeEnd": 136
+        "rangeStart": 29,
+        "rangeEnd": 87
       }
     ]
   }
