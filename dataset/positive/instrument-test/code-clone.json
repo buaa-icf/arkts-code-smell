@@ -14,20 +14,6 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/schedule/components/ScheduleForm.ets",
-    "messages": [
-      {
-        "line": 412,
-        "column": 0,
-        "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): ScheduleForm.ets:412-428 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/schedule/components/ScheduleForm.ets:474-490. (120 tokens, 16 lines)",
-        "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 412,
-        "rangeEnd": 428
-      }
-    ]
-  },
-  {
     "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/agency/src/main/ets/mock/DataManager.ets",
     "messages": [
       {
@@ -168,20 +154,6 @@
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 39,
         "rangeEnd": 56
-      }
-    ]
-  },
-  {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/position/src/main/ets/pages/TransactionSearch.ets",
-    "messages": [
-      {
-        "line": 5,
-        "column": 0,
-        "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): TransactionSearch.ets:5-33 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/product/src/main/ets/pages/ProductSearch.ets:5-33.",
-        "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 5,
-        "rangeEnd": 33
       }
     ]
   },
@@ -377,6 +349,34 @@
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 78,
         "rangeEnd": 131
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/network/src/main/ets/mocks/mockData/TransactionDatasetMock.ets",
+    "messages": [
+      {
+        "line": 49,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same method): TransactionDatasetMock.ets > TransactionDatasetMock.getMonthTransactionList():49-61 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/network/src/main/ets/mocks/mockData/TransactionDatasetMock.ets > TransactionDatasetMock.getMonthTransactionList():82-94. (100 tokens, 13 lines)",
+        "rule": "@extrulesproject/code-clone-fragment-check",
+        "rangeStart": 49,
+        "rangeEnd": 61
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "messages": [
+      {
+        "line": 476,
+        "column": 0,
+        "severity": "SUGGESTION",
+        "message": "Code Clone Type-2 (same class): PictureBeautification.ets > PictureBeautification.moveClipCanvasFreeType():476-487 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets > PictureBeautification.moveClipCanvasRatioType():590-600. (100 tokens, 12 lines)",
+        "rule": "@extrulesproject/code-clone-fragment-check",
+        "rangeStart": 476,
+        "rangeEnd": 487
       }
     ]
   }

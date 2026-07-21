@@ -1,6 +1,6 @@
 negative-code-clone: 37
 negative-feature-envy: 24
 negative-lack-strategy-pattern: 31
-negative-long-method: 11
+negative-long-method: 19
 
-total: 103
+total: 111

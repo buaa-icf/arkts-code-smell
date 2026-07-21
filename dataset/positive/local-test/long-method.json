@@ -63,13 +63,6 @@
     "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
     "messages": [
       {
-        "line": 354,
-        "column": 3,
-        "severity": "SUGGESTION",
-        "message": "Method 'isMove' is too long. Consider refactoring. (Current: 213 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
-      },
-      {
         "line": 413,
         "column": 3,
         "severity": "SUGGESTION",
@@ -81,6 +74,18 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'moveClipCanvasRatioType' is too long. Consider refactoring. (Current: 189 statements, Max: 50)",
+        "rule": "@extrulesproject/long-method-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets",
+    "messages": [
+      {
+        "line": 606,
+        "column": 3,
+        "severity": "WARN",
+        "message": "Method 'UploadProfilePicDialogBuilder' is too long. Consider refactoring. (Current: 84 lines, Max: 80)",
         "rule": "@extrulesproject/long-method-check"
       }
     ]
