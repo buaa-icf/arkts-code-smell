@@ -149,16 +149,16 @@
     ]
   },
   {
-    "filePath": "applications_settings/product/phone/src/main/ets/pages/accessibility.ets",
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/aboutDevice.ets",
     "messages": [
       {
-        "line": 53,
+        "line": 35,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' has 356 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'build' was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 53,
-        "rangeEnd": 376
+        "rangeStart": 35,
+        "rangeEnd": 95
       }
     ]
   },
@@ -191,16 +191,16 @@
     ]
   },
   {
-    "filePath": "applications_settings/product/phone/src/test/AccessibilitySettingModel.test.ets",
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/storage.ets",
     "messages": [
       {
-        "line": 61,
+        "line": 51,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'AccessibilitySettingModelTest' has 362 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'build' was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 61,
-        "rangeEnd": 261
+        "rangeStart": 51,
+        "rangeEnd": 179
       }
     ]
   },

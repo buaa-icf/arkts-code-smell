@@ -198,24 +198,6 @@
         "rangeEnd": 100
       },
       {
-        "line": 90,
-        "column": 0,
-        "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): TimeCtrl.ets:90-100 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets:165-175.",
-        "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 90,
-        "rangeEnd": 100
-      },
-      {
-        "line": 90,
-        "column": 0,
-        "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): TimeCtrl.ets:90-100 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets:189-199.",
-        "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 90,
-        "rangeEnd": 100
-      },
-      {
         "line": 165,
         "column": 0,
         "severity": "SUGGESTION",
