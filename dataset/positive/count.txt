@@ -7,11 +7,11 @@ switch-statement: 24
 total: 56
 
 instrument-test
-code-clone: 29
+code-clone: 27
 data-clumps: 6
 feature-envy: 1
 long-method: 17
 switch-statement: 1
-total: 54
+total: 52
 
-total: 110
+total: 108

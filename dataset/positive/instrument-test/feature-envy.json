@@ -10,5 +10,84 @@
         "rule": "@extrulesproject/feature-envy-check"
       }
     ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "messages": [
+      {
+        "line": 311,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'drawClipImage' is feature-envious toward 'CanvasPath' (ATFD=29, LDA=0.26, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets",
+    "messages": [
+      {
+        "line": 76,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'initialiseEnumField' is feature-envious toward '@%unk/%unk: UserFullInfo|@agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets: MyDetailPage' (ATFD=44, LDA=0.20, CPFD=1). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      },
+      {
+        "line": 102,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'initialiseUserInfoTextField' is feature-envious toward '@%unk/%unk: UserInfo|@agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets: MyDetailPage' (ATFD=20, LDA=0.20, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/TravelTemplate/FullServiceHotel/features/service/hotel/src/main/ets/pages/HotelOrderPage.ets",
+    "messages": [
+      {
+        "line": 218,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'formInputStyle' is feature-envious toward 'TextInputAttribute' (ATFD=12, LDA=0.00, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/AddVisitorPage.ets",
+    "messages": [
+      {
+        "line": 24,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'cloneContact' is feature-envious toward 'MinePageVM' (ATFD=11, LDA=0.31, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/EditVisitorPage.ets",
+    "messages": [
+      {
+        "line": 23,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'cloneContact' is feature-envious toward 'MinePageVM' (ATFD=11, LDA=0.31, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/feed/src/main/ets/pages/FeedListPage.ets",
+    "messages": [
+      {
+        "line": 388,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'setClickLike' is feature-envious toward 'Feed|null' (ATFD=11, LDA=0.21, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
   }
 ]

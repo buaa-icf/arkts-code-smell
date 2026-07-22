@@ -70,5 +70,77 @@
         "rule": "@extrulesproject/feature-envy-check"
       }
     ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MedicalTemplate/MedicalCare/features/patient/src/main/ets/viewmodel/PatientViewModel.ets",
+    "messages": [
+      {
+        "line": 147,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'checkPatientInfo' is feature-envious toward 'PatientModel' (ATFD=21, LDA=0.00, CPFD=1). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/features/business_home/src/main/ets/viewmodel/StoreGuideDetailViewModel.ets",
+    "messages": [
+      {
+        "line": 8,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'getParams' is feature-envious toward 'GuideRouter' (ATFD=20, LDA=0.00, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/position/src/main/ets/viewModels/TransactionInfoVM.ets",
+    "messages": [
+      {
+        "line": 36,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'getTransactionRecordInfo' is feature-envious toward 'ITransactionInfo|undefined' (ATFD=19, LDA=0.14, CPFD=1). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/HouseholdService/features/business_home/src/main/ets/viewmodel/OrderVM.ets",
+    "messages": [
+      {
+        "line": 143,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'getTotalCash' is feature-envious toward '@%unk/%unk: GoodInfo|@agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/HouseholdService/features/business_home/src/main/ets/viewmodel/OrderVM.ets: OrderVM' (ATFD=13, LDA=0.13, CPFD=1). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/commons/lib_foundation/src/main/ets/model/ObserveModel.ets",
+    "messages": [
+      {
+        "line": 76,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'updateUserInfo' is feature-envious toward 'IUserInfo' (ATFD=12, LDA=0.00, CPFD=1). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
+  },
+  {
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_order/src/main/ets/viewModels/OrderInfoPageVM.ets",
+    "messages": [
+      {
+        "line": 45,
+        "column": 3,
+        "severity": "SUGGESTION",
+        "message": "Method 'getOrderInfo' is feature-envious toward 'IOrderInfo|undefined' (ATFD=11, LDA=0.15, CPFD=2). Consider moving logic or introducing delegation.",
+        "rule": "@extrulesproject/feature-envy-check"
+      }
+    ]
   }
 ]
