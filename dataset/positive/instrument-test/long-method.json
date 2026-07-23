@@ -144,13 +144,13 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/commons/component_lib/src/main/ets/components/CalenderView.ets",
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ToolsTemplate/SmartHome/features/device_service/src/main/ets/pages/QuickLoginPage.ets",
     "messages": [
       {
-        "line": 184,
+        "line": 103,
         "column": 3,
-        "severity": "WARN",
-        "message": "Method 'build' is too long. Consider refactoring. (Current: 95 lines, Max: 80)",
+        "severity": "SUGGESTION",
+        "message": "Method 'handleLoginWithHuaweiIDButton' is too long. Consider refactoring. (Current: 55 lines, Max: 50)",
         "rule": "@extrulesproject/long-method-check"
       }
     ]
@@ -192,13 +192,13 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_read_kit/src/main/ets/components/ReaderPage.ets",
+    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ToolsTemplate/SmartHome/features/device_service/src/main/ets/view/AgreementView.ets",
     "messages": [
       {
-        "line": 117,
+        "line": 54,
         "column": 3,
         "severity": "SUGGESTION",
-        "message": "Method 'preprocess' is too long. Consider refactoring. (Current: 58 lines, Max: 50)",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 82 lines, Max: 80)",
         "rule": "@extrulesproject/long-method-check"
       }
     ]
