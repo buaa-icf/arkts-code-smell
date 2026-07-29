@@ -1,6 +1,8 @@
 [
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/EnterpriseRecruitment/product/phone/src/main/ets/pages/mine/AvatarUpload.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/EnterpriseRecruitment/product/phone/src/main/ets/pages/mine/AvatarUpload.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "262956742f1daf990b21d316e397d55cb7f15496",
     "messages": [
       {
         "line": 289,
@@ -12,7 +14,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 311,
@@ -24,7 +28,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets",
+    "filePath": "agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 76,
@@ -43,7 +49,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/TravelTemplate/FullServiceHotel/features/service/hotel/src/main/ets/pages/HotelOrderPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/TravelTemplate/FullServiceHotel/features/service/hotel/src/main/ets/pages/HotelOrderPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 218,
@@ -55,7 +63,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/AddVisitorPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/AddVisitorPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 24,
@@ -67,7 +77,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/EditVisitorPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/EditVisitorPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 23,
@@ -79,7 +91,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/feed/src/main/ets/pages/FeedListPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/feed/src/main/ets/pages/FeedListPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 388,

@@ -1,6 +1,8 @@
 [
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/model/accessibilityImpl/AccessibilitySettingModel.ets",
+    "filePath": "applications_settings/product/phone/src/main/ets/model/accessibilityImpl/AccessibilitySettingModel.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "2b5f9146ba664424f2987983e4dab7e92f436fef",
     "messages": [
       {
         "line": 32,
@@ -12,7 +14,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "2b5f9146ba664424f2987983e4dab7e92f436fef",
     "messages": [
       {
         "line": 60,
@@ -24,7 +28,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MedicalTemplate/MedicalCare/common/common/src/main/ets/api/BaseApi.ets",
+    "filePath": "agc-template-market-harmonyos-demos/MedicalTemplate/MedicalCare/common/common/src/main/ets/api/BaseApi.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "c21e0a6ca8bc7fe40af7557ca325954e0fab9968",
     "messages": [
       {
         "line": 67,
@@ -36,7 +42,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MedicalTemplate/MedicalCare/features/patient/src/main/ets/viewmodel/PatientViewModel.ets",
+    "filePath": "agc-template-market-harmonyos-demos/MedicalTemplate/MedicalCare/features/patient/src/main/ets/viewmodel/PatientViewModel.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
         "line": 147,
@@ -48,7 +56,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/flight/src/main/ets/pages/SubmitOrderPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/flight/src/main/ets/pages/SubmitOrderPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
         "line": 98,
@@ -60,7 +70,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
         "line": 413,
@@ -79,7 +91,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets",
+    "filePath": "agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
         "line": 606,

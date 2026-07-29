@@ -1,6 +1,8 @@
 [
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/components/reader_tool_bar/src/main/ets/components/ReaderToolBar.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/components/reader_tool_bar/src/main/ets/components/ReaderToolBar.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 198,
@@ -12,7 +14,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_home/src/main/ets/views/SearchPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_home/src/main/ets/views/SearchPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 88,
@@ -24,7 +28,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/comp/MyInfoCard.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/comp/MyInfoCard.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 145,
@@ -36,7 +42,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/AboutPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/AboutPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 68,
@@ -48,7 +56,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/FeedbackPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/FeedbackPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 25,
@@ -60,7 +70,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/LoginPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/LoginPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 233,
@@ -72,7 +84,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/MemberAgreementPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/MemberAgreementPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 7,
@@ -84,7 +98,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/MemberCenterPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/MemberCenterPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 29,
@@ -96,7 +112,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/RechargePage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/RechargePage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 37,
@@ -108,7 +126,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_read_kit/src/main/ets/components/BookCoverCard.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_read_kit/src/main/ets/components/BookCoverCard.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 42,
@@ -120,7 +140,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/commons/lib_foundation/src/main/ets/featurecomponents/tabswiper/TabSwiper.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/commons/lib_foundation/src/main/ets/featurecomponents/tabswiper/TabSwiper.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "37fedd6f29f14a6dc6ec41252556d309ffcbd8db",
     "messages": [
       {
         "line": 230,
@@ -132,7 +154,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/components/swiper_card/src/main/ets/components/TUISwiper.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/components/swiper_card/src/main/ets/components/TUISwiper.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 68,
@@ -144,7 +168,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ToolsTemplate/SmartHome/features/device_service/src/main/ets/pages/QuickLoginPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ToolsTemplate/SmartHome/features/device_service/src/main/ets/pages/QuickLoginPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "c21e0a6ca8bc7fe40af7557ca325954e0fab9968",
     "messages": [
       {
         "line": 103,
@@ -156,7 +182,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/agency/src/main/ets/agency/components/AgencyTaskCalender.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/agency/src/main/ets/agency/components/AgencyTaskCalender.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 128,
@@ -168,7 +196,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/schedule/components/ScheduleForm.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/schedule/components/ScheduleForm.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "c21e0a6ca8bc7fe40af7557ca325954e0fab9968",
     "messages": [
       {
         "line": 255,
@@ -180,7 +210,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FoodAndDrinkTemplate/TeaDrinkOrders/features/order/src/main/ets/pages/GoodDetailPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FoodAndDrinkTemplate/TeaDrinkOrders/features/order/src/main/ets/pages/GoodDetailPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 287,
@@ -192,7 +224,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ToolsTemplate/SmartHome/features/device_service/src/main/ets/view/AgreementView.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ToolsTemplate/SmartHome/features/device_service/src/main/ets/view/AgreementView.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 54,

@@ -1,6 +1,8 @@
 [
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/model/accessibilityImpl/AccessibilitySettingModel.ets",
+    "filePath": "applications_settings/product/phone/src/main/ets/model/accessibilityImpl/AccessibilitySettingModel.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "2b5f9146ba664424f2987983e4dab7e92f436fef",
     "messages": [
       {
         "line": 3,
@@ -12,7 +14,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/accessibilityScreenTouch.ets",
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/accessibilityScreenTouch.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "2b5f9146ba664424f2987983e4dab7e92f436fef",
     "messages": [
       {
         "line": 4,
@@ -24,7 +28,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "2b5f9146ba664424f2987983e4dab7e92f436fef",
     "messages": [
       {
         "line": 2,
@@ -43,7 +49,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/vpn/vpnLine.ets",
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/vpnLine.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "2b5f9146ba664424f2987983e4dab7e92f436fef",
     "messages": [
       {
         "line": 118,
@@ -55,10 +63,12 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_photos/feature/editor/src/main/ets/default/view/CropStyleBar.ets",
+    "filePath": "applications_photos/feature/editor/src/main/ets/default/view/CropStyleBar.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "2136d479acb81ba9a2ba26e6221ec0afbd0e24c7",
     "messages": [
       {
-        "line": 9,
+        "line": 130,
         "column": 4,
         "severity": "SUGGESTION",
         "message": "Long if-else chain with 8 branches detected in method 'onRotateClicked'. Consider using polymorphism or strategy.",
@@ -67,7 +77,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/MoneyTrack/components/bill_data_processing/src/main/ets/utils/basedb/BaseDB.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/MoneyTrack/components/bill_data_processing/src/main/ets/utils/basedb/BaseDB.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "55a58abb4cfca378cf880570caf7ea6596b3c135",
     "messages": [
       {
         "line": 281,
@@ -79,7 +91,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/MoneyTrack/components/bill_manage/src/main/ets/components/CustomKeyboard.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/MoneyTrack/components/bill_manage/src/main/ets/components/CustomKeyboard.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "4388a85a0d794cc3ac76b2d49e4032a9966bad62",
     "messages": [
       {
         "line": 4,
@@ -91,7 +105,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/Notes/components/secretlock/src/main/ets/util/AuthUtil.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/Notes/components/secretlock/src/main/ets/util/AuthUtil.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "55a58abb4cfca378cf880570caf7ea6596b3c135",
     "messages": [
       {
         "line": 2,
@@ -103,7 +119,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/commons/datasource/src/main/ets/ExamService.ets",
+    "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/commons/datasource/src/main/ets/ExamService.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "8491a4b9ea2846ad2f29dc2c665b9a0cc079c303",
     "messages": [
       {
         "line": 5,
@@ -115,7 +133,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/specialExercises/SpecialExercisesView.ets",
+    "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/specialExercises/SpecialExercisesView.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "217329ee5331c096323a78a1dad5c32ff807269e",
     "messages": [
       {
         "line": 29,
@@ -127,7 +147,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/ArtTraining/Application/feature/mine/src/main/ets/utils/OrderUtil.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/ArtTraining/Application/feature/mine/src/main/ets/utils/OrderUtil.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "37fedd6f29f14a6dc6ec41252556d309ffcbd8db",
     "messages": [
       {
         "line": 2,
@@ -139,7 +161,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/commonlib/src/main/ets/utils/FormatUtil.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/commonlib/src/main/ets/utils/FormatUtil.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b516ad48c1532e8c313354b9b6cbfce530b0c457",
     "messages": [
       {
         "line": 121,
@@ -151,7 +175,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FoodAndDrinkTemplate/TeaDrinkOrders/commons/common/src/main/ets/mock/MockResponse.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FoodAndDrinkTemplate/TeaDrinkOrders/commons/common/src/main/ets/mock/MockResponse.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "9f6bd02dccf8ab5645ba00970b2184f14bbd017b",
     "messages": [
       {
         "line": 4,
@@ -163,7 +189,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/HealthAndFitnessTemplate/FitnessCenter/common/external_interactions/src/main/ets/Service/MockService.ets",
+    "filePath": "agc-template-market-harmonyos-demos/HealthAndFitnessTemplate/FitnessCenter/common/external_interactions/src/main/ets/Service/MockService.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "df8720db99075978371a5a00c82c4404aad09273",
     "messages": [
       {
         "line": 2,
@@ -175,7 +203,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/HouseholdService/commons/lib_foundation/src/main/ets/http/HttpMockMap.ets",
+    "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/HouseholdService/commons/lib_foundation/src/main/ets/http/HttpMockMap.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "cb41eed7ca7ca350c4fab8c8884aa1bb7f698235",
     "messages": [
       {
         "line": 24,
@@ -187,7 +217,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/LifeBeauty/commons/utils/src/main/ets/http/AxiosBase.ets",
+    "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/LifeBeauty/commons/utils/src/main/ets/http/AxiosBase.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "366bef4f9bddb95ebc4abb3999af1aeee0ab7aea",
     "messages": [
       {
         "line": 53,
@@ -199,7 +231,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/Parking/commons/componentLib/src/main/ets/components/CommonKeyboard.ets",
+    "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/Parking/commons/componentLib/src/main/ets/components/CommonKeyboard.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "267b7149e3146d0579a4041aee76f9ed2f01581c",
     "messages": [
       {
         "line": 2,
@@ -211,7 +245,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/commons/lib_common/src/main/ets/httprequest/AxiosHttp.ets",
+    "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/commons/lib_common/src/main/ets/httprequest/AxiosHttp.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "428d050edf09fed0550eafcc3c37eaaf700ea929",
     "messages": [
       {
         "line": 4,
@@ -223,7 +259,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_keyboard/src/main/ets/components/UILicensePlate.ets",
+    "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_keyboard/src/main/ets/components/UILicensePlate.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "538952eb404d1ce9aac8dc9f4c3be2e99a65ffc5",
     "messages": [
       {
         "line": 2,
@@ -235,7 +273,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MovieTVAndLivestreamingTemplate/WebShortDrama/components/video_swiper/src/main/ets/view/VideoPlayView.ets",
+    "filePath": "agc-template-market-harmonyos-demos/MovieTVAndLivestreamingTemplate/WebShortDrama/components/video_swiper/src/main/ets/view/VideoPlayView.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "37fedd6f29f14a6dc6ec41252556d309ffcbd8db",
     "messages": [
       {
         "line": 3,
@@ -247,7 +287,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/NavigationTemplate/Metro/features/Home/src/main/ets/functions/HomeFunctions.ets",
+    "filePath": "agc-template-market-harmonyos-demos/NavigationTemplate/Metro/features/Home/src/main/ets/functions/HomeFunctions.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "4d0dddea65a6c2deab7e4c138abc02ae1187c08f",
     "messages": [
       {
         "line": 2,
@@ -259,7 +301,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/NewsTemplate/News/commons/network/src/main/ets/mock/MockResponse.ets",
+    "filePath": "agc-template-market-harmonyos-demos/NewsTemplate/News/commons/network/src/main/ets/mock/MockResponse.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "9ff98885c9081e9d92be411ad76d9e9de48c9cb5",
     "messages": [
       {
         "line": 4,
@@ -271,7 +315,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/NewsTemplate/News/features/mine/src/main/ets/utils/SetFontSizeUtil.ets",
+    "filePath": "agc-template-market-harmonyos-demos/NewsTemplate/News/features/mine/src/main/ets/utils/SetFontSizeUtil.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "8149d522ce87c15a0df9226e95cf51cc1dae04e1",
     "messages": [
       {
         "line": 3,

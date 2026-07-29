@@ -1,6 +1,8 @@
 [
   {
     "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/Notes/common/utils/src/main/ets/utils/DateUtil.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "6541b36921f815ecb75450bcb50486f72476e4cd",
     "messages": [
       {
         "line": 438,
@@ -15,6 +17,8 @@
   },
   {
     "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/commons/common_lib/src/main/ets/utils/WindowUtils.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "d471920b6ea1c32af2e51e2118b1de1bb1fab586",
     "messages": [
       {
         "line": 50,
@@ -29,6 +33,8 @@
   },
   {
     "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/CarBeautyCare/commons/commonLib/src/main/ets/utils/LocateUtil.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "d471920b6ea1c32af2e51e2118b1de1bb1fab586",
     "messages": [
       {
         "line": 60,
@@ -43,6 +49,8 @@
   },
   {
     "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/commons/commonLib/src/main/ets/utils/LocateUtil.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "26912e9e68f7c2e8768ff58129d6f4e49327d0c5",
     "messages": [
       {
         "line": 60,
@@ -57,6 +65,8 @@
   },
   {
     "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/ArtTraining/Application/products/entry/src/main/ets/viewmodels/HomeVM.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "09ef2bf52d23b0ad2c6e3b3d39b648f61a67e59c",
     "messages": [
       {
         "line": 99,
@@ -71,6 +81,8 @@
   },
   {
     "filePath": "applications_photos/common/src/main/ets/default/view/ImageGridItemComponent.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "08ca985b4295e637b3810b7bc4bb9b761c964b31",
     "messages": [
       {
         "line": 554,
@@ -85,6 +97,8 @@
   },
   {
     "filePath": "applications_photos/common/src/main/ets/default/view/PhotoItem.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "12015b275803090a4bba2ef78bf50e729028a696",
     "messages": [
       {
         "line": 728,
@@ -99,6 +113,8 @@
   },
   {
     "filePath": "applications_photos/feature/browser/src/main/ets/default/view/album/AlbumGridItemNewStyle.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "65020d33a0f3679d88f37383040662d2150e8846",
     "messages": [
       {
         "line": 479,
@@ -113,6 +129,8 @@
   },
   {
     "filePath": "applications_photos/feature/thirdselect/src/main/ets/default/view/ThirdSelectPhotoGridBase.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "cf8fed90a4919498399fc77b69401aa109e51229",
     "messages": [
       {
         "line": 161,
@@ -127,6 +145,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/abilityDialog/accessibilityWindowShortKeyDialog.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "700fe2140f0825c755025543ae75f0fe12943fd1",
     "messages": [
       {
         "line": 230,
@@ -141,6 +161,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/abilityDialog/BluetoothPairDialog.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "700fe2140f0825c755025543ae75f0fe12943fd1",
     "messages": [
       {
         "line": 586,
@@ -155,6 +177,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/bluetooth.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "025de036c4842cb55364065f6b61d748b0eb2ef2",
     "messages": [
       {
         "line": 396,
@@ -169,6 +193,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/customComponent.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "f689ae0e774010be19f6e50341236a9c72072b87",
     "messages": [
       {
         "line": 133,
@@ -183,6 +209,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "44b9d4108fe599a50ba2c9b9ed67b75118146d1a",
     "messages": [
       {
         "line": 208,
@@ -197,6 +225,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/addressrecognize/src/main/ets/view/ImageEdit.ets",
+    "sourceProject": "cases",
+    "commitHash": "4dd95a706d1d4d1c1350029a76eda5c696315b37",
     "messages": [
       {
         "line": 239,
@@ -211,6 +241,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/applicationexception/src/main/ets/view/ApplicationException.ets",
+    "sourceProject": "cases",
+    "commitHash": "3859e20c0506f0c879e85aa0259801aa3a863504",
     "messages": [
       {
         "line": 157,
@@ -225,6 +257,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/containernestedslide/src/main/ets/view/Scroller.ets",
+    "sourceProject": "cases",
+    "commitHash": "14c499626eb9c3b0d3576ebcb0a06bfc31fdfc19",
     "messages": [
       {
         "line": 51,
@@ -239,6 +273,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/databaseupgrade/src/main/ets/service/DataService.ets",
+    "sourceProject": "cases",
+    "commitHash": "b0b8d153b8f07083c5c259fd687664d5c4a70117",
     "messages": [
       {
         "line": 96,
@@ -253,6 +289,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/databaseupgrade/src/main/ets/view/DatabaseUpgrade.ets",
+    "sourceProject": "cases",
+    "commitHash": "f824fd33219b3776aee09f0949f004c70f67aff3",
     "messages": [
       {
         "line": 70,
@@ -267,6 +305,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/train/pages/ExaminationDetailPage.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "96a4b4446d376316316b3500b48dcc8548cc1b07",
     "messages": [
       {
         "line": 43,
@@ -281,6 +321,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/harmonyMusicFeature/src/main/ets/pages/Index.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "7855203a8b6b747ac8ddd7a59f2ccfc98fd9cc65",
     "messages": [
       {
         "line": 74,
@@ -295,6 +337,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/business/components/Calendar.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "924cec37fc87193a88940949b4e74d288acfcf59",
     "messages": [
       {
         "line": 428,
@@ -309,6 +353,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/common/common/components/PageHead.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "924cec37fc87193a88940949b4e74d288acfcf59",
     "messages": [
       {
         "line": 91,
@@ -323,6 +369,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/pages/Index.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "924cec37fc87193a88940949b4e74d288acfcf59",
     "messages": [
       {
         "line": 67,
@@ -337,6 +385,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/amqplib/entry/src/main/ets/components/ConsoleN.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "9be4d961fdba4011d67bcc5d58ee690df97fc8a5",
     "messages": [
       {
         "line": 64,
@@ -351,6 +401,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/amqplib/entry/src/main/ets/pages/Unit8ArrayUtils.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "9be4d961fdba4011d67bcc5d58ee690df97fc8a5",
     "messages": [
       {
         "line": 67,
@@ -365,6 +417,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/ASN1js/entry/src/ohosTest/ets/test/unitTests.test.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "a2d6dce2d34596da6e8d477cf98f21f1878e9145",
     "messages": [
       {
         "line": 35,
@@ -379,6 +433,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/base64-js/entry/src/main/ets/pages/Unit8ArrayUtils.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "9258d0300e42922a8f6158a45c068c4104fe5045",
     "messages": [
       {
         "line": 67,
@@ -393,6 +449,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/dialogs/entry/src/main/ets/pages/Loading.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "0d811e28028c0d707b4f85c01cfbf918c8a09fa0",
     "messages": [
       {
         "line": 50,
@@ -407,6 +465,8 @@
   },
   {
     "filePath": "ostest_integration_test/function/ui_compare/uicompare/entry/src/ohosTest/ets/testability/pages/ComponentLayoutModifier/ComponentLayoutModifier011.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "0699a1202ae54acc9d23f54876b2a68ec64ec00c",
     "messages": [
       {
         "line": 50,
@@ -421,6 +481,8 @@
   },
   {
     "filePath": "ostest_integration_test/function/ui_compare/uiCompareTest_01/entry/src/ohosTest/ets/test/model/Settings.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "cfa2c856852f8dc5f90290ee7856809b59068002",
     "messages": [
       {
         "line": 139,

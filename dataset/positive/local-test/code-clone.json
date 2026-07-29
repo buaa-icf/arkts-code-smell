@@ -1,12 +1,14 @@
 [
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/modules/scene/shopping/src/main/ets/logic/CartPageLogic.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/modules/scene/shopping/src/main/ets/logic/CartPageLogic.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "4a64a51688f5fca031a870b7748157e280f0da87",
     "messages": [
       {
         "line": 139,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): CartPageLogic.ets:139-156 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/modules/scene/shopping/src/main/ets/logic/CartPageLogic.ets:238-255.",
+        "message": "Code Clone Type-2 (different classes): CartPageLogic.ets:139-156 is similar to agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/modules/scene/shopping/src/main/ets/logic/CartPageLogic.ets:238-255.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 139,
         "rangeEnd": 156
@@ -14,13 +16,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/scenes/shopping/src/main/ets/logic/CartPageLogic.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/scenes/shopping/src/main/ets/logic/CartPageLogic.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "572aa1adfb2890f44168c7efbce4d46bc5ee53f6",
     "messages": [
       {
         "line": 122,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): CartPageLogic.ets:122-139 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/scenes/shopping/src/main/ets/logic/CartPageLogic.ets:181-198.",
+        "message": "Code Clone Type-2 (different classes): CartPageLogic.ets:122-139 is similar to agc-template-market-harmonyos-demos/ShoppingTemplate/ComprehensiveMall/scenes/shopping/src/main/ets/logic/CartPageLogic.ets:181-198.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 122,
         "rangeEnd": 139
@@ -28,13 +32,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/viewModels/EditNamePageVM.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/viewModels/EditNamePageVM.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
         "line": 10,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): EditNamePageVM.ets:10-49 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/viewModels/EditPhonePageVM.ets:10-49.",
+        "message": "Code Clone Type-2 (different classes): EditNamePageVM.ets:10-49 is similar to agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/viewModels/EditPhonePageVM.ets:10-49.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 10,
         "rangeEnd": 49

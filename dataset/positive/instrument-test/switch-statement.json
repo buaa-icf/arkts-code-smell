@@ -1,6 +1,8 @@
 [
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/components/CarouseCutToolBar.ets",
+    "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/components/CarouseCutToolBar.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "8060bd7f522db5e7fee45fe8eb38d5ceadb90d54",
     "messages": [
       {
         "line": 3,
