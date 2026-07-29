@@ -1,6 +1,8 @@
 [
   {
     "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/EnterpriseRecruitment/product/phone/src/main/ets/pages/mine/AvatarUpload.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "d471920b6ea1c32af2e51e2118b1de1bb1fab586",
     "messages": [
       {
         "line": 67,
@@ -15,6 +17,8 @@
   },
   {
     "filePath": "agc-template-market-harmonyos-demos/HealthAndFitnessTemplate/FitnessCenter/features/card/src/main/ets/pages/OrderDetail.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "d217a91e77a4c4127cfb660d45c290b7f9e66b60",
     "messages": [
       {
         "line": 27,
@@ -29,6 +33,8 @@
   },
   {
     "filePath": "applications_photos/feature/browser/src/main/ets/default/view/photo/MouseTurnPageButton.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "7684e29e1d71d68983eb3bf06927834ad9eff688",
     "messages": [
       {
         "line": 31,
@@ -43,6 +49,8 @@
   },
   {
     "filePath": "applications_photos/feature/browser/src/main/ets/default/view/photoGrid/PhotoGridPageActionBar.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "cf8fed90a4919498399fc77b69401aa109e51229",
     "messages": [
       {
         "line": 53,
@@ -57,6 +65,8 @@
   },
   {
     "filePath": "applications_photos/product/phone/src/main/ets/view/PhotoBrowserComponent.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "3b383cece71712d8e4fef05978b2c3f3bfe30295",
     "messages": [
       {
         "line": 732,
@@ -71,6 +81,8 @@
   },
   {
     "filePath": "applications_photos/product/phone/src/main/ets/view/PhotoGridView.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "e6a06712a0e6ad38414179f634c3bfea68fdd5a1",
     "messages": [
       {
         "line": 185,
@@ -94,6 +106,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/bluetoothPairedDeviceInfo.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "700fe2140f0825c755025543ae75f0fe12943fd1",
     "messages": [
       {
         "line": 159,
@@ -108,6 +122,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/dateAndTime.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "9a8eaa30e85d019fb6228895de918519d9e28c09",
     "messages": [
       {
         "line": 175,
@@ -122,6 +138,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/passwordInput.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "8c2cb2968cbc04fbc219aac288779a4dd6c230fe",
     "messages": [
       {
         "line": 334,
@@ -136,6 +154,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/ipsecVpnEdit.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "44b9d4108fe599a50ba2c9b9ed67b75118146d1a",
     "messages": [
       {
         "line": 60,
@@ -150,6 +170,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/openVpnEdit.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "685e44e622d52f285c488db9178fa6b973e74352",
     "messages": [
       {
         "line": 170,
@@ -164,6 +186,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/customaddresspicker/src/main/ets/customaddresspicker/view/CustomAddressPicker.ets",
+    "sourceProject": "cases",
+    "commitHash": "0d38dc14920763a7e47dd4057d1146f9988a6090",
     "messages": [
       {
         "line": 306,
@@ -178,6 +202,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/miniplayeranimation/src/main/ets/model/DetailsPage.ets",
+    "sourceProject": "cases",
+    "commitHash": "0d38dc14920763a7e47dd4057d1146f9988a6090",
     "messages": [
       {
         "line": 118,
@@ -192,6 +218,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/tabcontentoverflow/src/main/ets/mainpage/TabContentOverFlow.ets",
+    "sourceProject": "cases",
+    "commitHash": "0e986d8f81805f77033f7c0518813e18404e4d2f",
     "messages": [
       {
         "line": 74,
@@ -206,6 +234,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/videocreategif/src/main/ets/components/RangeSeekBarView.ets",
+    "sourceProject": "cases",
+    "commitHash": "94e820420143e404b2d8db0bde54e9a5d8acde39",
     "messages": [
       {
         "line": 416,
@@ -220,6 +250,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/videotrimmer/src/main/ets/videotrimmer/RangeSeekBarView.ets",
+    "sourceProject": "cases",
+    "commitHash": "80ede0bf1cc87096571790b0679952e81b565303",
     "messages": [
       {
         "line": 394,
@@ -234,6 +266,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/train/view/AVPlayerDemo.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "96a4b4446d376316316b3500b48dcc8548cc1b07",
     "messages": [
       {
         "line": 359,
@@ -248,6 +282,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/travelSolutionFeature/src/main/ets/travel/components/MapPage.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "1323799bcb87fcde02cfc95a7bba99d65090b1b8",
     "messages": [
       {
         "line": 122,
@@ -262,6 +298,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/dialogs/library/src/main/ets/components/model/LoadingDialogModel.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "c0e4f8adca115f53a5081f59c2fb3d72bb7aeb8b",
     "messages": [
       {
         "line": 154,
@@ -276,6 +314,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/net_snmp/entry/src/main/ets/pages/Index.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "f74afe940f0bf2c97a7b48022d6d52c28eb62ed8",
     "messages": [
       {
         "line": 36,
@@ -290,6 +330,8 @@
   },
   {
     "filePath": "ostest_integration_test/function/ui_compare/uicompare/entry/src/ohosTest/ets/testability/pages/ComponentTextCommonTextMinFontSize/ComponentTextCommonTextMinFontSize003.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "104d6f38ba1ff2d35d1119bd0a72c3cd35bd9a16",
     "messages": [
       {
         "line": 27,
@@ -304,6 +346,8 @@
   },
   {
     "filePath": "ostest_integration_test/OHBM/entry/src/main/ets/pages/Performance.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "2799db3a93cfbd6f02bf070af55fa5ab288a3d5d",
     "messages": [
       {
         "line": 194,
@@ -318,6 +362,8 @@
   },
   {
     "filePath": "ostest_integration_test/scenario/MyGameCocos/OHproject/entry/src/main/ets/pages/index.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "c35ca06d49d1531c93c25ac42380885bb970cbe7",
     "messages": [
       {
         "line": 125,

@@ -1,6 +1,8 @@
 [
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/applications_settings/product/phone/src/main/ets/pages/wifi.ets",
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/wifi.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "2b5f9146ba664424f2987983e4dab7e92f436fef",
     "messages": [
       {
         "line": 340,
@@ -12,7 +14,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/comp/AccountCard.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/comp/AccountCard.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "621b5f966691fd276e1618b979065ea77f47ef26",
     "messages": [
       {
         "line": 31,
@@ -24,7 +28,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/RechargePage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/RechargePage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "c21e0a6ca8bc7fe40af7557ca325954e0fab9968",
     "messages": [
       {
         "line": 25,
@@ -36,7 +42,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/commons/src/main/ets/model/User.ets",
+    "filePath": "agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/commons/src/main/ets/model/User.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "9dddb6a48a5ec8d5016d3ef49e075e34d45665c8",
     "messages": [
       {
         "line": 81,
@@ -48,7 +56,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/components/answer_questions/src/main/ets/components/AnswerQuestionsPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/components/answer_questions/src/main/ets/components/AnswerQuestionsPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "d35e3a2c7142868cbf5d5f318499631299306499",
     "messages": [
       {
         "line": 709,
@@ -60,7 +70,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/TravelTemplate/FullServiceHotel/features/service/hotel/src/main/ets/viewmodels/HotelOrderPageVM.ets",
+    "filePath": "agc-template-market-harmonyos-demos/TravelTemplate/FullServiceHotel/features/service/hotel/src/main/ets/viewmodels/HotelOrderPageVM.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "d35e3a2c7142868cbf5d5f318499631299306499",
     "messages": [
       {
         "line": 28,
@@ -72,7 +84,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MedicalTemplate/MedicalCare/features/patient/src/main/ets/viewmodel/PatientViewModel.ets",
+    "filePath": "agc-template-market-harmonyos-demos/MedicalTemplate/MedicalCare/features/patient/src/main/ets/viewmodel/PatientViewModel.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
         "line": 147,
@@ -84,7 +98,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/features/business_home/src/main/ets/viewmodel/StoreGuideDetailViewModel.ets",
+    "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/features/business_home/src/main/ets/viewmodel/StoreGuideDetailViewModel.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "69b8b81ae984e1d95ca344cf3449040619a4ac0a",
     "messages": [
       {
         "line": 8,
@@ -96,7 +112,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/position/src/main/ets/viewModels/TransactionInfoVM.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/position/src/main/ets/viewModels/TransactionInfoVM.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
         "line": 36,
@@ -108,7 +126,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/HouseholdService/features/business_home/src/main/ets/viewmodel/OrderVM.ets",
+    "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/HouseholdService/features/business_home/src/main/ets/viewmodel/OrderVM.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
         "line": 143,
@@ -120,7 +140,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/commons/lib_foundation/src/main/ets/model/ObserveModel.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/Express/commons/lib_foundation/src/main/ets/model/ObserveModel.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "0e3a54372f8117e4ca2c0dd6ade6103e590af04e",
     "messages": [
       {
         "line": 76,
@@ -132,7 +154,9 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_order/src/main/ets/viewModels/OrderInfoPageVM.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_order/src/main/ets/viewModels/OrderInfoPageVM.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
         "line": 45,

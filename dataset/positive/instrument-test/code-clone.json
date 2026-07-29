@@ -1,12 +1,14 @@
 [
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/AboutPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/AboutPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 71,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): AboutPage.ets:71-124 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/AboutPage.ets:128-185. (102 tokens, 26 lines)",
+        "message": "Code Clone Type-2 (different classes): AboutPage.ets:71-124 is similar to agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/feature/book_person/src/main/ets/views/AboutPage.ets:128-185. (102 tokens, 26 lines)",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 71,
         "rangeEnd": 124
@@ -14,13 +16,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/agency/src/main/ets/mock/DataManager.ets",
+    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/agency/src/main/ets/mock/DataManager.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "52a9a475b6bf52d4878644a020c7add0884d328e",
     "messages": [
       {
         "line": 13,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): DataManager.ets:13-33 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/mock/DataManager.ets:13-33. (140 tokens, 29 lines)",
+        "message": "Code Clone Type-2 (different classes): DataManager.ets:13-33 is similar to agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/mock/DataManager.ets:13-33. (140 tokens, 29 lines)",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 13,
         "rangeEnd": 33
@@ -28,13 +32,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/mine/PersonalSetting.ets",
+    "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/mine/PersonalSetting.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "640f012e842023c32c8f09885877e60b2da5d1ac",
     "messages": [
       {
         "line": 71,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): PersonalSetting.ets:71-91 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/mine/PersonalSetting.ets:93-113.",
+        "message": "Code Clone Type-2 (same method): PersonalSetting.ets:71-91 is similar to agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/mine/PersonalSetting.ets:93-113.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 71,
         "rangeEnd": 91
@@ -42,13 +48,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/components/login_info/src/main/ets/components/QuickLogin.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/components/login_info/src/main/ets/components/QuickLogin.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "9c4882c7d3a8b94ba1ced33564ef43f799861515",
     "messages": [
       {
         "line": 311,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): QuickLogin.ets:311-370 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/components/login_info/src/main/ets/components/QuickLogin.ets:453-510.",
+        "message": "Code Clone Type-2 (different classes): QuickLogin.ets:311-370 is similar to agc-template-market-harmonyos-demos/EducationTemplate/Exam/components/login_info/src/main/ets/components/QuickLogin.ets:453-510.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 311,
         "rangeEnd": 370
@@ -56,13 +64,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/homePage/src/main/ets/model/PracticeMode.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/homePage/src/main/ets/model/PracticeMode.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "6970e9245223634a3888be5cd56379acb557a5a7",
     "messages": [
       {
         "line": 19,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): PracticeMode.ets:19-139 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/topicPage/src/main/ets/viewModel/PracticeMode.ets:17-139.",
+        "message": "Code Clone Type-2 (different classes): PracticeMode.ets:19-139 is similar to agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/topicPage/src/main/ets/viewModel/PracticeMode.ets:17-139.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 19,
         "rangeEnd": 139
@@ -70,13 +80,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/homePage/src/main/ets/pages/AuthenticationPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/homePage/src/main/ets/pages/AuthenticationPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "6970e9245223634a3888be5cd56379acb557a5a7",
     "messages": [
       {
         "line": 1,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): AuthenticationPage.ets:1-71 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/AuthenticationPage.ets:1-71.",
+        "message": "Code Clone Type-2 (different classes): AuthenticationPage.ets:1-71 is similar to agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/AuthenticationPage.ets:1-71.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 1,
         "rangeEnd": 71
@@ -84,13 +96,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CollectionPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CollectionPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "57e5cea82eb459dbacbb753ec39f625cd88bada9",
     "messages": [
       {
         "line": 20,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): CollectionPage.ets:20-46 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CoursePage.ets:20-47.",
+        "message": "Code Clone Type-2 (different classes): CollectionPage.ets:20-46 is similar to agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CoursePage.ets:20-47.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 20,
         "rangeEnd": 46
@@ -99,7 +113,7 @@
         "line": 73,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): CollectionPage.ets:73-93 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CoursePage.ets:74-94.",
+        "message": "Code Clone Type-2 (different classes): CollectionPage.ets:73-93 is similar to agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CoursePage.ets:74-94.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 73,
         "rangeEnd": 93
@@ -108,7 +122,7 @@
         "line": 95,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): CollectionPage.ets:95-125 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CoursePage.ets:96-126.",
+        "message": "Code Clone Type-2 (different classes): CollectionPage.ets:95-125 is similar to agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CoursePage.ets:96-126.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 95,
         "rangeEnd": 125
@@ -116,13 +130,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/home/src/main/ets/component/RecommendBar.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/home/src/main/ets/component/RecommendBar.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "a94cda35dc27ed7a9425f23d16c1822ec7b6973f",
     "messages": [
       {
         "line": 3,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): RecommendBar.ets:3-53 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/components/RecommendBar.ets:3-53.",
+        "message": "Code Clone Type-2 (different classes): RecommendBar.ets:3-53 is similar to agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/components/RecommendBar.ets:3-53.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 3,
         "rangeEnd": 53
@@ -130,13 +146,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/AddVisitorPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/AddVisitorPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 1,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): AddVisitorPage.ets:1-158 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/EditVisitorPage.ets:1-158.",
+        "message": "Code Clone Type-2 (different classes): AddVisitorPage.ets:1-158 is similar to agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/EditVisitorPage.ets:1-158.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 1,
         "rangeEnd": 158
@@ -144,13 +162,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/componentlib/src/main/ets/components/CommonProductProfile.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/componentlib/src/main/ets/components/CommonProductProfile.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "50634e2ca8454de0ec32b192c45c9550008aec84",
     "messages": [
       {
         "line": 39,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): CommonProductProfile.ets:39-56 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/componentlib/src/main/ets/components/CommonProductProfile.ets:67-84.",
+        "message": "Code Clone Type-2 (same method): CommonProductProfile.ets:39-56 is similar to agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/componentlib/src/main/ets/components/CommonProductProfile.ets:67-84.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 39,
         "rangeEnd": 56
@@ -158,13 +178,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/pages/EditNamePage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/pages/EditNamePage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b26d8054dada0583cca89ab1f2d5f8f967088d43",
     "messages": [
       {
         "line": 18,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): EditNamePage.ets:18-70 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/pages/EditPhonePage.ets:18-70.",
+        "message": "Code Clone Type-2 (different classes): EditNamePage.ets:18-70 is similar to agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/pages/EditPhonePage.ets:18-70.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 18,
         "rangeEnd": 70
@@ -172,13 +194,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/viewModels/EditNamePageVM.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/viewModels/EditNamePageVM.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b26d8054dada0583cca89ab1f2d5f8f967088d43",
     "messages": [
       {
         "line": 6,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): EditNamePageVM.ets:6-40 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/viewModels/EditPhonePageVM.ets:6-40.",
+        "message": "Code Clone Type-2 (different classes): EditNamePageVM.ets:6-40 is similar to agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/viewModels/EditPhonePageVM.ets:6-40.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 6,
         "rangeEnd": 40
@@ -186,13 +210,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets",
+    "filePath": "agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b26d8054dada0583cca89ab1f2d5f8f967088d43",
     "messages": [
       {
         "line": 90,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): TimeCtrl.ets:90-100 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets:114-124.",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets:90-100 is similar to agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets:114-124.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 90,
         "rangeEnd": 100
@@ -201,7 +227,7 @@
         "line": 165,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): TimeCtrl.ets:165-179 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets:189-203.",
+        "message": "Code Clone Type-2 (same method): TimeCtrl.ets:165-179 is similar to agc-template-market-harmonyos-demos/KidsTemplate/ChildrenEducation/scenes/tabs/minepage/src/main/ets/views/settings/TimeCtrl.ets:189-203.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 165,
         "rangeEnd": 179
@@ -209,13 +235,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 443,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same class): PictureBeautification.ets:443-475 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets:557-588.",
+        "message": "Code Clone Type-2 (same class): PictureBeautification.ets:443-475 is similar to agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets:557-588.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 443,
         "rangeEnd": 475
@@ -223,13 +251,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_home/src/main/ets/components/HomeVisit.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_home/src/main/ets/components/HomeVisit.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "64ebf8ef262d5720ab6d61df4482b3ff00efb555",
     "messages": [
       {
         "line": 8,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): HomeVisit.ets:8-59 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_home/src/main/ets/components/ShippingInfo.ets:9-61.",
+        "message": "Code Clone Type-2 (different classes): HomeVisit.ets:8-59 is similar to agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_home/src/main/ets/components/ShippingInfo.ets:9-61.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 8,
         "rangeEnd": 59
@@ -237,13 +267,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/pages/EditNamePage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/pages/EditNamePage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "9d992d71e39a169bdc65a4f496b7880654026c49",
     "messages": [
       {
         "line": 18,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): EditNamePage.ets:18-70 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/pages/EditPhonePage.ets:18-70.",
+        "message": "Code Clone Type-2 (different classes): EditNamePage.ets:18-70 is similar to agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/pages/EditPhonePage.ets:18-70.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 18,
         "rangeEnd": 70
@@ -251,13 +283,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/PostpartumCareCenter/scenes/activities/src/main/ets/view/ActivityBooking.ets",
+    "filePath": "agc-template-market-harmonyos-demos/KidsTemplate/PostpartumCareCenter/scenes/activities/src/main/ets/view/ActivityBooking.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "22d686590d1ffc25bea875ac504fc22c1054b45c",
     "messages": [
       {
         "line": 70,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): ActivityBooking.ets:70-88 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/KidsTemplate/PostpartumCareCenter/scenes/activities/src/main/ets/view/ActivityBooking.ets:118-136.",
+        "message": "Code Clone Type-2 (same method): ActivityBooking.ets:70-88 is similar to agc-template-market-harmonyos-demos/KidsTemplate/PostpartumCareCenter/scenes/activities/src/main/ets/view/ActivityBooking.ets:118-136.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 70,
         "rangeEnd": 88
@@ -265,13 +299,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/AdministrativeAffairs/Application/commons/components/src/main/ets/components/AboutUs.ets",
+    "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/AdministrativeAffairs/Application/commons/components/src/main/ets/components/AboutUs.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "77f2cafe2d25ada52b3a60eda00f1152660a76b6",
     "messages": [
       {
         "line": 42,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): AboutUs.ets:42-57 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/AdministrativeAffairs/Application/commons/components/src/main/ets/components/AboutUs.ets:63-78.",
+        "message": "Code Clone Type-2 (different classes): AboutUs.ets:42-57 is similar to agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/AdministrativeAffairs/Application/commons/components/src/main/ets/components/AboutUs.ets:63-78.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 42,
         "rangeEnd": 57
@@ -279,13 +315,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_points/src/main/ets/components/SubmitPointConfirm.ets",
+    "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_points/src/main/ets/components/SubmitPointConfirm.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "975b21103b1cfc43542b1596c1aa77954d486db7",
     "messages": [
       {
         "line": 15,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): SubmitPointConfirm.ets:15-36 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_points/src/main/ets/components/SubmitPointConfirm.ets:60-81.",
+        "message": "Code Clone Type-2 (different classes): SubmitPointConfirm.ets:15-36 is similar to agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_points/src/main/ets/components/SubmitPointConfirm.ets:60-81.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 15,
         "rangeEnd": 36
@@ -293,13 +331,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MovieTVAndLivestreamingTemplate/WebShortDrama/features/mine/src/main/ets/pages/MyFavoritesPage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/MovieTVAndLivestreamingTemplate/WebShortDrama/features/mine/src/main/ets/pages/MyFavoritesPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "22d686590d1ffc25bea875ac504fc22c1054b45c",
     "messages": [
       {
         "line": 8,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): MyFavoritesPage.ets:8-32 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/MovieTVAndLivestreamingTemplate/WebShortDrama/features/mine/src/main/ets/pages/WatchRecordsPage.ets:8-32.",
+        "message": "Code Clone Type-2 (different classes): MyFavoritesPage.ets:8-32 is similar to agc-template-market-harmonyos-demos/MovieTVAndLivestreamingTemplate/WebShortDrama/features/mine/src/main/ets/pages/WatchRecordsPage.ets:8-32.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 8,
         "rangeEnd": 32
@@ -307,13 +347,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/home/src/main/ets/pages/HomePage.ets",
+    "filePath": "agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/home/src/main/ets/pages/HomePage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "5af98e83907aaadc3057861d1001b7505da3e2e9",
     "messages": [
       {
         "line": 194,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): HomePage.ets:194-209 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/home/src/main/ets/pages/HomePage.ets:238-253.",
+        "message": "Code Clone Type-2 (same method): HomePage.ets:194-209 is similar to agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/home/src/main/ets/pages/HomePage.ets:238-253.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 194,
         "rangeEnd": 209
@@ -321,13 +363,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/components/StickerToolBar.ets",
+    "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/components/StickerToolBar.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "22d686590d1ffc25bea875ac504fc22c1054b45c",
     "messages": [
       {
         "line": 78,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (different classes): StickerToolBar.ets:78-131 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/components/StickerToolBar.ets:141-194.",
+        "message": "Code Clone Type-2 (different classes): StickerToolBar.ets:78-131 is similar to agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/components/StickerToolBar.ets:141-194.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 78,
         "rangeEnd": 131
@@ -335,13 +379,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/network/src/main/ets/mocks/mockData/TransactionDatasetMock.ets",
+    "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/network/src/main/ets/mocks/mockData/TransactionDatasetMock.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "37fedd6f29f14a6dc6ec41252556d309ffcbd8db",
     "messages": [
       {
         "line": 49,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same method): TransactionDatasetMock.ets > TransactionDatasetMock.getMonthTransactionList():49-61 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/network/src/main/ets/mocks/mockData/TransactionDatasetMock.ets > TransactionDatasetMock.getMonthTransactionList():82-94. (100 tokens, 13 lines)",
+        "message": "Code Clone Type-2 (same method): TransactionDatasetMock.ets > TransactionDatasetMock.getMonthTransactionList():49-61 is similar to agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/network/src/main/ets/mocks/mockData/TransactionDatasetMock.ets > TransactionDatasetMock.getMonthTransactionList():82-94. (100 tokens, 13 lines)",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 49,
         "rangeEnd": 61
@@ -349,13 +395,15 @@
     ]
   },
   {
-    "filePath": "/Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
         "line": 476,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Code Clone Type-2 (same class): PictureBeautification.ets > PictureBeautification.moveClipCanvasFreeType():476-487 is similar to /Users/jiaomingyang/project/arkts/repos/agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets > PictureBeautification.moveClipCanvasRatioType():590-600. (100 tokens, 12 lines)",
+        "message": "Code Clone Type-2 (same class): PictureBeautification.ets > PictureBeautification.moveClipCanvasFreeType():476-487 is similar to agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets > PictureBeautification.moveClipCanvasRatioType():590-600. (100 tokens, 12 lines)",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 476,
         "rangeEnd": 487

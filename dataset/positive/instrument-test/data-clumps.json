@@ -5,10 +5,14 @@
     "row": 15,
     "rol": 3,
     "NOPAR": 7,
-    "HSP": [539],
+    "HSP": [
+      539
+    ],
     "pathList": [
       "<Pkg device_service>.<File src\\main\\ets\\pages\\QuickLoginPage.ets>.QuickLoginPage.bulidSpan"
-    ]
+    ],
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef"
   },
   {
     "id": 539,
@@ -16,10 +20,14 @@
     "row": 197,
     "rol": 3,
     "NOPAR": 7,
-    "HSP": [457],
+    "HSP": [
+      457
+    ],
     "pathList": [
       "<Pkg device_service>.<File src\\main\\ets\\view\\AgreementView.ets>.AgreementDialog.bulidSpan"
-    ]
+    ],
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "06bc129a97c627fb2d175ad0479e840fb47152c5"
   },
   {
     "id": 475,
@@ -27,13 +35,19 @@
     "row": 820,
     "rol": 3,
     "NOPAR": 9,
-    "HSP": [493, 511, 768],
+    "HSP": [
+      493,
+      511,
+      768
+    ],
     "pathList": [
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor"
     ],
-    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef"
   },
   {
     "id": 493,
@@ -41,13 +55,19 @@
     "row": 863,
     "rol": 3,
     "NOPAR": 9,
-    "HSP": [475, 511, 768],
+    "HSP": [
+      475,
+      511,
+      768
+    ],
     "pathList": [
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor"
     ],
-    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "06bc129a97c627fb2d175ad0479e840fb47152c5"
   },
   {
     "id": 511,
@@ -55,13 +75,19 @@
     "row": 905,
     "rol": 3,
     "NOPAR": 9,
-    "HSP": [475, 493, 768],
+    "HSP": [
+      475,
+      493,
+      768
+    ],
     "pathList": [
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\renderers\\RendererAttributes.ets>.RendererAttributes.constructor"
     ],
-    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "06bc129a97c627fb2d175ad0479e840fb47152c5"
   },
   {
     "id": 768,
@@ -69,12 +95,18 @@
     "row": 157,
     "rol": 3,
     "NOPAR": 12,
-    "HSP": [475, 493, 511],
+    "HSP": [
+      475,
+      493,
+      511
+    ],
     "pathList": [
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveResource",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveBytes",
       "<Pkg @ohos/rive>.<File src\\main\\ets\\runtime\\RiveAnimationView.ets>.RiveAnimationView.setRiveFile"
     ],
-    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json"
+    "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "06bc129a97c627fb2d175ad0479e840fb47152c5"
   }
 ]

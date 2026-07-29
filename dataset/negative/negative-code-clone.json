@@ -1,6 +1,8 @@
 [
   {
     "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/Notes/components/richeditor/src/main/ets/components/RichEditorArea.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "6541b36921f815ecb75450bcb50486f72476e4cd",
     "messages": [
       {
         "line": 491,
@@ -15,6 +17,8 @@
   },
   {
     "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/product/entry/src/main/ets/common/TabConstants.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "09f12321fb9864be17b370589e3a33f8125606b0",
     "messages": [
       {
         "line": 104,
@@ -29,6 +33,8 @@
   },
   {
     "filePath": "agc-template-market-harmonyos-demos/NavigationTemplate/AirTrip/Application/features/mine/src/main/ets/pages/OrderDetailPage.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "09ef2bf52d23b0ad2c6e3b3d39b648f61a67e59c",
     "messages": [
       {
         "line": 129,
@@ -43,6 +49,8 @@
   },
   {
     "filePath": "applications_photos/feature/editor/src/main/ets/default/view/CropModeBar.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "07a7786e1c75491c8138d171e0f83f77be46d846",
     "messages": [
       {
         "line": 82,
@@ -57,6 +65,8 @@
   },
   {
     "filePath": "applications_photos/feature/editor/src/main/ets/default/view/CropRulerBar.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "b05cecd4bdc753a272b77421a73a58805cc8e086",
     "messages": [
       {
         "line": 92,
@@ -71,6 +81,8 @@
   },
   {
     "filePath": "applications_photos/feature/thirdselect/src/main/ets/default/view/ThirdSelectPhotoGridBase.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "cf8fed90a4919498399fc77b69401aa109e51229",
     "messages": [
       {
         "line": 520,
@@ -85,6 +97,8 @@
   },
   {
     "filePath": "applications_photos/product/phone/src/main/ets/view/PhotoBrowserComponent.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "3b383cece71712d8e4fef05978b2c3f3bfe30295",
     "messages": [
       {
         "line": 1162,
@@ -108,6 +122,8 @@
   },
   {
     "filePath": "applications_photos/product/phone/src/main/ets/view/PhotoGridView.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "e6a06712a0e6ad38414179f634c3bfea68fdd5a1",
     "messages": [
       {
         "line": 827,
@@ -122,6 +138,8 @@
   },
   {
     "filePath": "applications_settings/common/component/src/main/ets/default/doubleLineComponent.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "93753aab4cd916c6ce87ad24e52da42d872219a3",
     "messages": [
       {
         "line": 38,
@@ -136,6 +154,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/abilityDialog/BluetoothDialog.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "393b7d3204b27558d47e5c383968a77d6b35d6d8",
     "messages": [
       {
         "line": 55,
@@ -150,6 +170,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/aboutDevice.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "3e993573e0b2004fad775ee836bbe2bae70e68df",
     "messages": [
       {
         "line": 35,
@@ -164,6 +186,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/openVpnEdit.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "685e44e622d52f285c488db9178fa6b973e74352",
     "messages": [
       {
         "line": 170,
@@ -178,6 +202,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/vpn/vpnEdit.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "700fe2140f0825c755025543ae75f0fe12943fd1",
     "messages": [
       {
         "line": 144,
@@ -192,6 +218,8 @@
   },
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/storage.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "f9ddd9e13cd678930abd7b18f3d4d23aa2b802ad",
     "messages": [
       {
         "line": 51,
@@ -206,6 +234,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/customaddresspicker/src/main/ets/customaddresspicker/view/CustomAddressPicker.ets",
+    "sourceProject": "cases",
+    "commitHash": "0d38dc14920763a7e47dd4057d1146f9988a6090",
     "messages": [
       {
         "line": 306,
@@ -220,6 +250,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/feature/imageviewer/src/main/ets/view/ImageItemView.ets",
+    "sourceProject": "cases",
+    "commitHash": "e527898a1e5359e03b80b042ca1db37c4a9edfa7",
     "messages": [
       {
         "line": 128,
@@ -234,6 +266,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/product/entry/src/ohosTest/ets/test/AssembleTestCase.test.ets",
+    "sourceProject": "cases",
+    "commitHash": "f02ed092f09680a0ef82948b4acd816346fa04cf",
     "messages": [
       {
         "line": 157,
@@ -248,6 +282,8 @@
   },
   {
     "filePath": "cases/CommonAppDevelopment/product/entry/src/ohosTest/ets/test/feature/VideoLinkageList.test.ets",
+    "sourceProject": "cases",
+    "commitHash": "cb0e8296428e3937d33b0499bbacc998d6475bd8",
     "messages": [
       {
         "line": 33,
@@ -262,6 +298,8 @@
   },
   {
     "filePath": "cases/test/performance/performance-optimization-practical-guidance/entry/src/main/ets/pages/Index.ets",
+    "sourceProject": "cases",
+    "commitHash": "bca004eb78cb21d757328c6b87f4a781a5d094e0",
     "messages": [
       {
         "line": 21,
@@ -276,6 +314,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/login/views/RegisterView.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "96a4b4446d376316316b3500b48dcc8548cc1b07",
     "messages": [
       {
         "line": 96,
@@ -290,6 +330,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/lifeFeature/src/main/ets/mine/components/mainpage/LoginPage.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "8935a0ae46708b30c877163f84b92a170482ecde",
     "messages": [
       {
         "line": 45,
@@ -304,6 +346,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/multiShoppingFeature/src/main/ets/conversation/components/VoiceComponent.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "bdc0eef0755dbe57fe6f141e3a7a6812565832bb",
     "messages": [
       {
         "line": 41,
@@ -318,6 +362,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/multiShoppingFeature/src/main/ets/orderDetail/components/OrderListContent.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "83cc9d7cbe7ed02a25f136e4273e1f40dff91487",
     "messages": [
       {
         "line": 36,
@@ -332,6 +378,8 @@
   },
   {
     "filePath": "model-evaluation-testsuite/features/pictureFeature/src/main/ets/common/utils/JoinImages.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "4fe5034c7fe234fce4f077899a55e072ded00f18",
     "messages": [
       {
         "line": 25,
@@ -346,6 +394,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/bignumberjsDemo/entry/src/ohosTest/ets/test/comparedTo.test.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "ce9f93ac4c32ba186ed0cb60231721e3f436629d",
     "messages": [
       {
         "line": 19,
@@ -360,6 +410,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/bignumberjsDemo/entry/src/ohosTest/ets/test/precision.test.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "216cee4a3ee3b8dbd821d6b72e7fed378374b510",
     "messages": [
       {
         "line": 20,
@@ -374,6 +426,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/mathjsDemo/entry/src/ohosTest/ets/test/MlMatrix.test.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "a6da6b142479601ad388e16ecb6d7c96db9db215",
     "messages": [
       {
         "line": 36,
@@ -388,6 +442,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/textEncodingDemo/entry/src/ohosTest/ets/test/TextEncoding.test.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "1b9b2927e4ad13b941962e85a390f0d9018cf94f",
     "messages": [
       {
         "line": 28,
@@ -402,6 +458,8 @@
   },
   {
     "filePath": "openharmony_tpc_samples/validator/entry/src/ohosTest/ets/test/validatorTest/validators.test.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "c120a3eaa4761a6af834e934a21b75abe899a187",
     "messages": [
       {
         "line": 22,
@@ -416,6 +474,8 @@
   },
   {
     "filePath": "ostest_integration_test/function/ui_compare_rh/uicompare/entry/src/ohosTest/ets/test/ComponentTextRicheditorInterface/ComponentTextRicheditorInterfaceTests.test.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "55fb6bbfdaeb4567549ab363d20e9bfe38d0dd54",
     "messages": [
       {
         "line": 40,
@@ -430,6 +490,8 @@
   },
   {
     "filePath": "ostest_integration_test/function/ui_compare_rh/uicompare/entry/src/ohosTest/ets/test/UiComponentButtonSelectAlign/UiComponentButtonSelectAlign.test.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "dc58a9e104ba260a44c8a65cb884cadea305b687",
     "messages": [
       {
         "line": 39,
@@ -444,6 +506,8 @@
   },
   {
     "filePath": "ostest_integration_test/function/ui_compare_rh/uicompare/entry/src/ohosTest/ets/test/UIComponentNavTabsBlurStyleTest/UIComponentNavTabsBlurStyle.test.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "aef5090cc46ed81567aa548eeb771ae01da7d02f",
     "messages": [
       {
         "line": 22,
@@ -458,6 +522,8 @@
   },
   {
     "filePath": "ostest_integration_test/function/ui_compare_rh/uicompare/entry/src/ohosTest/ets/test/UiComponentPopupboxDatePickerDialogInterface/UiComponentPopupboxDatePickerDialogInterface.test.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "dc58a9e104ba260a44c8a65cb884cadea305b687",
     "messages": [
       {
         "line": 40,
@@ -472,6 +538,8 @@
   },
   {
     "filePath": "ostest_integration_test/performance/arkui/benchmark_component/entry/src/ohosTest/ets/test/Ability.test.ets",
+    "sourceProject": "ostest_integration_test",
+    "commitHash": "d8dd557abecf075a666d0b6d47724808df9a23b9",
     "messages": [
       {
         "line": 40,
@@ -486,6 +554,8 @@
   },
   {
     "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/schedule/src/main/ets/schedule/components/ScheduleForm.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "c21e0a6ca8bc7fe40af7557ca325954e0fab9968",
     "messages": [
       {
         "line": 412,
@@ -500,6 +570,8 @@
   },
   {
     "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/position/src/main/ets/pages/TransactionSearch.ets",
+    "sourceProject": "agc-template-market-harmonyos-demos",
+    "commitHash": "50634e2ca8454de0ec32b192c45c9550008aec84",
     "messages": [
       {
         "line": 5,

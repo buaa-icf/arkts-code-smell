@@ -1,4 +1,26 @@
-# repro_signed_tests.py
+# Scripts
+
+## add_sample_metadata.py
+
+批量刷新数据集样本的提交哈希。脚本只执行以下两项工作：
+
+1. 为所有样本 JSON 补充或刷新 `commitHash`。
+2. 为所有覆盖率 CSV 补充或刷新 `commit_hash`。
+
+正样本的 `commitHash`/`commit_hash` 根据样本源码及其覆盖率表中记录的测试文件计算，
+因此会包含测试用例改动对应的最新提交。负样本没有覆盖率表，提交哈希仅根据样本源码计算。
+
+脚本不会修改路径、测试命令、测试状态、覆盖率数据，也不会重建合并表或统计摘要；
+不会添加、刷新或删除 `sourceProject`/`source_project`；
+`merged_coverage_all.csv` 仅刷新已有行的 `commit_hash`。
+
+从 `arkts-code-smell` 仓库根目录运行：
+
+```bash
+python scripts/add_sample_metadata.py
+```
+
+## repro_signed_tests.py
 
 批量复现 `dataset/merged_coverage_all.csv` 中所有评测目标的测试，并在执行前把 `bundleName` + `signingConfigs` 注入到每个项目，消除"找不到
 签名"这一类阻塞。
