@@ -33,7 +33,7 @@
 - 评测粒度校准到方法或片段范围。Long Method、Feature Envy、Switch Statement、Data Clumps 等规则以目标函数区间为单位；Code Clone 会从 `messages[].message` 展开 `original` 与 `similar` 两类片段，避免只评估克隆对的一侧。
 - 每条目标都核对同模块测试用例，并在 CSV 中保留 `has_test_case`、`test_kind`、`test_suite`、`test_command`、`test_run_status`、`note` 等字段，确保测试来源、执行方式和异常状态可追溯。
 - 覆盖率统计限定在目标行范围内，分别计算行覆盖率、分支边覆盖率和相交函数覆盖率，而不是使用整文件覆盖率替代目标区域覆盖率。
-- 合并表当前包含 140 条去重后的评测目标（原始 142 行，去重 2 行），全部已关联同模块测试用例；其中 Local Test 61 条，Instrument Test 79 条。聚合均值见 `dataset/merged_coverage_summary.json`：行覆盖率 92.65%，分支覆盖率 80.69%，函数覆盖率 93.16%。
+- 合并表当前包含 151 条评测目标，全部已关联同模块测试用例；其中 Local Test 66 条，Instrument Test 85 条。聚合均值见 `dataset/positive/merged_coverage_summary.json`：行覆盖率 98.48%，分支覆盖率 96.42%，函数覆盖率 98.60%。
 - 运行结果不会被隐式改写为通过：本轮真实通过、沿用历史成功结果、缺设备、缺依赖、宿主页面锚点缺失等状态都会保留在 `test_run_status` / `note` 中，便于后续筛选、补跑和复核。
 
 ## JSON 字段说明
@@ -112,6 +112,7 @@
 > - 行覆盖率仅计可执行行，跳过 `executedLineCount` 缺失或为负的条目；
 > - 分支覆盖率以"分支边"为单位（true/false 两条边各自独立判定）；
 > - 函数覆盖率以与目标行范围相交的函数区间数为分母，避免把整文件函数都算进来；
+> - 当目标片段包含 `@Local` / `@Param` 等状态装饰器时，不把装饰器声明行及其仅由编译器生成的初始化、状态重置函数计入行/函数覆盖率分母；显式生命周期、`build`、业务函数及源码分支仍必须统计，且需在 CSV 的 `note` 中注明排除项；
 > - `failed_missing_signed_hap`（签名缺失）类记录不写入 CSV，会在最终报告中以"skipped (missing signed HAP)"清单单独列出，待用户配置本地签名后重跑即可补齐。
 
 ## `merged_coverage_summary.json` 字段说明

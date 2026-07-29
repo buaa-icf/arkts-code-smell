@@ -18,7 +18,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/OfficeAttendance/scenes/agency/src/main/ets/mock/DataManager.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "52a9a475b6bf52d4878644a020c7add0884d328e",
+    "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
         "line": 13,
@@ -34,7 +34,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/products/entry/src/main/ets/pages/mine/PersonalSetting.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "640f012e842023c32c8f09885877e60b2da5d1ac",
+    "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
         "line": 71,
@@ -50,7 +50,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/components/login_info/src/main/ets/components/QuickLogin.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "9c4882c7d3a8b94ba1ced33564ef43f799861515",
+    "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
         "line": 311,
@@ -66,7 +66,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/homePage/src/main/ets/model/PracticeMode.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "6970e9245223634a3888be5cd56379acb557a5a7",
+    "commitHash": "8d76d0299bf144b7f2530972b68a757879ffdb83",
     "messages": [
       {
         "line": 19,
@@ -82,7 +82,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/homePage/src/main/ets/pages/AuthenticationPage.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "6970e9245223634a3888be5cd56379acb557a5a7",
+    "commitHash": "8d76d0299bf144b7f2530972b68a757879ffdb83",
     "messages": [
       {
         "line": 1,
@@ -98,7 +98,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/features/minePage/src/main/ets/views/CollectionPage.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "57e5cea82eb459dbacbb753ec39f625cd88bada9",
+    "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
         "line": 20,
@@ -132,7 +132,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/home/src/main/ets/component/RecommendBar.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "a94cda35dc27ed7a9425f23d16c1822ec7b6973f",
+    "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
         "line": 3,
@@ -148,7 +148,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/AddVisitorPage.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
+    "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
         "line": 1,
@@ -180,7 +180,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/pages/EditNamePage.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b26d8054dada0583cca89ab1f2d5f8f967088d43",
+    "commitHash": "8d76d0299bf144b7f2530972b68a757879ffdb83",
     "messages": [
       {
         "line": 18,
@@ -196,7 +196,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/scenes/tab/mine/src/main/ets/viewModels/EditNamePageVM.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b26d8054dada0583cca89ab1f2d5f8f967088d43",
+    "commitHash": "50634e2ca8454de0ec32b192c45c9550008aec84",
     "messages": [
       {
         "line": 6,
@@ -237,7 +237,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
+    "commitHash": "a0c054902850561a498eeec823819c7f24204a26",
     "messages": [
       {
         "line": 443,
@@ -253,7 +253,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_home/src/main/ets/components/HomeVisit.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "64ebf8ef262d5720ab6d61df4482b3ff00efb555",
+    "commitHash": "b26d8054dada0583cca89ab1f2d5f8f967088d43",
     "messages": [
       {
         "line": 8,
@@ -269,7 +269,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/ShoppingTemplate/Express/features/business_mine/src/main/ets/pages/EditNamePage.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "9d992d71e39a169bdc65a4f496b7880654026c49",
+    "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
         "line": 18,
@@ -285,7 +285,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/KidsTemplate/PostpartumCareCenter/scenes/activities/src/main/ets/view/ActivityBooking.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "22d686590d1ffc25bea875ac504fc22c1054b45c",
+    "commitHash": "8d76d0299bf144b7f2530972b68a757879ffdb83",
     "messages": [
       {
         "line": 70,
@@ -317,7 +317,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/ShoppingMall/components/module_points/src/main/ets/components/SubmitPointConfirm.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "975b21103b1cfc43542b1596c1aa77954d486db7",
+    "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
         "line": 15,
@@ -381,7 +381,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/FinanceTemplate/FinancialManagement/commons/network/src/main/ets/mocks/mockData/TransactionDatasetMock.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "37fedd6f29f14a6dc6ec41252556d309ffcbd8db",
+    "commitHash": "22d686590d1ffc25bea875ac504fc22c1054b45c",
     "messages": [
       {
         "line": 49,
@@ -397,7 +397,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
+    "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
         "line": 476,

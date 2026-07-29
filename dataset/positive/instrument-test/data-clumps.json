@@ -12,7 +12,7 @@
       "<Pkg device_service>.<File src\\main\\ets\\pages\\QuickLoginPage.ets>.QuickLoginPage.bulidSpan"
     ],
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef"
+    "commitHash": ""
   },
   {
     "id": 539,
@@ -27,7 +27,7 @@
       "<Pkg device_service>.<File src\\main\\ets\\view\\AgreementView.ets>.AgreementDialog.bulidSpan"
     ],
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "06bc129a97c627fb2d175ad0479e840fb47152c5"
+    "commitHash": ""
   },
   {
     "id": 475,
@@ -47,7 +47,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef"
+    "commitHash": ""
   },
   {
     "id": 493,
@@ -67,7 +67,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "06bc129a97c627fb2d175ad0479e840fb47152c5"
+    "commitHash": ""
   },
   {
     "id": 511,
@@ -87,7 +87,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "06bc129a97c627fb2d175ad0479e840fb47152c5"
+    "commitHash": ""
   },
   {
     "id": 768,
@@ -107,6 +107,6 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-ohos_rive.json",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "06bc129a97c627fb2d175ad0479e840fb47152c5"
+    "commitHash": ""
   }
 ]

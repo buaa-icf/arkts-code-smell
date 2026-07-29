@@ -9,12 +9,12 @@
     "withTest": 151,
     "withoutTest": 0,
     "failed": 0,
-    "lineAvg": "95.36",
-    "branchAvg": "89.36",
-    "funcAvg": "95.56",
-    "nLine": 150,
-    "nBranch": 101,
-    "nFunc": 150
+    "lineAvg": "98.48",
+    "branchAvg": "96.42",
+    "funcAvg": "98.60",
+    "nLine": 151,
+    "nBranch": 102,
+    "nFunc": 151
   },
   "by_kind": {
     "instrument-test": {
@@ -23,9 +23,9 @@
       "withTest": 85,
       "withoutTest": 0,
       "failed": 0,
-      "lineAvg": "92.21",
-      "branchAvg": "81.71",
-      "funcAvg": "92.24",
+      "lineAvg": "97.68",
+      "branchAvg": "94.38",
+      "funcAvg": "97.59",
       "nLine": 85,
       "nBranch": 56,
       "nFunc": 85
@@ -36,12 +36,12 @@
       "withTest": 66,
       "withoutTest": 0,
       "failed": 0,
-      "lineAvg": "99.49",
-      "branchAvg": "98.88",
-      "funcAvg": "99.90",
-      "nLine": 65,
-      "nBranch": 45,
-      "nFunc": 65
+      "lineAvg": "99.50",
+      "branchAvg": "98.90",
+      "funcAvg": "99.91",
+      "nLine": 66,
+      "nBranch": 46,
+      "nFunc": 66
     }
   },
   "by_rule": {
@@ -51,9 +51,9 @@
       "withTest": 60,
       "withoutTest": 0,
       "failed": 0,
-      "lineAvg": "91.65",
-      "branchAvg": "79.14",
-      "funcAvg": "91.78",
+      "lineAvg": "99.40",
+      "branchAvg": "98.84",
+      "funcAvg": "99.36",
       "nLine": 60,
       "nBranch": 36,
       "nFunc": 60
@@ -103,12 +103,12 @@
       "withTest": 25,
       "withoutTest": 0,
       "failed": 0,
-      "lineAvg": "99.12",
-      "branchAvg": "98.92",
-      "funcAvg": "99.74",
-      "nLine": 24,
-      "nBranch": 24,
-      "nFunc": 24
+      "lineAvg": "99.16",
+      "branchAvg": "98.97",
+      "funcAvg": "99.75",
+      "nLine": 25,
+      "nBranch": 25,
+      "nFunc": 25
     }
   }
 }

@@ -19,7 +19,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-scenario-MyMusic.json",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "ad5e4c371407cf65024e266952a5a401dcb66386"
+    "commitHash": ""
   },
   {
     "id": 1313,
@@ -47,7 +47,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json",
     "sourceProject": "cases",
-    "commitHash": "4efeab569b2476edc4ab20533d5c64cd2442b977"
+    "commitHash": ""
   },
   {
     "id": 1374,
@@ -75,7 +75,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "6d56948d6da22838ea7118f5cb7e1ef754b2bd3f"
+    "commitHash": ""
   },
   {
     "id": 8838,
@@ -103,7 +103,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "d6477e24c5866e9b59c9c6d5a150477f51ecd67f"
+    "commitHash": ""
   },
   {
     "id": 8889,
@@ -131,7 +131,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/ostest_integration_test-performance-arkui-benchmark_component.json",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "ad5e4c371407cf65024e266952a5a401dcb66386"
+    "commitHash": ""
   },
   {
     "id": 137,
@@ -155,7 +155,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json",
     "sourceProject": "cases",
-    "commitHash": "4efeab569b2476edc4ab20533d5c64cd2442b977"
+    "commitHash": ""
   },
   {
     "id": 198,
@@ -179,7 +179,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "d6477e24c5866e9b59c9c6d5a150477f51ecd67f"
+    "commitHash": ""
   },
   {
     "id": 286,
@@ -203,7 +203,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "ad5e4c371407cf65024e266952a5a401dcb66386"
+    "commitHash": ""
   },
   {
     "id": 369,
@@ -227,7 +227,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json",
     "sourceProject": "cases",
-    "commitHash": "4efeab569b2476edc4ab20533d5c64cd2442b977"
+    "commitHash": ""
   },
   {
     "id": 469,
@@ -251,7 +251,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "d6477e24c5866e9b59c9c6d5a150477f51ecd67f"
+    "commitHash": ""
   },
   {
     "id": 517,
@@ -275,7 +275,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/openharmony_tpc_samples-Spine.json",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "ad5e4c371407cf65024e266952a5a401dcb66386"
+    "commitHash": ""
   },
   {
     "id": 7685,
@@ -291,7 +291,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json",
     "sourceProject": "cases",
-    "commitHash": "4efeab569b2476edc4ab20533d5c64cd2442b977"
+    "commitHash": ""
   },
   {
     "id": 24906,
@@ -307,7 +307,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "d6477e24c5866e9b59c9c6d5a150477f51ecd67f"
+    "commitHash": ""
   },
   {
     "id": 8728,
@@ -323,7 +323,7 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "ad5e4c371407cf65024e266952a5a401dcb66386"
+    "commitHash": ""
   },
   {
     "id": 9126,
@@ -339,6 +339,6 @@
     ],
     "sourceFile": "cleanarch-json/DataClumps/cases-CommonAppDevelopment.json",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "ad5e4c371407cf65024e266952a5a401dcb66386"
+    "commitHash": ""
   }
 ]

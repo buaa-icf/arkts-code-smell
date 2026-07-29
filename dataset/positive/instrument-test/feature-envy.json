@@ -16,7 +16,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/PhotographyTemplate/ImageProcessing/scenes/picture_beautification/src/main/ets/pages/PictureBeautification.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
+    "commitHash": "8d76d0299bf144b7f2530972b68a757879ffdb83",
     "messages": [
       {
         "line": 311,
@@ -79,7 +79,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/EntertainmentTemplate/MuseumTicket/features/mine/src/main/ets/pages/EditVisitorPage.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
+    "commitHash": "8d76d0299bf144b7f2530972b68a757879ffdb83",
     "messages": [
       {
         "line": 23,
@@ -93,7 +93,7 @@
   {
     "filePath": "agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/feed/src/main/ets/pages/FeedListPage.ets",
     "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
+    "commitHash": "8d76d0299bf144b7f2530972b68a757879ffdb83",
     "messages": [
       {
         "line": 388,
