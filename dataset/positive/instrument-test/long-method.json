@@ -5,10 +5,10 @@
     "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
-        "line": 198,
+        "line": 199,
         "column": 3,
         "severity": "WARN",
-        "message": "Method 'buildSettingSheet' is too long. Consider refactoring. (Current: 113 lines, Max: 80)",
+        "message": "Method 'buildSettingSheet' is too long. Consider refactoring. (Current: 119 lines, Max: 80)",
         "rule": "@extrulesproject/long-method-check"
       }
     ]
@@ -19,10 +19,10 @@
     "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
-        "line": 88,
+        "line": 90,
         "column": 3,
         "severity": "SUGGESTION",
-        "message": "Method 'build' is too long. Consider refactoring. (Current: 125 lines, Max: 120)",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 108 lines, Max: 80)",
         "rule": "@extrulesproject/long-method-check"
       }
     ]
@@ -61,10 +61,10 @@
     "commitHash": "b9445e27d154b3d9a800d9460f2773a56fd21bef",
     "messages": [
       {
-        "line": 25,
+        "line": 26,
         "column": 3,
         "severity": "SUGGESTION",
-        "message": "Method 'build' is too long. Consider refactoring. (Current: 127 lines, Max: 120)",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 148 lines, Max: 120)",
         "rule": "@extrulesproject/long-method-check"
       }
     ]
@@ -201,10 +201,10 @@
     "commitHash": "c7088ced058a063407aba6f32125d500be253978",
     "messages": [
       {
-        "line": 255,
+        "line": 257,
         "column": 3,
         "severity": "ERROR",
-        "message": "Method 'build' is too long. Consider refactoring. (Current: 328 lines, Max: 120)",
+        "message": "Method 'build' is too long. Consider refactoring. (Current: 292 lines, Max: 120)",
         "rule": "@extrulesproject/long-method-check"
       }
     ]

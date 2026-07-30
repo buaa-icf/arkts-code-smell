@@ -96,10 +96,10 @@
     "commitHash": "778036397d23decbd39e5c7e3a680c8221e4125c",
     "messages": [
       {
-        "line": 606,
+        "line": 607,
         "column": 3,
         "severity": "WARN",
-        "message": "Method 'UploadProfilePicDialogBuilder' is too long. Consider refactoring. (Current: 84 lines, Max: 80)",
+        "message": "Method 'UploadProfilePicDialogBuilder' is too long. Consider refactoring. (Current: 82 lines, Max: 80)",
         "rule": "@extrulesproject/long-method-check"
       }
     ]
