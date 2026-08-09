@@ -1,33 +1,33 @@
 [
   {
-    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/Notes/components/richeditor/src/main/ets/components/RichEditorArea.ets",
-    "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "6541b36921f815ecb75450bcb50486f72476e4cd",
+    "filePath": "applications_photos/common/src/main/ets/default/access/UserFileManagerCompat.ts",
+    "sourceProject": "applications_photos",
+    "commitHash": "",
     "messages": [
       {
-        "line": 491,
+        "line": 244,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' has 661 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'createUserFileManager' has 181 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 491,
-        "rangeEnd": 763
+        "rangeStart": 244,
+        "rangeEnd": 265
       }
     ]
   },
   {
-    "filePath": "agc-template-market-harmonyos-demos/EducationTemplate/Exam/product/entry/src/main/ets/common/TabConstants.ets",
-    "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "09f12321fb9864be17b370589e3a33f8125606b0",
+    "filePath": "applications_photos/feature/thirdselect/src/main/ets/default/view/ThirdSelectPhotoGridBase.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "",
     "messages": [
       {
-        "line": 104,
+        "line": 660,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'routerInit' has 663 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'initSelectManager' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 104,
-        "rangeEnd": 149
+        "rangeStart": 660,
+        "rangeEnd": 679
       }
     ]
   },
@@ -48,18 +48,18 @@
     ]
   },
   {
-    "filePath": "applications_photos/feature/editor/src/main/ets/default/view/CropModeBar.ets",
+    "filePath": "applications_photos/common/src/main/ets/default/model/browser/photo/EventPipeline.ts",
     "sourceProject": "applications_photos",
-    "commitHash": "07a7786e1c75491c8138d171e0f83f77be46d846",
+    "commitHash": "",
     "messages": [
       {
-        "line": 82,
+        "line": 579,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' has 583 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'evaluateImgDisplayBounds' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 82,
-        "rangeEnd": 194
+        "rangeStart": 579,
+        "rangeEnd": 597
       }
     ]
   },
@@ -96,27 +96,34 @@
     ]
   },
   {
-    "filePath": "applications_photos/product/phone/src/main/ets/view/PhotoBrowserComponent.ets",
+    "filePath": "applications_photos/feature/editor/src/main/ets/default/Loader.ts",
     "sourceProject": "applications_photos",
-    "commitHash": "3b383cece71712d8e4fef05978b2c3f3bfe30295",
+    "commitHash": "",
     "messages": [
       {
-        "line": 1162,
+        "line": 80,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'onPageShow' has 394 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'translatePixelMap' has 150 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 1162,
-        "rangeEnd": 1235
-      },
+        "rangeStart": 80,
+        "rangeEnd": 99
+      }
+    ]
+  },
+  {
+    "filePath": "applications_settings/common/search/src/main/ets/default/page/resultComponent.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "",
+    "messages": [
       {
-        "line": 227,
+        "line": 122,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'onMenuClicked' has 324 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'splitToHighlightText' has 132 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 227,
-        "rangeEnd": 379
+        "rangeStart": 122,
+        "rangeEnd": 153
       }
     ]
   },
@@ -233,18 +240,18 @@
     ]
   },
   {
-    "filePath": "cases/CommonAppDevelopment/feature/customaddresspicker/src/main/ets/customaddresspicker/view/CustomAddressPicker.ets",
-    "sourceProject": "cases",
-    "commitHash": "0d38dc14920763a7e47dd4057d1146f9988a6090",
+    "filePath": "applications_settings/common/utils/src/main/ets/default/baseUtil/GlobalResourceManager.ts",
+    "sourceProject": "applications_settings",
+    "commitHash": "",
     "messages": [
       {
-        "line": 306,
+        "line": 28,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'customTabs' has 897 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'getStringById' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 306,
-        "rangeEnd": 506
+        "rangeStart": 28,
+        "rangeEnd": 45
       }
     ]
   },
@@ -265,66 +272,66 @@
     ]
   },
   {
-    "filePath": "cases/CommonAppDevelopment/product/entry/src/ohosTest/ets/test/AssembleTestCase.test.ets",
-    "sourceProject": "cases",
-    "commitHash": "f02ed092f09680a0ef82948b4acd816346fa04cf",
+    "filePath": "applications_settings/common/search/src/main/ets/default/model/SearchModel.ts",
+    "sourceProject": "applications_settings",
+    "commitHash": "",
     "messages": [
       {
-        "line": 157,
+        "line": 103,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'assembleTestCase' has 558 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'initRdb' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 157,
-        "rangeEnd": 437
+        "rangeStart": 103,
+        "rangeEnd": 125
       }
     ]
   },
   {
-    "filePath": "cases/CommonAppDevelopment/product/entry/src/ohosTest/ets/test/feature/VideoLinkageList.test.ets",
+    "filePath": "cases/CommonAppDevelopment/feature/mapthumbtack/src/main/ets/components/AddressPopUpComponent.ets",
     "sourceProject": "cases",
-    "commitHash": "cb0e8296428e3937d33b0499bbacc998d6475bd8",
+    "commitHash": "",
     "messages": [
       {
-        "line": 33,
+        "line": 44,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'videoLinkageListTest' has 601 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'calculateTextCompWidth' has 149 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 33,
-        "rangeEnd": 278
+        "rangeStart": 44,
+        "rangeEnd": 65
       }
     ]
   },
   {
-    "filePath": "cases/test/performance/performance-optimization-practical-guidance/entry/src/main/ets/pages/Index.ets",
+    "filePath": "cases/CommonAppDevelopment/feature/componentstack/src/main/ets/view/ComponentStack.ets",
     "sourceProject": "cases",
-    "commitHash": "bca004eb78cb21d757328c6b87f4a781a5d094e0",
+    "commitHash": "",
     "messages": [
       {
-        "line": 21,
+        "line": 198,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' has 660 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 21,
-        "rangeEnd": 416
+        "rangeStart": 198,
+        "rangeEnd": 219
       }
     ]
   },
   {
-    "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/login/views/RegisterView.ets",
-    "sourceProject": "model-evaluation-testsuite",
-    "commitHash": "96a4b4446d376316316b3500b48dcc8548cc1b07",
+    "filePath": "cases/CommonAppDevelopment/feature/danmakuplayer/src/main/ets/model/DanmakuVideoPlayer.ets",
+    "sourceProject": "cases",
+    "commitHash": "",
     "messages": [
       {
-        "line": 96,
+        "line": 573,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' has 508 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'brightnessUI' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 96,
-        "rangeEnd": 486
+        "rangeStart": 573,
+        "rangeEnd": 591
       }
     ]
   },
@@ -393,50 +400,50 @@
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/bignumberjsDemo/entry/src/ohosTest/ets/test/comparedTo.test.ets",
-    "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "ce9f93ac4c32ba186ed0cb60231721e3f436629d",
+    "filePath": "model-evaluation-testsuite/features/pregnancyHealthFeature/src/main/ets/mine/pages/UserInfoPage.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "",
     "messages": [
       {
-        "line": 19,
+        "line": 26,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'comparedTo' has 14897 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 19,
-        "rangeEnd": 4097
+        "rangeStart": 26,
+        "rangeEnd": 63
       }
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/bignumberjsDemo/entry/src/ohosTest/ets/test/precision.test.ets",
-    "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "216cee4a3ee3b8dbd821d6b72e7fed378374b510",
+    "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/business/components/SectionTitle.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "",
     "messages": [
       {
-        "line": 20,
+        "line": 30,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'precision' has 17782 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 20,
-        "rangeEnd": 5088
+        "rangeStart": 30,
+        "rangeEnd": 66
       }
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/mathjsDemo/entry/src/ohosTest/ets/test/MlMatrix.test.ets",
-    "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "a6da6b142479601ad388e16ecb6d7c96db9db215",
+    "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/pages/Index.ets",
+    "sourceProject": "model-evaluation-testsuite",
+    "commitHash": "",
     "messages": [
       {
-        "line": 36,
+        "line": 34,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'matrixTest' has 15813 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 36,
-        "rangeEnd": 7902
+        "rangeStart": 34,
+        "rangeEnd": 74
       }
     ]
   },
@@ -457,98 +464,98 @@
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/validator/entry/src/ohosTest/ets/test/validatorTest/validators.test.ets",
+    "filePath": "openharmony_tpc_samples/ohos_rive/library/src/main/ets/runtime/fonts/FontHelpers.ets",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "c120a3eaa4761a6af834e934a21b75abe899a187",
+    "commitHash": "",
     "messages": [
       {
-        "line": 22,
+        "line": 511,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'ValidatorsTest' has 8953 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'filterNonExistingFonts' has 157 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 22,
-        "rangeEnd": 14708
+        "rangeStart": 511,
+        "rangeEnd": 531
       }
     ]
   },
   {
-    "filePath": "ostest_integration_test/function/ui_compare_rh/uicompare/entry/src/ohosTest/ets/test/ComponentTextRicheditorInterface/ComponentTextRicheditorInterfaceTests.test.ets",
-    "sourceProject": "ostest_integration_test",
-    "commitHash": "55fb6bbfdaeb4567549ab363d20e9bfe38d0dd54",
+    "filePath": "openharmony_tpc_samples/parse-sdk/library/src/main/ets/OfflineQuery.ts",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "",
     "messages": [
       {
-        "line": 40,
+        "line": 57,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'ComponentTextRicheditorInterfaceTests' has 2794 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'matchesQuery' has 111 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 40,
-        "rangeEnd": 3603
+        "rangeStart": 57,
+        "rangeEnd": 76
       }
     ]
   },
   {
-    "filePath": "ostest_integration_test/function/ui_compare_rh/uicompare/entry/src/ohosTest/ets/test/UiComponentButtonSelectAlign/UiComponentButtonSelectAlign.test.ets",
-    "sourceProject": "ostest_integration_test",
-    "commitHash": "dc58a9e104ba260a44c8a65cb884cadea305b687",
+    "filePath": "openharmony_tpc_samples/OhosVideoCache/library/src/main/ets/HttpProxyCacheServerBuilder.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "",
     "messages": [
       {
-        "line": 39,
+        "line": 127,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'UiComponentButtonSelectAlign' has 1528 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'build' has 136 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 39,
-        "rangeEnd": 839
+        "rangeStart": 127,
+        "rangeEnd": 147
       }
     ]
   },
   {
-    "filePath": "ostest_integration_test/function/ui_compare_rh/uicompare/entry/src/ohosTest/ets/test/UIComponentNavTabsBlurStyleTest/UIComponentNavTabsBlurStyle.test.ets",
+    "filePath": "ostest_integration_test/OHBM/entry/src/main/ets/cases/performance/box2d/Dynamics/b2Fixture.ts",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "aef5090cc46ed81567aa548eeb771ae01da7d02f",
+    "commitHash": "",
     "messages": [
       {
-        "line": 22,
+        "line": 253,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'UIComponentNavTabsBlurStyle' has 1486 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'synchronize' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 22,
-        "rangeEnd": 1645
+        "rangeStart": 253,
+        "rangeEnd": 269
       }
     ]
   },
   {
-    "filePath": "ostest_integration_test/function/ui_compare_rh/uicompare/entry/src/ohosTest/ets/test/UiComponentPopupboxDatePickerDialogInterface/UiComponentPopupboxDatePickerDialogInterface.test.ets",
+    "filePath": "ostest_integration_test/scenario/MyMusic/entry/src/main/ets/view/BookFirstItem.ets",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "dc58a9e104ba260a44c8a65cb884cadea305b687",
+    "commitHash": "",
     "messages": [
       {
-        "line": 40,
+        "line": 28,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'UiComponentPopupboxDatePickerDialogInterface' has 3658 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 40,
-        "rangeEnd": 2121
+        "rangeStart": 28,
+        "rangeEnd": 51
       }
     ]
   },
   {
-    "filePath": "ostest_integration_test/performance/arkui/benchmark_component/entry/src/ohosTest/ets/test/Ability.test.ets",
+    "filePath": "ostest_integration_test/scenario/MyNews/entry/src/main/ets/view/Profile/UserInfoArea.ets",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "d8dd557abecf075a666d0b6d47724808df9a23b9",
+    "commitHash": "",
     "messages": [
       {
-        "line": 40,
+        "line": 59,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'abilityTest' has 3143 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 40,
-        "rangeEnd": 2665
+        "rangeStart": 59,
+        "rangeEnd": 86
       }
     ]
   },

@@ -1,17 +1,17 @@
 [
   {
-    "filePath": "agc-template-market-harmonyos-demos/BusinessTemplate/EnterpriseRecruitment/product/phone/src/main/ets/pages/mine/AvatarUpload.ets",
-    "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "d471920b6ea1c32af2e51e2118b1de1bb1fab586",
+    "filePath": "applications_photos/product/phone/src/main/ets/view/PhotoBrowserComponent.ets",
+    "sourceProject": "applications_photos",
+    "commitHash": "",
     "messages": [
       {
-        "line": 67,
+        "line": 946,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'model' 35 times, but its metrics stay outside the envy rule (ATFD=91, LDA=0.45, CPFD=19; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "message": "Negative candidate for Feature Envy: method 'showBars' primarily reads and updates PhotoBrowserComponent's own bar state; its ScreenManager call is necessary component coordination rather than behavior belonging to ScreenManager.",
         "rule": "@extrulesproject/feature-envy-check",
-        "rangeStart": 67,
-        "rangeEnd": 284
+        "rangeStart": 946,
+        "rangeEnd": 957
       }
     ]
   },

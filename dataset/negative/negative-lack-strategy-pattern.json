@@ -304,18 +304,18 @@
     ]
   },
   {
-    "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/train/pages/ExaminationDetailPage.ets",
-    "sourceProject": "model-evaluation-testsuite",
-    "commitHash": "96a4b4446d376316316b3500b48dcc8548cc1b07",
+    "filePath": "cases/CommonAppDevelopment/feature/componentinstancesharedinpages/src/main/ets/pages/ComponentSharedInPages.ets",
+    "sourceProject": "cases",
+    "commitHash": "",
     "messages": [
       {
-        "line": 43,
+        "line": 30,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Lack of Strategy Pattern: method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'pageMap' contains a small fixed mapping or notification branch, not a family of substantial interchangeable behaviors requiring strategies.",
         "rule": "@extrulesproject/switch-statement-check",
-        "rangeStart": 43,
-        "rangeEnd": 246
+        "rangeStart": 30,
+        "rangeEnd": 36
       }
     ]
   },
@@ -352,34 +352,34 @@
     ]
   },
   {
-    "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/common/common/components/PageHead.ets",
-    "sourceProject": "model-evaluation-testsuite",
-    "commitHash": "924cec37fc87193a88940949b4e74d288acfcf59",
+    "filePath": "openharmony_tpc_samples/ohos_rive/entry/src/main/ets/pages/EventsPage.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "",
     "messages": [
       {
-        "line": 91,
+        "line": 69,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Lack of Strategy Pattern: method 'MenuBuilder' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'notifyEvent' contains a small fixed mapping or notification branch, not a family of substantial interchangeable behaviors requiring strategies.",
         "rule": "@extrulesproject/switch-statement-check",
-        "rangeStart": 91,
-        "rangeEnd": 242
+        "rangeStart": 69,
+        "rangeEnd": 76
       }
     ]
   },
   {
-    "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/pages/Index.ets",
-    "sourceProject": "model-evaluation-testsuite",
-    "commitHash": "924cec37fc87193a88940949b4e74d288acfcf59",
+    "filePath": "applications_settings/product/phone/src/main/ets/pages/accessibilityScreenTouch.ets",
+    "sourceProject": "applications_settings",
+    "commitHash": "",
     "messages": [
       {
-        "line": 67,
+        "line": 441,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Lack of Strategy Pattern: method 'MenuBuilder' contains only 3 branch markers and was not reported as a large strategy-like branch.",
+        "message": "Negative candidate for Lack of Strategy Pattern: method 'setColorCorrectionStatusText' contains a small fixed mapping or notification branch, not a family of substantial interchangeable behaviors requiring strategies.",
         "rule": "@extrulesproject/switch-statement-check",
-        "rangeStart": 67,
-        "rangeEnd": 218
+        "rangeStart": 441,
+        "rangeEnd": 449
       }
     ]
   },

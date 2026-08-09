@@ -1,17 +1,17 @@
 [
   {
-    "filePath": "agc-template-market-harmonyos-demos/BooksAndReferenceTemplate/BookRead/components/swiper_card/src/main/ets/components/TUISwiper.ets",
-    "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "26912e9e68f7c2e8768ff58129d6f4e49327d0c5",
+    "filePath": "openharmony_tpc_samples/ohos_rive/entry/src/main/ets/pages/MeshesPage.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "",
     "messages": [
       {
-        "line": 137,
+        "line": 25,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 60 code lines and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 20 code lines and contains one cohesive animation-view layout.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 137,
-        "rangeEnd": 214
+        "rangeStart": 25,
+        "rangeEnd": 46
       }
     ]
   },
@@ -80,18 +80,18 @@
     ]
   },
   {
-    "filePath": "agc-template-market-harmonyos-demos/CarsTemplate/DriverLicenseExam/components/exam/src/main/ets/components/SelectComponent.ets",
-    "sourceProject": "agc-template-market-harmonyos-demos",
-    "commitHash": "26912e9e68f7c2e8768ff58129d6f4e49327d0c5",
+    "filePath": "openharmony_tpc_samples/amqplib/entry/src/main/ets/pages/PubSub.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "",
     "messages": [
       {
-        "line": 103,
+        "line": 75,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'option' has 80 code lines and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 20 code lines and contains one compact publish/consume layout.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 103,
-        "rangeEnd": 200
+        "rangeStart": 75,
+        "rangeEnd": 97
       }
     ]
   },
@@ -144,18 +144,18 @@
     ]
   },
   {
-    "filePath": "applications_photos/feature/timeline/src/main/ets/view/TimelinePage.ets",
-    "sourceProject": "applications_photos",
-    "commitHash": "45eef425865b5987cd8d65e4386f2eb30ba42c32",
+    "filePath": "openharmony_tpc_samples/ohos_rive/entry/src/main/ets/pages/MetricsPage.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "",
     "messages": [
       {
-        "line": 699,
+        "line": 27,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 78 code lines and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'build' has 20 code lines and contains one cohesive metrics-view layout.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 699,
-        "rangeEnd": 794
+        "rangeStart": 27,
+        "rangeEnd": 50
       }
     ]
   },
@@ -208,18 +208,18 @@
     ]
   },
   {
-    "filePath": "cases/CommonAppDevelopment/feature/containernestedslide/src/main/ets/view/NewsDetailPage.ets",
-    "sourceProject": "cases",
-    "commitHash": "c9c01030f7671168eaef936b11a8d7e23744d72a",
+    "filePath": "openharmony_tpc_samples/dialogs/library/src/main/ets/components/messageDialog/MessageDialog.ets",
+    "sourceProject": "openharmony_tpc_samples",
+    "commitHash": "",
     "messages": [
       {
-        "line": 358,
+        "line": 32,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'title' has 80 code lines and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'aboutToAppear' has 20 code lines and only maps the configured dialog position to X/Y offsets.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 358,
-        "rangeEnd": 442
+        "rangeStart": 32,
+        "rangeEnd": 55
       }
     ]
   },
@@ -256,18 +256,18 @@
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/mathjsDemo/entry/src/main/ets/pages/Index.ets",
+    "filePath": "openharmony_tpc_samples/BasicFtp/library/src/main/ets/netUtils.ts",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "063954d088880523764aae7912c337dccca68a28",
+    "commitHash": "",
     "messages": [
       {
-        "line": 40,
+        "line": 42,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Long Method: method 'build' has 80 code lines and is at or below threshold 80.",
+        "message": "Negative candidate for Long Method: method 'describeAddress' has 18 code lines and only reads and formats a socket remote address.",
         "rule": "@extrulesproject/long-method-check",
-        "rangeStart": 40,
-        "rangeEnd": 134
+        "rangeStart": 42,
+        "rangeEnd": 63
       }
     ]
   },
