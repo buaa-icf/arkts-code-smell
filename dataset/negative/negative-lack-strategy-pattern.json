@@ -306,7 +306,7 @@
   {
     "filePath": "cases/CommonAppDevelopment/feature/componentinstancesharedinpages/src/main/ets/pages/ComponentSharedInPages.ets",
     "sourceProject": "cases",
-    "commitHash": "",
+    "commitHash": "162c581f9c051583023439f1231f26f3f339a9f9",
     "messages": [
       {
         "line": 30,
@@ -354,7 +354,7 @@
   {
     "filePath": "openharmony_tpc_samples/ohos_rive/entry/src/main/ets/pages/EventsPage.ets",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "",
+    "commitHash": "806bb2e40d7bd86e071c4c77c43b11b15f602244",
     "messages": [
       {
         "line": 69,
@@ -370,7 +370,7 @@
   {
     "filePath": "applications_settings/product/phone/src/main/ets/pages/accessibilityScreenTouch.ets",
     "sourceProject": "applications_settings",
-    "commitHash": "",
+    "commitHash": "700fe2140f0825c755025543ae75f0fe12943fd1",
     "messages": [
       {
         "line": 441,

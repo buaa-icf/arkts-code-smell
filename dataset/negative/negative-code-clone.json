@@ -2,7 +2,7 @@
   {
     "filePath": "applications_photos/common/src/main/ets/default/access/UserFileManagerCompat.ts",
     "sourceProject": "applications_photos",
-    "commitHash": "",
+    "commitHash": "aa4c432e48c3f77ed2bc702fd1d32a7add22a7ed",
     "messages": [
       {
         "line": 244,
@@ -18,7 +18,7 @@
   {
     "filePath": "applications_photos/feature/thirdselect/src/main/ets/default/view/ThirdSelectPhotoGridBase.ets",
     "sourceProject": "applications_photos",
-    "commitHash": "",
+    "commitHash": "cf8fed90a4919498399fc77b69401aa109e51229",
     "messages": [
       {
         "line": 660,
@@ -50,7 +50,7 @@
   {
     "filePath": "applications_photos/common/src/main/ets/default/model/browser/photo/EventPipeline.ts",
     "sourceProject": "applications_photos",
-    "commitHash": "",
+    "commitHash": "bc35c9b6b86e0d278e7365a47fb0d762db6cb90d",
     "messages": [
       {
         "line": 579,
@@ -98,7 +98,7 @@
   {
     "filePath": "applications_photos/feature/editor/src/main/ets/default/Loader.ts",
     "sourceProject": "applications_photos",
-    "commitHash": "",
+    "commitHash": "aa4c432e48c3f77ed2bc702fd1d32a7add22a7ed",
     "messages": [
       {
         "line": 80,
@@ -114,7 +114,7 @@
   {
     "filePath": "applications_settings/common/search/src/main/ets/default/page/resultComponent.ets",
     "sourceProject": "applications_settings",
-    "commitHash": "",
+    "commitHash": "93753aab4cd916c6ce87ad24e52da42d872219a3",
     "messages": [
       {
         "line": 122,
@@ -242,7 +242,7 @@
   {
     "filePath": "applications_settings/common/utils/src/main/ets/default/baseUtil/GlobalResourceManager.ts",
     "sourceProject": "applications_settings",
-    "commitHash": "",
+    "commitHash": "7f981956b2de98c84ae580a7a9d7e686631f6d87",
     "messages": [
       {
         "line": 28,
@@ -274,7 +274,7 @@
   {
     "filePath": "applications_settings/common/search/src/main/ets/default/model/SearchModel.ts",
     "sourceProject": "applications_settings",
-    "commitHash": "",
+    "commitHash": "9c7d9b4ce19c9a53482d8cded7904f61fd28c702",
     "messages": [
       {
         "line": 103,
@@ -290,7 +290,7 @@
   {
     "filePath": "cases/CommonAppDevelopment/feature/mapthumbtack/src/main/ets/components/AddressPopUpComponent.ets",
     "sourceProject": "cases",
-    "commitHash": "",
+    "commitHash": "a9dba4362426fdf70e3d8324420add37b0501bbe",
     "messages": [
       {
         "line": 44,
@@ -306,7 +306,7 @@
   {
     "filePath": "cases/CommonAppDevelopment/feature/componentstack/src/main/ets/view/ComponentStack.ets",
     "sourceProject": "cases",
-    "commitHash": "",
+    "commitHash": "162c581f9c051583023439f1231f26f3f339a9f9",
     "messages": [
       {
         "line": 198,
@@ -322,7 +322,7 @@
   {
     "filePath": "cases/CommonAppDevelopment/feature/danmakuplayer/src/main/ets/model/DanmakuVideoPlayer.ets",
     "sourceProject": "cases",
-    "commitHash": "",
+    "commitHash": "a817231fd880b482aa165b5d8b3a45a443f0706f",
     "messages": [
       {
         "line": 573,
@@ -402,7 +402,7 @@
   {
     "filePath": "model-evaluation-testsuite/features/pregnancyHealthFeature/src/main/ets/mine/pages/UserInfoPage.ets",
     "sourceProject": "model-evaluation-testsuite",
-    "commitHash": "",
+    "commitHash": "1f15b23576d0daa52651db35395f067ad19381a7",
     "messages": [
       {
         "line": 26,
@@ -418,7 +418,7 @@
   {
     "filePath": "model-evaluation-testsuite/features/integrateOfficeFeature/src/main/ets/business/components/SectionTitle.ets",
     "sourceProject": "model-evaluation-testsuite",
-    "commitHash": "",
+    "commitHash": "8866abeb258760b39d0039bc92ecd672e213c42e",
     "messages": [
       {
         "line": 30,
@@ -434,7 +434,7 @@
   {
     "filePath": "model-evaluation-testsuite/features/educationFeature/src/main/ets/pages/Index.ets",
     "sourceProject": "model-evaluation-testsuite",
-    "commitHash": "",
+    "commitHash": "96a4b4446d376316316b3500b48dcc8548cc1b07",
     "messages": [
       {
         "line": 34,
@@ -466,7 +466,7 @@
   {
     "filePath": "openharmony_tpc_samples/ohos_rive/library/src/main/ets/runtime/fonts/FontHelpers.ets",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "",
+    "commitHash": "806bb2e40d7bd86e071c4c77c43b11b15f602244",
     "messages": [
       {
         "line": 511,
@@ -482,7 +482,7 @@
   {
     "filePath": "openharmony_tpc_samples/parse-sdk/library/src/main/ets/OfflineQuery.ts",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "",
+    "commitHash": "80c68dd957488bd1c2bde1f5e74048727d729bb5",
     "messages": [
       {
         "line": 57,
@@ -498,7 +498,7 @@
   {
     "filePath": "openharmony_tpc_samples/OhosVideoCache/library/src/main/ets/HttpProxyCacheServerBuilder.ets",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "",
+    "commitHash": "fa978c783825943eb84412454db8228103db9e3f",
     "messages": [
       {
         "line": 127,
@@ -514,7 +514,7 @@
   {
     "filePath": "ostest_integration_test/OHBM/entry/src/main/ets/cases/performance/box2d/Dynamics/b2Fixture.ts",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "",
+    "commitHash": "f3550112e003271a7349050ef2efcd04154e852a",
     "messages": [
       {
         "line": 253,
@@ -530,7 +530,7 @@
   {
     "filePath": "ostest_integration_test/scenario/MyMusic/entry/src/main/ets/view/BookFirstItem.ets",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "",
+    "commitHash": "7d8f3b985ddd12224e241d40ba5caa8cdb34bafc",
     "messages": [
       {
         "line": 28,
@@ -546,7 +546,7 @@
   {
     "filePath": "ostest_integration_test/scenario/MyNews/entry/src/main/ets/view/Profile/UserInfoArea.ets",
     "sourceProject": "ostest_integration_test",
-    "commitHash": "",
+    "commitHash": "bc0afa8adae0e77b2df70a46461b10ea526e1b9d",
     "messages": [
       {
         "line": 59,

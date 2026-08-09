@@ -2,7 +2,7 @@
   {
     "filePath": "openharmony_tpc_samples/ohos_rive/entry/src/main/ets/pages/MeshesPage.ets",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "",
+    "commitHash": "806bb2e40d7bd86e071c4c77c43b11b15f602244",
     "messages": [
       {
         "line": 25,
@@ -82,7 +82,7 @@
   {
     "filePath": "openharmony_tpc_samples/amqplib/entry/src/main/ets/pages/PubSub.ets",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "",
+    "commitHash": "713004f5f550271aa9960b5010a1a7c6efd02ad5",
     "messages": [
       {
         "line": 75,
@@ -146,7 +146,7 @@
   {
     "filePath": "openharmony_tpc_samples/ohos_rive/entry/src/main/ets/pages/MetricsPage.ets",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "",
+    "commitHash": "806bb2e40d7bd86e071c4c77c43b11b15f602244",
     "messages": [
       {
         "line": 27,
@@ -210,7 +210,7 @@
   {
     "filePath": "openharmony_tpc_samples/dialogs/library/src/main/ets/components/messageDialog/MessageDialog.ets",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "",
+    "commitHash": "c0e4f8adca115f53a5081f59c2fb3d72bb7aeb8b",
     "messages": [
       {
         "line": 32,
@@ -258,7 +258,7 @@
   {
     "filePath": "openharmony_tpc_samples/BasicFtp/library/src/main/ets/netUtils.ts",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "",
+    "commitHash": "951e49ce5ad37fe056fb8f0bbcac6cf645cc1e1a",
     "messages": [
       {
         "line": 42,
