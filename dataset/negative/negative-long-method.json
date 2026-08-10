@@ -11,7 +11,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 20 code lines and contains one cohesive animation-view layout.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 25,
-        "rangeEnd": 46
+        "rangeEnd": 46,
+        "negativeReason": "method 'build' has 20 code lines and contains one cohesive animation-view layout. The body declaratively builds one animation view and its controls, so the statements form a single cohesive UI responsibility."
       }
     ]
   },
@@ -27,7 +28,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 25 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 107,
-        "rangeEnd": 143
+        "rangeEnd": 143,
+        "negativeReason": "method 'build' has 25 code lines and is at or below threshold 80. The body declaratively builds one book-list page and delegates item behavior to existing callbacks."
       }
     ]
   },
@@ -43,7 +45,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 52 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 6,
-        "rangeEnd": 68
+        "rangeEnd": 68,
+        "negativeReason": "method 'build' has 52 code lines and is at or below threshold 80. The body composes one balance card; its length comes from ArkUI layout and styling chains rather than multiple business responsibilities."
       }
     ]
   },
@@ -59,7 +62,8 @@
         "message": "Negative candidate for Long Method: method 'borrowSystem' has 32 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 169,
-        "rangeEnd": 204
+        "rangeEnd": 204,
+        "negativeReason": "method 'borrowSystem' has 32 code lines and is at or below threshold 80. The method performs one borrowing transaction: validate availability, update the record, persist it, and report the result."
       }
     ]
   },
@@ -75,7 +79,8 @@
         "message": "Negative candidate for Long Method: method 'getTipDateStr' has 16 code lines and is at or below threshold 50.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 438,
-        "rangeEnd": 456
+        "rangeEnd": 456,
+        "negativeReason": "method 'getTipDateStr' has 16 code lines and is at or below threshold 50. The method maps one date difference to a compact relative-time string and has no unrelated side effects."
       }
     ]
   },
@@ -91,7 +96,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 20 code lines and contains one compact publish/consume layout.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 75,
-        "rangeEnd": 97
+        "rangeEnd": 97,
+        "negativeReason": "method 'build' has 20 code lines and contains one compact publish/consume layout. The body declaratively composes one publish/consume screen and delegates messaging actions to callbacks."
       }
     ]
   },
@@ -107,7 +113,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 80 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 10,
-        "rangeEnd": 111
+        "rangeEnd": 111,
+        "negativeReason": "method 'build' has 80 code lines and is at or below threshold 80. The body declaratively renders one transaction-information card; most lines are ArkUI properties for the same view."
       }
     ]
   },
@@ -123,7 +130,8 @@
         "message": "Negative candidate for Long Method: method 'drawSingleHistogram' has 30 code lines and is at or below threshold 50.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 238,
-        "rangeEnd": 276
+        "rangeEnd": 276,
+        "negativeReason": "method 'drawSingleHistogram' has 30 code lines and is at or below threshold 50. The body performs one histogram-rendering pass: it prepares paint values, iterates bins, and draws the resulting bars."
       }
     ]
   },
@@ -139,7 +147,8 @@
         "message": "Negative candidate for Long Method: method 'onViewDataChanged' has 20 code lines and is at or below threshold 50.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 202,
-        "rangeEnd": 228
+        "rangeEnd": 228,
+        "negativeReason": "method 'onViewDataChanged' has 20 code lines and is at or below threshold 50. The method synchronizes one photo item's local view state when its backing data changes."
       }
     ]
   },
@@ -155,7 +164,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 20 code lines and contains one cohesive metrics-view layout.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 27,
-        "rangeEnd": 50
+        "rangeEnd": 50,
+        "negativeReason": "method 'build' has 20 code lines and contains one cohesive metrics-view layout. The body declaratively builds one metrics view and keeps all statements focused on that presentation."
       }
     ]
   },
@@ -171,7 +181,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 35 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 31,
-        "rangeEnd": 73
+        "rangeEnd": 73,
+        "negativeReason": "method 'build' has 35 code lines and is at or below threshold 80. The body renders one reusable switch row and wires its enabled state and change callback."
       }
     ]
   },
@@ -187,7 +198,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 80 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 73,
-        "rangeEnd": 159
+        "rangeEnd": 159,
+        "negativeReason": "method 'build' has 80 code lines and is at or below threshold 80. The body builds one VPN credential form and its cancel/connect actions; the layout and validation callbacks serve the same page workflow."
       }
     ]
   },
@@ -203,7 +215,8 @@
         "message": "Negative candidate for Long Method: method 'notifyCharacteristicChanged' has 40 code lines and is at or below threshold 50.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 212,
-        "rangeEnd": 262
+        "rangeEnd": 262,
+        "negativeReason": "method 'notifyCharacteristicChanged' has 40 code lines and is at or below threshold 50. The body performs one BLE notification workflow: validate the device, construct the characteristic payload, send it, and log the result."
       }
     ]
   },
@@ -219,7 +232,8 @@
         "message": "Negative candidate for Long Method: method 'aboutToAppear' has 20 code lines and only maps the configured dialog position to X/Y offsets.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 32,
-        "rangeEnd": 55
+        "rangeEnd": 55,
+        "negativeReason": "method 'aboutToAppear' has 20 code lines and only maps the configured dialog position to X/Y offsets. The method maps the configured dialog position to X/Y offsets in one compact initialization task."
       }
     ]
   },
@@ -235,7 +249,8 @@
         "message": "Negative candidate for Long Method: method 'MineListItem' has 80 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 31,
-        "rangeEnd": 118
+        "rangeEnd": 118,
+        "negativeReason": "method 'MineListItem' has 80 code lines and is at or below threshold 80. The body declaratively builds one course-list row; most lines are chained ArkUI layout and style properties."
       }
     ]
   },
@@ -251,7 +266,8 @@
         "message": "Negative candidate for Long Method: method 'VideoPlayer' has 45 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 82,
-        "rangeEnd": 133
+        "rangeEnd": 133,
+        "negativeReason": "method 'VideoPlayer' has 45 code lines and is at or below threshold 80. The body declaratively composes one video surface and its play controls, with short callbacks delegated to existing methods."
       }
     ]
   },
@@ -267,7 +283,8 @@
         "message": "Negative candidate for Long Method: method 'describeAddress' has 18 code lines and only reads and formats a socket remote address.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 42,
-        "rangeEnd": 63
+        "rangeEnd": 63,
+        "negativeReason": "method 'describeAddress' has 18 code lines and only reads and formats a socket remote address. The method performs one socket-address formatting operation, including API availability and error handling."
       }
     ]
   },
@@ -283,7 +300,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 54 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 404,
-        "rangeEnd": 471
+        "rangeEnd": 471,
+        "negativeReason": "method 'build' has 54 code lines and is at or below threshold 80. The builder renders one chat message in system, received, or sent form; all branches serve the same message-row presentation."
       }
     ]
   },
@@ -299,7 +317,8 @@
         "message": "Negative candidate for Long Method: method 'build' has 50 code lines and is at or below threshold 80.",
         "rule": "@extrulesproject/long-method-check",
         "rangeStart": 29,
-        "rangeEnd": 87
+        "rangeEnd": 87,
+        "negativeReason": "method 'build' has 50 code lines and is at or below threshold 80. The builder creates one button-type benchmark fixture; repetition intentionally supplies benchmark load rather than additional responsibilities."
       }
     ]
   }

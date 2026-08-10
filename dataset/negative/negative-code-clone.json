@@ -11,7 +11,8 @@
         "message": "Negative candidate for Code Clone: method 'createUserFileManager' has 181 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 244,
-        "rangeEnd": 265
+        "rangeEnd": 265,
+        "negativeReason": "method 'createUserFileManager' has 181 normalized tokens; current retained source review found no semantically duplicated implementation."
       }
     ]
   },
@@ -27,7 +28,8 @@
         "message": "Negative candidate for Code Clone: method 'initSelectManager' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 660,
-        "rangeEnd": 679
+        "rangeEnd": 679,
+        "negativeReason": "method 'initSelectManager' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -43,7 +45,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 678 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 129,
-        "rangeEnd": 440
+        "rangeEnd": 440,
+        "negativeReason": "method 'build' has 678 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -59,7 +62,8 @@
         "message": "Negative candidate for Code Clone: method 'evaluateImgDisplayBounds' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 579,
-        "rangeEnd": 597
+        "rangeEnd": 597,
+        "negativeReason": "method 'evaluateImgDisplayBounds' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -75,7 +79,8 @@
         "message": "Negative candidate for Code Clone: method 'drawIntegerLine' has 339 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 92,
-        "rangeEnd": 130
+        "rangeEnd": 130,
+        "negativeReason": "method 'drawIntegerLine' has 339 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -91,7 +96,8 @@
         "message": "Negative candidate for Code Clone: method 'initSelectParams' has 348 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 520,
-        "rangeEnd": 562
+        "rangeEnd": 562,
+        "negativeReason": "method 'initSelectParams' has 348 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -107,7 +113,8 @@
         "message": "Negative candidate for Code Clone: method 'translatePixelMap' has 150 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 80,
-        "rangeEnd": 99
+        "rangeEnd": 99,
+        "negativeReason": "method 'translatePixelMap' has 150 normalized tokens; current retained source review found no semantically duplicated implementation."
       }
     ]
   },
@@ -123,7 +130,8 @@
         "message": "Negative candidate for Code Clone: method 'splitToHighlightText' has 132 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 122,
-        "rangeEnd": 153
+        "rangeEnd": 153,
+        "negativeReason": "method 'splitToHighlightText' has 132 normalized tokens; current retained source review found no semantically duplicated implementation."
       }
     ]
   },
@@ -139,7 +147,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 338 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 827,
-        "rangeEnd": 982
+        "rangeEnd": 982,
+        "negativeReason": "method 'build' has 338 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -155,7 +164,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 249 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 38,
-        "rangeEnd": 133
+        "rangeEnd": 133,
+        "negativeReason": "method 'build' has 249 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -171,7 +181,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 239 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 55,
-        "rangeEnd": 148
+        "rangeEnd": 148,
+        "negativeReason": "method 'build' has 239 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -187,7 +198,8 @@
         "message": "Negative candidate for Code Clone: method 'build' was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 35,
-        "rangeEnd": 95
+        "rangeEnd": 95,
+        "negativeReason": "method 'build' was not reported by the code clone scan."
       }
     ]
   },
@@ -203,7 +215,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 440 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 170,
-        "rangeEnd": 345
+        "rangeEnd": 345,
+        "negativeReason": "method 'build' has 440 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -219,7 +232,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 262 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 144,
-        "rangeEnd": 259
+        "rangeEnd": 259,
+        "negativeReason": "method 'build' has 262 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -235,7 +249,8 @@
         "message": "Negative candidate for Code Clone: method 'build' was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 51,
-        "rangeEnd": 179
+        "rangeEnd": 179,
+        "negativeReason": "method 'build' was not reported by the code clone scan."
       }
     ]
   },
@@ -251,7 +266,8 @@
         "message": "Negative candidate for Code Clone: method 'getStringById' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 28,
-        "rangeEnd": 45
+        "rangeEnd": 45,
+        "negativeReason": "method 'getStringById' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -267,7 +283,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 806 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 128,
-        "rangeEnd": 252
+        "rangeEnd": 252,
+        "negativeReason": "method 'build' has 806 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -283,7 +300,8 @@
         "message": "Negative candidate for Code Clone: method 'initRdb' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 103,
-        "rangeEnd": 125
+        "rangeEnd": 125,
+        "negativeReason": "method 'initRdb' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -299,7 +317,8 @@
         "message": "Negative candidate for Code Clone: method 'calculateTextCompWidth' has 149 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 44,
-        "rangeEnd": 65
+        "rangeEnd": 65,
+        "negativeReason": "method 'calculateTextCompWidth' has 149 normalized tokens; current retained source review found no semantically duplicated implementation."
       }
     ]
   },
@@ -315,7 +334,8 @@
         "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 198,
-        "rangeEnd": 219
+        "rangeEnd": 219,
+        "negativeReason": "method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -331,7 +351,8 @@
         "message": "Negative candidate for Code Clone: method 'brightnessUI' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 573,
-        "rangeEnd": 591
+        "rangeEnd": 591,
+        "negativeReason": "method 'brightnessUI' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -347,7 +368,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 481 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 45,
-        "rangeEnd": 157
+        "rangeEnd": 157,
+        "negativeReason": "method 'build' has 481 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -363,7 +385,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 481 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 41,
-        "rangeEnd": 118
+        "rangeEnd": 118,
+        "negativeReason": "method 'build' has 481 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -379,7 +402,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 451 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 36,
-        "rangeEnd": 189
+        "rangeEnd": 189,
+        "negativeReason": "method 'build' has 451 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -395,7 +419,8 @@
         "message": "Negative candidate for Code Clone: method 'joinImages' has 593 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 25,
-        "rangeEnd": 104
+        "rangeEnd": 104,
+        "negativeReason": "method 'joinImages' has 593 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -411,7 +436,8 @@
         "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 26,
-        "rangeEnd": 63
+        "rangeEnd": 63,
+        "negativeReason": "method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -427,7 +453,8 @@
         "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 30,
-        "rangeEnd": 66
+        "rangeEnd": 66,
+        "negativeReason": "method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -443,7 +470,8 @@
         "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 34,
-        "rangeEnd": 74
+        "rangeEnd": 74,
+        "negativeReason": "method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -459,7 +487,8 @@
         "message": "Negative candidate for Code Clone: method 'textEncodingTest' has 140963 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 28,
-        "rangeEnd": 162
+        "rangeEnd": 162,
+        "negativeReason": "method 'textEncodingTest' has 140963 normalized tokens and was not reported by the code clone scan."
       }
     ]
   },
@@ -475,7 +504,8 @@
         "message": "Negative candidate for Code Clone: method 'filterNonExistingFonts' has 157 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 511,
-        "rangeEnd": 531
+        "rangeEnd": 531,
+        "negativeReason": "method 'filterNonExistingFonts' has 157 normalized tokens; current retained source review found no semantically duplicated implementation."
       }
     ]
   },
@@ -491,7 +521,8 @@
         "message": "Negative candidate for Code Clone: method 'matchesQuery' has 111 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 57,
-        "rangeEnd": 76
+        "rangeEnd": 76,
+        "negativeReason": "method 'matchesQuery' has 111 normalized tokens; current retained source review found no semantically duplicated implementation."
       }
     ]
   },
@@ -507,7 +538,8 @@
         "message": "Negative candidate for Code Clone: method 'build' has 136 normalized tokens; current retained source review found no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 127,
-        "rangeEnd": 147
+        "rangeEnd": 147,
+        "negativeReason": "method 'build' has 136 normalized tokens; current retained source review found no semantically duplicated implementation."
       }
     ]
   },
@@ -523,7 +555,8 @@
         "message": "Negative candidate for Code Clone: method 'synchronize' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 253,
-        "rangeEnd": 269
+        "rangeEnd": 269,
+        "negativeReason": "method 'synchronize' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -539,7 +572,8 @@
         "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 28,
-        "rangeEnd": 51
+        "rangeEnd": 51,
+        "negativeReason": "method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -555,7 +589,8 @@
         "message": "Negative candidate for Code Clone: method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 59,
-        "rangeEnd": 86
+        "rangeEnd": 86,
+        "negativeReason": "method 'build' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
       }
     ]
   },
@@ -571,7 +606,8 @@
         "message": "Negative candidate for Code Clone: fragment 'ScheduleForm.ets:412-428' does not form a 100-token exact normalized clone with its annotated counterpart in this scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 412,
-        "rangeEnd": 428
+        "rangeEnd": 428,
+        "negativeReason": "fragment 'ScheduleForm.ets:412-428' does not form a 100-token exact normalized clone with its annotated counterpart in this scan."
       }
     ]
   },
@@ -587,7 +623,8 @@
         "message": "Negative candidate for Code Clone: fragment 'TransactionSearch.ets:5-33' has no 100-token exact normalized clone with its annotated counterpart in this scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 5,
-        "rangeEnd": 33
+        "rangeEnd": 33,
+        "negativeReason": "fragment 'TransactionSearch.ets:5-33' has no 100-token exact normalized clone with its annotated counterpart in this scan."
       }
     ]
   }

@@ -11,7 +11,8 @@
         "message": "Negative candidate for Feature Envy: method 'showBars' primarily reads and updates PhotoBrowserComponent's own bar state; its ScreenManager call is necessary component coordination rather than behavior belonging to ScreenManager.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 946,
-        "rangeEnd": 957
+        "rangeEnd": 957,
+        "negativeReason": "method 'showBars' primarily reads and updates PhotoBrowserComponent's own bar state; its ScreenManager call is necessary component coordination rather than behavior belonging to ScreenManager. The method owns the browser component's bar visibility and background state; the single ScreenManager call only synchronizes system UI."
       }
     ]
   },
@@ -27,7 +28,8 @@
         "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'orderInfo' 25 times, but its metrics stay outside the envy rule (ATFD=86, LDA=0.34, CPFD=20; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 27,
-        "rangeEnd": 199
+        "rangeEnd": 199,
+        "negativeReason": "method 'build' accesses external receiver 'orderInfo' 25 times, but its metrics stay outside the envy rule (ATFD=86, LDA=0.34, CPFD=20; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The builder renders and updates this page's order-detail UI; orderInfo is input data consumed by the page, not an object that should own ArkUI composition."
       }
     ]
   },
@@ -43,7 +45,8 @@
         "message": "Negative candidate for Feature Envy: method 'handleIconColor' has no external receiver access and 7 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 31,
-        "rangeEnd": 41
+        "rangeEnd": 41,
+        "negativeReason": "method 'handleIconColor' has no external receiver access and 7 local accesses. It derives two fields of the current button from the current button's hover and background state, so the behavior belongs to this component."
       }
     ]
   },
@@ -59,7 +62,8 @@
         "message": "Negative candidate for Feature Envy: method 'updateActionBarProp' has no external receiver access and 7 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 53,
-        "rangeEnd": 60
+        "rangeEnd": 60,
+        "negativeReason": "method 'updateActionBarProp' has no external receiver access and 7 local accesses. It updates the current grid's selection count and chooses one of its own action-bar builders from its orientation state."
       }
     ]
   },
@@ -75,7 +79,8 @@
         "message": "Negative candidate for Feature Envy: method 'aboutToAppear' accesses external receiver 'param' 29 times, but its metrics stay outside the envy rule (ATFD=161, LDA=0.46, CPFD=23; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 732,
-        "rangeEnd": 935
+        "rangeEnd": 935,
+        "negativeReason": "method 'aboutToAppear' accesses external receiver 'param' 29 times, but its metrics stay outside the envy rule (ATFD=161, LDA=0.46, CPFD=23; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The lifecycle hook translates navigation parameters into this component's data source, album, index, and transition state; param is transient input rather than an object that owns initialization behavior."
       }
     ]
   },
@@ -91,7 +96,8 @@
         "message": "Negative candidate for Feature Envy: method 'onMenuClicked' accesses external receiver 'action' 15 times, but its metrics stay outside the envy rule (ATFD=80, LDA=0.34, CPFD=27; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 185,
-        "rangeEnd": 295
+        "rangeEnd": 295,
+        "negativeReason": "method 'onMenuClicked' accesses external receiver 'action' 15 times, but its metrics stay outside the envy rule (ATFD=80, LDA=0.34, CPFD=27; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The method coordinates this grid's selection and menu operations; action is a command descriptor consumed by the view, not the owner of grid state."
       },
       {
         "line": 542,
@@ -100,7 +106,8 @@
         "message": "Negative candidate for Feature Envy: method 'aboutToAppear' accesses external receiver 'Action' 18 times, but its metrics stay outside the envy rule (ATFD=77, LDA=0.43, CPFD=14; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 542,
-        "rangeEnd": 631
+        "rangeEnd": 631,
+        "negativeReason": "method 'aboutToAppear' accesses external receiver 'Action' 18 times, but its metrics stay outside the envy rule (ATFD=77, LDA=0.43, CPFD=14; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The lifecycle hook registers this view's menu actions and initializes its grid state; Action values are configuration inputs."
       }
     ]
   },
@@ -116,7 +123,8 @@
         "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'ConfigData' 9 times, but its metrics stay outside the envy rule (ATFD=63, LDA=0.35, CPFD=17; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 159,
-        "rangeEnd": 369
+        "rangeEnd": 369,
+        "negativeReason": "method 'build' accesses external receiver 'ConfigData' 9 times, but its metrics stay outside the envy rule (ATFD=63, LDA=0.35, CPFD=17; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The builder composes this page's controls; ConfigData only supplies shared dimensions and constants and has no behavior to receive."
       }
     ]
   },
@@ -132,7 +140,8 @@
         "message": "Negative candidate for Feature Envy: method 'changeValue' has no external receiver access and 7 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 175,
-        "rangeEnd": 192
+        "rangeEnd": 192,
+        "negativeReason": "method 'changeValue' has no external receiver access and 7 local accesses. It validates and updates fields owned by the date-and-time page without traversing or manipulating another object's state."
       }
     ]
   },
@@ -148,7 +157,8 @@
         "message": "Negative candidate for Feature Envy: method 'updateView' has no external receiver access and 8 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 334,
-        "rangeEnd": 339
+        "rangeEnd": 339,
+        "negativeReason": "method 'updateView' has no external receiver access and 8 local accesses. It updates password-page view state from local validation results and does not implement behavior for an external object."
       }
     ]
   },
@@ -164,7 +174,8 @@
         "message": "Negative candidate for Feature Envy: method 'initCertList' accesses external receiver 'cert' 15 times, but its metrics stay outside the envy rule (ATFD=51, LDA=0.41, CPFD=12; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 60,
-        "rangeEnd": 153
+        "rangeEnd": 153,
+        "negativeReason": "method 'initCertList' accesses external receiver 'cert' 15 times, but its metrics stay outside the envy rule (ATFD=51, LDA=0.41, CPFD=12; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The method converts certificate records into this page's option titles, callbacks, and selected indexes; each cert is a data item, while the resulting state belongs to the editor."
       }
     ]
   },
@@ -180,7 +191,8 @@
         "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'vpnConfig' 22 times, but its metrics stay outside the envy rule (ATFD=56, LDA=0.52, CPFD=6; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 170,
-        "rangeEnd": 345
+        "rangeEnd": 345,
+        "negativeReason": "method 'build' accesses external receiver 'vpnConfig' 22 times, but its metrics stay outside the envy rule (ATFD=56, LDA=0.52, CPFD=6; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The builder binds vpnConfig fields to this editor's controls; presenting and editing the configuration is the page's responsibility."
       }
     ]
   },
@@ -196,7 +208,8 @@
         "message": "Negative candidate for Feature Envy: method 'customTabs' accesses external receiver 'currentSelectInfo' 35 times, but its metrics stay outside the envy rule (ATFD=124, LDA=0.47, CPFD=16; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 306,
-        "rangeEnd": 506
+        "rangeEnd": 506,
+        "negativeReason": "method 'customTabs' accesses external receiver 'currentSelectInfo' 35 times, but its metrics stay outside the envy rule (ATFD=124, LDA=0.47, CPFD=16; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The builder renders tabs and updates this picker's selection state; currentSelectInfo is the selected-value record consumed by the picker."
       }
     ]
   },
@@ -212,7 +225,8 @@
         "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'animationInfo' 69 times, but its metrics stay outside the envy rule (ATFD=115, LDA=0.39, CPFD=11; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 118,
-        "rangeEnd": 302
+        "rangeEnd": 302,
+        "negativeReason": "method 'build' accesses external receiver 'animationInfo' 69 times, but its metrics stay outside the envy rule (ATFD=115, LDA=0.39, CPFD=11; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The builder uses animationInfo as declarative animation configuration while it owns the page layout and interaction callbacks."
       }
     ]
   },
@@ -228,7 +242,8 @@
         "message": "Negative candidate for Feature Envy: method 'videoTabContent' accesses external receiver 'STRINGCONFIGURATION' 36 times, but its metrics stay outside the envy rule (ATFD=100, LDA=0.40, CPFD=12; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 74,
-        "rangeEnd": 308
+        "rangeEnd": 308,
+        "negativeReason": "method 'videoTabContent' accesses external receiver 'STRINGCONFIGURATION' 36 times, but its metrics stay outside the envy rule (ATFD=100, LDA=0.40, CPFD=12; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The builder repeatedly reads STRINGCONFIGURATION constants to label this component; constants are passive configuration, not a behavior-owning receiver."
       }
     ]
   },
@@ -244,7 +259,8 @@
         "message": "Negative candidate for Feature Envy: method 'initUIRange' has no external receiver access and 57 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 416,
-        "rangeEnd": 440
+        "rangeEnd": 440,
+        "negativeReason": "method 'initUIRange' has no external receiver access and 57 local accesses. It computes and stores the range seek bar's own bounds, thumb positions, and drawing coordinates from local fields."
       }
     ]
   },
@@ -260,7 +276,8 @@
         "message": "Negative candidate for Feature Envy: method 'rightThumbUpdate' has no external receiver access and 33 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 394,
-        "rangeEnd": 423
+        "rangeEnd": 423,
+        "negativeReason": "method 'rightThumbUpdate' has no external receiver access and 33 local accesses. It clamps and writes the current range seek bar's right-thumb position and related local range state."
       }
     ]
   },
@@ -276,7 +293,8 @@
         "message": "Negative candidate for Feature Envy: method 'iconOnclick' has no external receiver access and 12 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 359,
-        "rangeEnd": 387
+        "rangeEnd": 387,
+        "negativeReason": "method 'iconOnclick' has no external receiver access and 12 local accesses. It toggles the player view's own control visibility and timer state rather than operating on an external domain object."
       }
     ]
   },
@@ -292,7 +310,8 @@
         "message": "Negative candidate for Feature Envy: method 'build' has no external receiver access and 12 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 122,
-        "rangeEnd": 150
+        "rangeEnd": 150,
+        "negativeReason": "method 'build' has no external receiver access and 12 local accesses. The builder composes this map page entirely from its own fields and callbacks, with no external receiver driving the behavior."
       }
     ]
   },
@@ -308,7 +327,8 @@
         "message": "Negative candidate for Feature Envy: method 'onDraw' has no external receiver access and 78 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 154,
-        "rangeEnd": 233
+        "rangeEnd": 233,
+        "negativeReason": "method 'onDraw' has no external receiver access and 78 local accesses. It draws the loading dialog from the model's own geometry, paint, and animation state; all accesses are local to that model."
       }
     ]
   },
@@ -324,7 +344,8 @@
         "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'snmp' 71 times, but its metrics stay outside the envy rule (ATFD=276, LDA=0.34, CPFD=27; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 36,
-        "rangeEnd": 757
+        "rangeEnd": 757,
+        "negativeReason": "method 'build' accesses external receiver 'snmp' 71 times, but its metrics stay outside the envy rule (ATFD=276, LDA=0.34, CPFD=27; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The page orchestrates SNMP form inputs, requests, and result presentation; snmp is the service used by the page rather than the owner of UI workflow."
       }
     ]
   },
@@ -340,7 +361,8 @@
         "message": "Negative candidate for Feature Envy: method 'build' has no external receiver access and 36 local accesses.",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 27,
-        "rangeEnd": 99
+        "rangeEnd": 99,
+        "negativeReason": "method 'build' has no external receiver access and 36 local accesses. The builder declares one UI comparison fixture using local state and chained ArkUI properties only."
       }
     ]
   },
@@ -356,7 +378,8 @@
         "message": "Negative candidate for Feature Envy: method 'start' accesses external receiver 'data' 38 times, but its metrics stay outside the envy rule (ATFD=99, LDA=0.49, CPFD=15; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 194,
-        "rangeEnd": 351
+        "rangeEnd": 351,
+        "negativeReason": "method 'start' accesses external receiver 'data' 38 times, but its metrics stay outside the envy rule (ATFD=99, LDA=0.49, CPFD=15; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The method consumes returned performance data to update this page's charts and status; data is a transfer object, not a behavior owner."
       }
     ]
   },
@@ -372,7 +395,8 @@
         "message": "Negative candidate for Feature Envy: method 'aboutToAppear' accesses external receiver 'msg' 30 times, but its metrics stay outside the envy rule (ATFD=135, LDA=0.42, CPFD=17; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
         "rule": "@extrulesproject/feature-envy-check",
         "rangeStart": 125,
-        "rangeEnd": 379
+        "rangeEnd": 379,
+        "negativeReason": "method 'aboutToAppear' accesses external receiver 'msg' 30 times, but its metrics stay outside the envy rule (ATFD=135, LDA=0.42, CPFD=17; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The lifecycle hook parses the incoming message and initializes this page's engine and view state; msg is transient input."
       }
     ]
   }

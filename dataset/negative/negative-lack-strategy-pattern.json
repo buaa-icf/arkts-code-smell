@@ -11,7 +11,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'getTipDateStr' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 438,
-        "rangeEnd": 456
+        "rangeEnd": 456,
+        "negativeReason": "method 'getTipDateStr' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches select a relative-date label for a few fixed time intervals; they are a compact value mapping, not interchangeable algorithms."
       }
     ]
   },
@@ -27,7 +28,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'updateWidthBp' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 50,
-        "rangeEnd": 78
+        "rangeEnd": 78,
+        "negativeReason": "method 'updateWidthBp' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches map window-width breakpoints to layout state, with no independent behaviors that warrant strategy objects."
       }
     ]
   },
@@ -43,7 +45,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'locationFailedAlert' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 60,
-        "rangeEnd": 82
+        "rangeEnd": 82,
+        "negativeReason": "method 'locationFailedAlert' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches only choose the alert text for fixed location failure codes and share the same presentation flow."
       }
     ]
   },
@@ -59,7 +62,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'locationFailedAlert' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 60,
-        "rangeEnd": 82
+        "rangeEnd": 82,
+        "negativeReason": "method 'locationFailedAlert' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches only choose the alert text for fixed location failure codes and share the same presentation flow."
       }
     ]
   },
@@ -75,7 +79,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'handleClickStoreInfo' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 99,
-        "rangeEnd": 112
+        "rangeEnd": 112,
+        "negativeReason": "method 'handleClickStoreInfo' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches perform small navigation decisions from store state, not a family of replaceable business algorithms."
       }
     ]
   },
@@ -91,7 +96,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'handleKeyEvent' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 554,
-        "rangeEnd": 572
+        "rangeEnd": 572,
+        "negativeReason": "method 'handleKeyEvent' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches translate a small fixed set of key events into local focus or selection updates."
       }
     ]
   },
@@ -107,7 +113,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'handleKeyEvent' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 728,
-        "rangeEnd": 759
+        "rangeEnd": 759,
+        "negativeReason": "method 'handleKeyEvent' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches translate a small fixed set of key events into local focus or selection updates."
       }
     ]
   },
@@ -123,7 +130,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'changeTextResToPlural' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 479,
-        "rangeEnd": 499
+        "rangeEnd": 499,
+        "negativeReason": "method 'changeTextResToPlural' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches choose singular or plural text resources from a count, which is a direct presentation mapping."
       }
     ]
   },
@@ -139,7 +147,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'onMenuClicked' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 161,
-        "rangeEnd": 182
+        "rangeEnd": 182,
+        "negativeReason": "method 'onMenuClicked' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches dispatch a small fixed set of menu actions while the surrounding method retains the common selection workflow."
       }
     ]
   },
@@ -155,7 +164,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'setShortKeyAbility' contains only 2 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 230,
-        "rangeEnd": 254
+        "rangeEnd": 254,
+        "negativeReason": "method 'setShortKeyAbility' contains only 2 branch markers and was not reported as a large strategy-like branch. The two branches enable or disable the same accessibility shortcut and do not represent separate strategies."
       }
     ]
   },
@@ -171,7 +181,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'onPairClick' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 586,
-        "rangeEnd": 600
+        "rangeEnd": 600,
+        "negativeReason": "method 'onPairClick' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches handle the finite Bluetooth pairing outcomes within one cohesive pairing operation."
       }
     ]
   },
@@ -187,7 +198,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'itemClicked' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 396,
-        "rangeEnd": 412
+        "rangeEnd": 412,
+        "negativeReason": "method 'itemClicked' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches route clicks according to a small set of Bluetooth item states, sharing the same page-level responsibility."
       }
     ]
   },
@@ -203,7 +215,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'getSelectIndex' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 133,
-        "rangeEnd": 147
+        "rangeEnd": 147,
+        "negativeReason": "method 'getSelectIndex' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches convert a small fixed set of option values to UI indexes, so a lookup-style conditional is appropriate."
       }
     ]
   },
@@ -219,7 +232,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'updateL2tpSecretVisibility' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 208,
-        "rangeEnd": 218
+        "rangeEnd": 218,
+        "negativeReason": "method 'updateL2tpSecretVisibility' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches only synchronize one visibility flag with the selected VPN type."
       }
     ]
   },
@@ -235,7 +249,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'isMove' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 239,
-        "rangeEnd": 255
+        "rangeEnd": 255,
+        "negativeReason": "method 'isMove' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches compare pointer displacement against fixed bounds to return one movement decision."
       }
     ]
   },
@@ -251,7 +266,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'handleOperate' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 157,
-        "rangeEnd": 168
+        "rangeEnd": 168,
+        "negativeReason": "method 'handleOperate' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches map a small set of exception operations to their direct handlers inside one operation dispatcher."
       }
     ]
   },
@@ -267,7 +283,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 51,
-        "rangeEnd": 92
+        "rangeEnd": 92,
+        "negativeReason": "method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch. The conditional branches select nested-scroll UI variants inside one declarative layout; they do not implement replaceable algorithms."
       }
     ]
   },
@@ -283,7 +300,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'transform' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 96,
-        "rangeEnd": 106
+        "rangeEnd": 106,
+        "negativeReason": "method 'transform' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches perform sequential schema-version conversions in one database-upgrade pipeline, not selectable runtime strategies."
       }
     ]
   },
@@ -299,7 +317,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'updateVersion' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 70,
-        "rangeEnd": 93
+        "rangeEnd": 93,
+        "negativeReason": "method 'updateVersion' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches coordinate the next database version and refresh the same page state."
       }
     ]
   },
@@ -315,7 +334,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'pageMap' contains a small fixed mapping or notification branch, not a family of substantial interchangeable behaviors requiring strategies.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 30,
-        "rangeEnd": 36
+        "rangeEnd": 36,
+        "negativeReason": "method 'pageMap' contains a small fixed mapping or notification branch, not a family of substantial interchangeable behaviors requiring strategies. The branches map a page index to a small fixed page component and contain no substantial alternative algorithm."
       }
     ]
   },
@@ -331,7 +351,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 74,
-        "rangeEnd": 124
+        "rangeEnd": 124,
+        "negativeReason": "method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches select a few music-page UI states inside one ArkUI builder, not independent strategies."
       }
     ]
   },
@@ -347,7 +368,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'getItemColor' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 428,
-        "rangeEnd": 439
+        "rangeEnd": 439,
+        "negativeReason": "method 'getItemColor' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches derive a calendar item's color from a few display states, which is presentation logic."
       }
     ]
   },
@@ -363,7 +385,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'notifyEvent' contains a small fixed mapping or notification branch, not a family of substantial interchangeable behaviors requiring strategies.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 69,
-        "rangeEnd": 76
+        "rangeEnd": 76,
+        "negativeReason": "method 'notifyEvent' contains a small fixed mapping or notification branch, not a family of substantial interchangeable behaviors requiring strategies. The branches map a small fixed set of Rive event values to notifications while sharing one event-handling flow."
       }
     ]
   },
@@ -379,7 +402,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'setColorCorrectionStatusText' contains a small fixed mapping or notification branch, not a family of substantial interchangeable behaviors requiring strategies.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 441,
-        "rangeEnd": 449
+        "rangeEnd": 449,
+        "negativeReason": "method 'setColorCorrectionStatusText' contains a small fixed mapping or notification branch, not a family of substantial interchangeable behaviors requiring strategies. The branches map accessibility status values to display text and do not encapsulate independent behavior."
       }
     ]
   },
@@ -395,7 +419,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'parseLogColor' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 64,
-        "rangeEnd": 73
+        "rangeEnd": 73,
+        "negativeReason": "method 'parseLogColor' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches map log levels to colors, a finite value conversion rather than a strategy family."
       }
     ]
   },
@@ -411,7 +436,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'stringToUint8Array' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 67,
-        "rangeEnd": 116
+        "rangeEnd": 116,
+        "negativeReason": "method 'stringToUint8Array' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches handle the bounded encoding cases of one string-to-byte conversion algorithm."
       }
     ]
   },
@@ -427,7 +453,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'unitTests' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 35,
-        "rangeEnd": 105
+        "rangeEnd": 105,
+        "negativeReason": "method 'unitTests' contains only 3 branch markers and was not reported as a large strategy-like branch. The conditions organize test assertions and setup paths; they are test control flow, not production strategies."
       }
     ]
   },
@@ -443,7 +470,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'stringToUint8Array' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 67,
-        "rangeEnd": 117
+        "rangeEnd": 117,
+        "negativeReason": "method 'stringToUint8Array' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches handle the bounded encoding cases of one string-to-byte conversion algorithm."
       }
     ]
   },
@@ -459,7 +487,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 50,
-        "rangeEnd": 85
+        "rangeEnd": 85,
+        "negativeReason": "method 'build' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches conditionally render fixed loading-dialog variants in one page builder."
       }
     ]
   },
@@ -475,7 +504,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'applyNormalAttribute' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 50,
-        "rangeEnd": 74
+        "rangeEnd": 74,
+        "negativeReason": "method 'applyNormalAttribute' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches apply a few fixed layout attributes for a UI comparison fixture."
       }
     ]
   },
@@ -491,7 +521,8 @@
         "message": "Negative candidate for Lack of Strategy Pattern: method 'changeWindowOrientation' contains only 3 branch markers and was not reported as a large strategy-like branch.",
         "rule": "@extrulesproject/switch-statement-check",
         "rangeStart": 139,
-        "rangeEnd": 170
+        "rangeEnd": 170,
+        "negativeReason": "method 'changeWindowOrientation' contains only 3 branch markers and was not reported as a large strategy-like branch. The branches map test settings to fixed window orientations through the same window API."
       }
     ]
   }
