@@ -9,7 +9,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'checkImageAdapt' is highly coupled to 'CropModel' (5/6 calls, 83%). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 289,
+        "rangeEnd": 337
       }
     ]
   },
@@ -23,7 +25,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'drawClipImage' is feature-envious toward 'CanvasPath' (ATFD=29, LDA=0.26, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 311,
+        "rangeEnd": 365
       }
     ]
   },
@@ -37,14 +41,18 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'initialiseEnumField' is feature-envious toward '@%unk/%unk: UserFullInfo|@agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets: MyDetailPage' (ATFD=44, LDA=0.20, CPFD=1). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 76,
+        "rangeEnd": 100
       },
       {
         "line": 102,
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'initialiseUserInfoTextField' is feature-envious toward '@%unk/%unk: UserInfo|@agc-template-market-harmonyos-demos/SocialTemplate/SocialDating/features/user/src/main/ets/pages/UserDetail.ets: MyDetailPage' (ATFD=20, LDA=0.20, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 102,
+        "rangeEnd": 136
       }
     ]
   },
@@ -58,7 +66,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'formInputStyle' is feature-envious toward 'TextInputAttribute' (ATFD=12, LDA=0.00, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 220,
+        "rangeEnd": 234
       }
     ]
   },
@@ -72,7 +82,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'cloneContact' is feature-envious toward 'MinePageVM' (ATFD=11, LDA=0.31, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 24,
+        "rangeEnd": 32
       }
     ]
   },
@@ -86,7 +98,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'cloneContact' is feature-envious toward 'MinePageVM' (ATFD=11, LDA=0.31, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 23,
+        "rangeEnd": 31
       }
     ]
   },
@@ -100,7 +114,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'setClickLike' is feature-envious toward 'Feed|null' (ATFD=11, LDA=0.21, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 388,
+        "rangeEnd": 404
       }
     ]
   }

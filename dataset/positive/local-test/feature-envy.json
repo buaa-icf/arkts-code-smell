@@ -9,7 +9,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'isNeedRenderConnectedWiFi' is feature-envious toward 'WiFiMenuModel' (ATFD=5, LDA=0.17, CPFD=1). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 340,
+        "rangeEnd": 356
       }
     ]
   },
@@ -23,7 +25,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'updateBookCoins' is feature-envious toward 'AppStorage' (ATFD=5, LDA=0.00, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 31,
+        "rangeEnd": 39
       }
     ]
   },
@@ -37,7 +41,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'updateBookCoins' is feature-envious toward 'AppStorage' (ATFD=5, LDA=0.00, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 25,
+        "rangeEnd": 35
       }
     ]
   },
@@ -51,7 +57,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'toBasicUserInfo' is highly coupled to 'BasicUserInfo' (8/8 calls, 100%). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 81,
+        "rangeEnd": 91
       }
     ]
   },
@@ -65,7 +73,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'transTopicItemModel' is highly coupled to 'AnswerItem' (4/5 calls, 80%). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 709,
+        "rangeEnd": 732
       }
     ]
   },
@@ -79,7 +89,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'initData' is highly coupled to 'DatePickerPanelVM' (5/6 calls, 83%). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 28,
+        "rangeEnd": 43
       }
     ]
   },
@@ -93,7 +105,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'checkPatientInfo' is feature-envious toward 'PatientModel' (ATFD=21, LDA=0.00, CPFD=1). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 147,
+        "rangeEnd": 216
       }
     ]
   },
@@ -107,7 +121,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'getParams' is feature-envious toward 'GuideRouter' (ATFD=20, LDA=0.00, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 8,
+        "rangeEnd": 22
       }
     ]
   },
@@ -121,7 +137,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'getTransactionRecordInfo' is feature-envious toward 'ITransactionInfo|undefined' (ATFD=19, LDA=0.14, CPFD=1). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 36,
+        "rangeEnd": 72
       }
     ]
   },
@@ -135,7 +153,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'getTotalCash' is feature-envious toward '@%unk/%unk: GoodInfo|@agc-template-market-harmonyos-demos/LifestyleAndServiceTemplate/HouseholdService/features/business_home/src/main/ets/viewmodel/OrderVM.ets: OrderVM' (ATFD=13, LDA=0.13, CPFD=1). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 143,
+        "rangeEnd": 158
       }
     ]
   },
@@ -149,7 +169,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'updateUserInfo' is feature-envious toward 'IUserInfo' (ATFD=12, LDA=0.00, CPFD=1). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 76,
+        "rangeEnd": 89
       }
     ]
   },
@@ -163,7 +185,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'getOrderInfo' is feature-envious toward 'IOrderInfo|undefined' (ATFD=11, LDA=0.15, CPFD=2). Consider moving logic or introducing delegation.",
-        "rule": "@extrulesproject/feature-envy-check"
+        "rule": "@extrulesproject/feature-envy-check",
+        "rangeStart": 45,
+        "rangeEnd": 56
       }
     ]
   }

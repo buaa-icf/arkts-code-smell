@@ -9,7 +9,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'accessibilityConfigSetting' is too long. Consider refactoring. (Current: 68 lines, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 32,
+        "rangeEnd": 101
       }
     ]
   },
@@ -23,7 +25,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'initCertList' is too long. Consider refactoring. (Current: 82 lines, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 60,
+        "rangeEnd": 153
       }
     ]
   },
@@ -37,7 +41,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'sendRequest' is too long. Consider refactoring. (Current: 111 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 67,
+        "rangeEnd": 141
       }
     ]
   },
@@ -51,7 +57,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'checkPatientInfo' is too long. Consider refactoring. (Current: 117 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 147,
+        "rangeEnd": 216
       }
     ]
   },
@@ -65,7 +73,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'submitOrder' is too long. Consider refactoring. (Current: 103 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 98,
+        "rangeEnd": 200
       }
     ]
   },
@@ -79,14 +89,18 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'moveClipCanvasFreeType' is too long. Consider refactoring. (Current: 149 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 413,
+        "rangeEnd": 498
       },
       {
         "line": 501,
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'moveClipCanvasRatioType' is too long. Consider refactoring. (Current: 189 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 501,
+        "rangeEnd": 618
       }
     ]
   },
@@ -100,7 +114,9 @@
         "column": 3,
         "severity": "WARN",
         "message": "Method 'UploadProfilePicDialogBuilder' is too long. Consider refactoring. (Current: 82 lines, Max: 80)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 607,
+        "rangeEnd": 707
       }
     ]
   }

@@ -5,11 +5,13 @@
     "commitHash": "8060bd7f522db5e7fee45fe8eb38d5ceadb90d54",
     "messages": [
       {
-        "line": 3,
+        "line": 158,
         "column": 4,
         "severity": "SUGGESTION",
         "message": "Switch statement with 8 cases detected in method 'getCropRatio'. Consider using polymorphism or strategy. Case line counts: 0 (3 lines); 1 (6 lines); 2 (3 lines); 3 (3 lines); 4 (3 lines); 5 (3 lines); 6 (3 lines); default (2 lines).",
-        "rule": "@extrulesproject/switch-statement-check"
+        "rule": "@extrulesproject/switch-statement-check",
+        "rangeStart": 156,
+        "rangeEnd": 187
       }
     ]
   }

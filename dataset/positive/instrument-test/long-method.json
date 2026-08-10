@@ -9,7 +9,9 @@
         "column": 3,
         "severity": "WARN",
         "message": "Method 'buildSettingSheet' is too long. Consider refactoring. (Current: 119 lines, Max: 80)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 199,
+        "rangeEnd": 346
       }
     ]
   },
@@ -23,7 +25,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 108 lines, Max: 80)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 90,
+        "rangeEnd": 219
       }
     ]
   },
@@ -37,7 +41,9 @@
         "column": 3,
         "severity": "WARN",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 104 lines, Max: 80)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 145,
+        "rangeEnd": 265
       }
     ]
   },
@@ -51,7 +57,9 @@
         "column": 3,
         "severity": "WARN",
         "message": "Method 'aboutCardView' is too long. Consider refactoring. (Current: 115 lines, Max: 80)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 68,
+        "rangeEnd": 194
       }
     ]
   },
@@ -65,7 +73,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 148 lines, Max: 120)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 26,
+        "rangeEnd": 194
       }
     ]
   },
@@ -79,7 +89,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 161 lines, Max: 120)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 233,
+        "rangeEnd": 415
       }
     ]
   },
@@ -93,7 +105,9 @@
         "column": 3,
         "severity": "WARN",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 116 lines, Max: 80)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 7,
+        "rangeEnd": 152
       }
     ]
   },
@@ -107,7 +121,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 176 lines, Max: 120)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 29,
+        "rangeEnd": 244
       }
     ]
   },
@@ -121,7 +137,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 151 lines, Max: 120)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 37,
+        "rangeEnd": 226
       }
     ]
   },
@@ -135,7 +153,9 @@
         "column": 3,
         "severity": "WARN",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 94 lines, Max: 80)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 42,
+        "rangeEnd": 161
       }
     ]
   },
@@ -145,11 +165,13 @@
     "commitHash": "37fedd6f29f14a6dc6ec41252556d309ffcbd8db",
     "messages": [
       {
-        "line": 230,
+        "line": 235,
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'onTabSwiperAttributeChange' is too long. Consider refactoring. (Current: 125 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 235,
+        "rangeEnd": 304
       }
     ]
   },
@@ -163,7 +185,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'initDataByIsCovered' is too long. Consider refactoring. (Current: 136 statements, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 68,
+        "rangeEnd": 124
       }
     ]
   },
@@ -177,7 +201,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'handleLoginWithHuaweiIDButton' is too long. Consider refactoring. (Current: 55 lines, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 103,
+        "rangeEnd": 179
       }
     ]
   },
@@ -191,7 +217,9 @@
         "column": 3,
         "severity": "ERROR",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 150 lines, Max: 120)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 128,
+        "rangeEnd": 308
       }
     ]
   },
@@ -205,7 +233,9 @@
         "column": 3,
         "severity": "ERROR",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 292 lines, Max: 120)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 257,
+        "rangeEnd": 633
       }
     ]
   },
@@ -219,7 +249,9 @@
         "column": 34,
         "severity": "ERROR",
         "message": "Method '%AM19$goodPkgComp' is too long. Consider refactoring. (Current: 77 lines, Max: 50)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 287,
+        "rangeEnd": 389
       }
     ]
   },
@@ -233,7 +265,9 @@
         "column": 3,
         "severity": "SUGGESTION",
         "message": "Method 'build' is too long. Consider refactoring. (Current: 82 lines, Max: 80)",
-        "rule": "@extrulesproject/long-method-check"
+        "rule": "@extrulesproject/long-method-check",
+        "rangeStart": 54,
+        "rangeEnd": 149
       }
     ]
   }
