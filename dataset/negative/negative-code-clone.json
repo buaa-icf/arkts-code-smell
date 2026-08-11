@@ -476,19 +476,19 @@
     ]
   },
   {
-    "filePath": "openharmony_tpc_samples/textEncodingDemo/entry/src/ohosTest/ets/test/TextEncoding.test.ets",
+    "filePath": "openharmony_tpc_samples/dialogs/library/src/main/ets/components/model/LoadingDialogModel.ets",
     "sourceProject": "openharmony_tpc_samples",
-    "commitHash": "1b9b2927e4ad13b941962e85a390f0d9018cf94f",
+    "commitHash": "c0e4f8adca115f53a5081f59c2fb3d72bb7aeb8b",
     "messages": [
       {
-        "line": 28,
+        "line": 154,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'textEncodingTest' has 140963 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: method 'onDraw' has 611 normalized tokens and was not reported by the code clone scan.",
         "rule": "@extrulesproject/code-clone-fragment-check",
-        "rangeStart": 28,
-        "rangeEnd": 162,
-        "negativeReason": "method 'textEncodingTest' has 140963 normalized tokens and was not reported by the code clone scan."
+        "rangeStart": 154,
+        "rangeEnd": 233,
+        "negativeReason": "method 'onDraw' has 611 normalized tokens and was not reported by the code clone scan. It computes one loading indicator's dynamic or static arc from the model's own animation state; the two branches represent mutually exclusive rendering modes, and the retained full-repository scan contains no matching 100-token clone fragment."
       }
     ]
   },

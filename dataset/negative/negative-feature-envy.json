@@ -214,19 +214,19 @@
     ]
   },
   {
-    "filePath": "cases/CommonAppDevelopment/feature/miniplayeranimation/src/main/ets/model/DetailsPage.ets",
+    "filePath": "cases/CommonAppDevelopment/feature/mapthumbtack/src/main/ets/components/AddressPopUpComponent.ets",
     "sourceProject": "cases",
-    "commitHash": "0d38dc14920763a7e47dd4057d1146f9988a6090",
+    "commitHash": "a9dba4362426fdf70e3d8324420add37b0501bbe",
     "messages": [
       {
-        "line": 118,
+        "line": 44,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Feature Envy: method 'build' accesses external receiver 'animationInfo' 69 times, but its metrics stay outside the envy rule (ATFD=115, LDA=0.39, CPFD=11; thresholds: ATFD>4, LDA<0.33, CPFD<=2).",
+        "message": "Negative candidate for Feature Envy: method 'calculateTextCompWidth' accesses external receiver 'AddressPopupCommonConstants' 8 times, but only reads stateless layout constants while performing the current component's text-width calculation.",
         "rule": "@extrulesproject/feature-envy-check",
-        "rangeStart": 118,
-        "rangeEnd": 302,
-        "negativeReason": "method 'build' accesses external receiver 'animationInfo' 69 times, but its metrics stay outside the envy rule (ATFD=115, LDA=0.39, CPFD=11; thresholds: ATFD>4, LDA<0.33, CPFD<=2). The builder uses animationInfo as declarative animation configuration while it owns the page layout and interaction callbacks."
+        "rangeStart": 44,
+        "rangeEnd": 65,
+        "negativeReason": "method 'calculateTextCompWidth' accesses external receiver 'AddressPopupCommonConstants' 8 times. That receiver is a stateless constants holder rather than an object whose data or behavior the method envies; the method measures text and applies the popup component's own width policy, so moving it to the constants class would be semantically incorrect."
       }
     ]
   },
