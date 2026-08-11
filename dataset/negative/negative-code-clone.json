@@ -8,11 +8,11 @@
         "line": 244,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'createUserFileManager' has 181 normalized tokens; current retained source review found no semantically duplicated implementation.",
+        "message": "Negative candidate for Code Clone: method 'createUserFileManager' is a compatibility adapter with no semantically duplicated implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 244,
         "rangeEnd": 265,
-        "negativeReason": "method 'createUserFileManager' has 181 normalized tokens; current retained source review found no semantically duplicated implementation."
+        "negativeReason": "createUserFileManager constructs one compatibility adapter. Its getPhotoAssets, getAlbums, change-listener and release members delegate different API operations; their shared forwarding shape comes from implementing one interface and is not a repeated implementation that should be extracted."
       }
     ]
   },
@@ -42,11 +42,11 @@
         "line": 129,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' has 678 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: OrderDetailPage.build composes distinct order-detail sections rather than duplicating one implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 129,
         "rangeEnd": 440,
-        "negativeReason": "method 'build' has 678 normalized tokens and was not reported by the code clone scan."
+        "negativeReason": "OrderDetailPage.build assembles one page from functionally different sections: payment status and countdown, flight itinerary, passenger list, contact information and lifecycle loading. Repeated ArkUI styling calls are local presentation conventions; no two substantial sections implement the same behavior or form a reusable duplicated block."
       }
     ]
   },
@@ -110,11 +110,11 @@
         "line": 80,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'translatePixelMap' has 150 normalized tokens; current retained source review found no semantically duplicated implementation.",
+        "message": "Negative candidate for Code Clone: translatePixelMap is one linear image-conversion pipeline without duplicated branches.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 80,
         "rangeEnd": 99,
-        "negativeReason": "method 'translatePixelMap' has 150 normalized tokens; current retained source review found no semantically duplicated implementation."
+        "negativeReason": "translatePixelMap performs one linear conversion pipeline: reject a no-op orientation, calculate swapped dimensions, render once to an off-screen canvas, release the old pixel map and update the wrapper. These are complementary stages of one transformation rather than duplicated branches or duplicated methods."
       }
     ]
   },
@@ -212,11 +212,11 @@
         "line": 170,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' has 440 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: openVpnEdit.build composes distinct OpenVPN fields through reusable components.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 170,
         "rangeEnd": 345,
-        "negativeReason": "method 'build' has 440 normalized tokens and was not reported by the code clone scan."
+        "negativeReason": "openVpnEdit.build defines one OpenVPN editor whose rows represent different fields and certificate selectors, with different state bindings, validation callbacks and configuration targets. Repeated uses of TextWithInput and Selector are calls to reusable components, not copied implementations of the same field-handling logic."
       }
     ]
   },
@@ -246,11 +246,11 @@
         "line": 51,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: storage.build combines a capacity summary and a category list with different responsibilities.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 51,
         "rangeEnd": 179,
-        "negativeReason": "method 'build' was not reported by the code clone scan."
+        "negativeReason": "storage.build combines one ring-capacity summary with one data-driven storage-category list. The two regions present different data through different structures; repeated size, color and spacing modifiers are ordinary ArkUI styling and do not reproduce the same behavior in separate blocks."
       }
     ]
   },
@@ -280,11 +280,11 @@
         "line": 128,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' has 806 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: ImageItemView.build implements distinct gesture transitions rather than cloned handlers.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 128,
         "rangeEnd": 252,
-        "negativeReason": "method 'build' has 806 normalized tokens and was not reported by the code clone scan."
+        "negativeReason": "ImageItemView.build coordinates distinct image interactions: double-tap zoom or reset, single-tap background switching, pinch scaling with bounds correction and pan offset updates. Some handlers touch the same image state because they cooperate on one interaction model, but they implement different gesture transitions rather than copied handler bodies."
       }
     ]
   },
@@ -297,11 +297,11 @@
         "line": 103,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'initRdb' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation.",
+        "message": "Negative candidate for Code Clone: initRdb is one guarded database-initialization sequence without duplicated database logic.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 103,
         "rangeEnd": 125,
-        "negativeReason": "method 'initRdb' was manually reviewed in the current stage2 retained source and contains no semantically duplicated implementation."
+        "negativeReason": "initRdb is one guarded database-initialization sequence: obtain the store, create the search table and report failure. Its logging statements describe different initialization stages, while the store acquisition and table creation are different operations, so the method contains no duplicated database implementation."
       }
     ]
   },
@@ -399,11 +399,11 @@
         "line": 36,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: method 'build' has 451 normalized tokens and was not reported by the code clone scan.",
+        "message": "Negative candidate for Code Clone: OrderListContent.build composes different order-list states and actions without a substantial cloned block.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 36,
         "rangeEnd": 189,
-        "negativeReason": "method 'build' has 451 normalized tokens and was not reported by the code clone scan."
+        "negativeReason": "OrderListContent.build creates one order list with filtering, an empty-state alternative, per-order details, status-specific actions and a recommendation section. The pay and confirm buttons share a short visual skeleton, but they dispatch different order transitions and are too small to constitute a substantial cloned implementation."
       }
     ]
   },
@@ -603,11 +603,11 @@
         "line": 412,
         "column": 0,
         "severity": "SUGGESTION",
-        "message": "Negative candidate for Code Clone: fragment 'ScheduleForm.ets:412-428' does not form a 100-token exact normalized clone with its annotated counterpart in this scan.",
+        "message": "Negative candidate for Code Clone: ScheduleForm.ets:412-428 is one short time-field row, not a substantial cloned implementation.",
         "rule": "@extrulesproject/code-clone-fragment-check",
         "rangeStart": 412,
         "rangeEnd": 428,
-        "negativeReason": "fragment 'ScheduleForm.ets:412-428' does not form a 100-token exact normalized clone with its annotated counterpart in this scan."
+        "negativeReason": "Lines 412-428 form one short start-time row containing a value, arrow, layout modifiers and click binding. It resembles the neighboring time-field presentation because both follow the same form design, but it does not repeat a substantial independent behavior block and remains below the rule's 100-normalized-token clone size."
       }
     ]
   },
